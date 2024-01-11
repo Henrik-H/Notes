@@ -9,22 +9,11 @@
 
 ##### Compiler vs Interpreter
 
-```mermaid
-%%{init: {"flowchart": {"defaultRenderer": "elk"}} }%%
-flowchart TD
-    a1(Problemnahes Programm
-	z.B. C, C++) --> b1(Compiler) --> c1(Maschinennahes
-	Programm) --> d1(Prozess)
+Problemnahes Programm z.B. Javascript -> Interpreter -> Prozess
 
-	a2(Problemnahes Programm
-	z.B. Java, Python) --> b2(Compiler) --> c2(Maschinennahes
-	Programm
-	Bytecode) --> d2(Interpreter
-	Virtual Machine) --> e2(Prozess)
+Problemnahes Programm z.B. C, C++ -> Compiler -> Maschinennahes Programm -> Prozess
 
-	a3(Problemnahes Programm
-	z.B. Javascript) --> b3(Interpreter) --> c3(Prozess)
-```
+Problemnahes Programm z.B. Java, Python -> Compiler -> Maschienennahes Programm (Bytecode) -> Interpreter (Virtual Machine) -> Prozess
 
 |               | Compilersprachen                          | Interpretersprachen                        |
 | ------------- | ----------------------------------------- | ------------------------------------------ |
@@ -236,7 +225,7 @@ zahl = 0
 
 while zahl < 5:
 	print(zahl, end=', ')
-	i += 1
+	zahl += 1
 ```
 > 0, 1, 2, 3, 4,
 ##### for
@@ -274,7 +263,7 @@ for zahl in range(10):
 		continue
 	print(zahl, end=", ")
 ```
->0, 1, 2, 3, 4, 6, 7, 8, 9
+>0, 1, 2, 3, 4, 6, 7, 8, 9,
 
 ##### try-except-finally
 
@@ -502,13 +491,6 @@ for key in scores.keys():
 #1111
 #9351
 
-for value in scores:
-	print(value)
-#Output:
-#0.42
-#0.23
-#0.91
-
 scores.pop(1111, 0.23)
 print(scores)
 #Output: {3654: 0.42, 9351: 0.91}
@@ -600,6 +582,7 @@ Auf die Klassenfunktionen und Variablen können wie folgt zugegriffen werden:
 ```python
 car1.shift(2)
 print(car1.gear)
+#Output: 2
 ```
 > "shift" ist eine Methode der Klasse Car
 > "gear" ist eine Variable der Klass Car
