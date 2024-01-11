@@ -1,13 +1,13 @@
 ## Programmiersprachen Grundlagen
 
-##### Algorithmus, Sprache und Programm
+#### Algorithmus, Sprache und Programm
 
 >Programme sind für einen Prozessor gefasste Verarbeitungsvorschriften, die bestimmen, was der Computer in welcher Reihenfolge wie oft tun soll, wenn das Programm ausgeführt wird. 
 >Solche Verarbeitungsvorschriften nennt man im Allgemeinen „Algorithmen“.
 
 > Die von einem Computer verstandene, sprachliche Form eines Algorithmus nennt man ein Programm.
 
-##### Compiler vs Interpreter
+#### Compiler vs Interpreter
 
 Problemnahes Programm z.B. Javascript -> Interpreter -> Prozess
 
@@ -26,7 +26,7 @@ Problemnahes Programm z.B. Java, Python -> Compiler -> Maschienennahes Programm 
 
 
 ## Variablen
-##### Definition und Datentypen
+#### Definition und Datentypen
 
 > Eine Variable ist eine benannte Referenz auf ein Datenelement.
 
@@ -37,7 +37,7 @@ Problemnahes Programm z.B. Java, Python -> Compiler -> Maschienennahes Programm 
 | set, frozenset | Mengen |
 | dict | Mapping |
 | bool | Wahrheitswert |
-##### Beispiele 
+#### Beispiele
 | Datentyp | Literal |
 | ---- | ---- |
 | int | 35 |
@@ -48,7 +48,7 @@ Problemnahes Programm z.B. Java, Python -> Compiler -> Maschienennahes Programm 
 | tuple | (5,2,67,2) |
 | set | {6,2,65,7} |
 | dict | {"Uni":"Hdm", "Semester":1} |
-##### Type Conversion
+#### Type Conversion
 
 Implizite Type Conversion
 ```python
@@ -74,7 +74,7 @@ print(s)
 ```
 ## Operatoren
 
-##### Arithmetisch
+#### Arithmetisch
 | Operator | Beschreibung |
 | ---- | ---- |
 | x + y | Addition |
@@ -85,7 +85,7 @@ print(s)
 | x / y | Division |
 | x // y | Ganzzahl Division (ohne Rest) |
 | x % y | Modulo-Operator (Rest der Division von x und y) |
-##### Vergleich
+#### Vergleich
 | Operator | Beschreibung |
 | ---- | ---- |
 | x < y | kleiner |
@@ -96,7 +96,7 @@ print(s)
 | x != y | ungleich |
 | x is y | identisch |
 | x is not y | nicht identisch |
-##### Logisch
+#### Logisch
 | Operator | Beschreibung |
 | ---- | ---- |
 | x and y | wenn beide True |
@@ -105,7 +105,7 @@ print(s)
 
 ## Funktionen
 
-##### Definition 
+#### Definition
 
 >Eine Funktion stellt ein Unterprogramm (auch Prozedur oder engl.: subroutine) dar.
 
@@ -115,7 +115,7 @@ print(s)
 > Unterprogramme können selbst wiederum aus Unterprogrammen bestehen.
 
 
-##### Aufbau
+#### Aufbau
 
  - def; Schlüsselwort um eine Funktion zu definieren
  - Name der Funktion
@@ -123,7 +123,7 @@ print(s)
  - :
  - Anweisungen eingerückt mit *tab* oder *4 leerzeichen*
  - "return" gibt das Ergebnis zurück
-##### Beispiel
+#### Beispiel
 
 ```python
 def Name(x,y):
@@ -131,7 +131,7 @@ def Name(x,y):
 ``` 
 ## Kontrollfluss
 
-##### Definition
+#### Definition
 
 > Programmieren heißt, Anweisungen in einer Datei abzulegen.
 
@@ -142,7 +142,7 @@ def Name(x,y):
 > - Anweisungen wiederholt ausführen
 > - den normalen Ablauf auf andere Weise beeinflussen
 
-##### Aufbau
+#### Aufbau
 
 Allgemeine Form einer Kontrollfluss-Anweisung:
 ~~~python
@@ -152,7 +152,7 @@ control flow statement details:
 ~~~
 (Wie bei Funktionen werden Statements mit einem *tab* oder *4 Leerzeichen* eingerückt)
 
-##### Arten
+#### Arten
 | Typ | Keyword |
 | ---- | ---- |
 | Schleifen | while, for |
@@ -161,7 +161,7 @@ control flow statement details:
 | Verzweigung | break, continue, return |
 
 
-##### if
+#### if
 
 > if führt die Statements *nur dann* aus wenn die Beingung erfüllt ist.
 ```python
@@ -171,7 +171,7 @@ if zahl > 4:
 	print("größer 4:" + str(zahl))
 ```
 > größer 4: 4.5
-##### else
+#### else
 
 >Statements in else werden *nur dann* ausgeführt, wenn die vorherige if nicht ausgeführt wurde.
 ```python
@@ -183,7 +183,7 @@ else:
 	print("kleiner 4:" + str(zahl))
 ```
 > kleiner 4: 3.2
-##### elif
+#### elif
 
 >Statements in elif werden *nur dann* ausgeführt, wenn die vorherige if (oder elif) nicht ausgeführt wurde *und* die Bedingung erfüllt ist.
 ```python
@@ -199,7 +199,7 @@ else:
 > exakt 2: 2.0
 
 
-##### range()
+#### range()
 
 > range() "gehöhrt" nicht zum Kontrollfluss, es ist eine Eingebaute Funktion.
 > Es ist hier da sie oft in Schleifen genutzt wird (siehe Kapitel *for* später).
@@ -217,7 +217,7 @@ z: um wieviel es hoch gehen soll pro schritt
 
  range(2,11,2): (2,4,6,8,10)
  range(0,-6,-1): (0,-1,-2,-3,-4,-5)
-##### while
+#### while
 
 >while wiederhohlt die Statements bis die Bedingung nicht mehr efüllt ist.
 ```python
@@ -228,7 +228,7 @@ while zahl < 5:
 	zahl += 1
 ```
 > 0, 1, 2, 3, 4,
-##### for
+#### for
 
 >for widerholt die Statements und geht dabei die Angegebene Sequenz durch, so lange bis die gesamte Sequenz einmal durchgegangen wurde
 
@@ -239,7 +239,7 @@ for zahl in range(5):
 ```
 >0, 1, 2, 3, 4,
 
-##### break
+#### break
 
 > break unterbricht Schleifen
 
@@ -253,7 +253,7 @@ for zahl in range(100):
 
 da das "break"-Statement *vor* dem "print"-Statement ist, wird "10" nicht ausgegeben.
 
-##### continue
+#### continue
 
 > Überspringt die jetztige Iteration und fährt mit der nächsten weiter.
 
@@ -265,7 +265,7 @@ for zahl in range(10):
 ```
 >0, 1, 2, 3, 4, 6, 7, 8, 9,
 
-##### try-except-finally
+#### try-except-finally
 
 >"try" führt Statements aus solang keine "Exceptions" (Fehler; aber auch absichtlich mit "raise") geworfen werden.
 
@@ -292,7 +292,7 @@ In dem Fall wird except nur ausgeführt wenn genau dieser Fehler auftritt.
 
 ## Collections
 
-##### Definition und Übersicht
+#### Definition und Übersicht
 
 >Collections sind Sammlungen von Daten
 
@@ -304,7 +304,7 @@ In dem Fall wird except nur ausgeführt wenn genau dieser Fehler auftritt.
 | immutable(unveränderbare) Sequence | tange | range(10) |
 | Mapping | dict | {"Uni":"Hdm", "Semester":1} |
 | Set | set | {1,2,3,12,15} |
-##### Operatoren für Sequenzen 
+#### Operatoren für Sequenzen
 
 in den Beispielen:
 x: Sequenz
@@ -324,7 +324,7 @@ m: andere Nummer
 | min(x) | Kleinstes Element von x |
 | max(x) | Größtes Element von x |
 | x.count(n) | Wie of n in x enthalten ist |
-##### Operatoren für veränderliche Sequenzen (Listen)
+#### Operatoren für veränderliche Sequenzen (Listen)
 
 | Operator | Beschreibung |
 | ---- | ---- |
@@ -342,7 +342,7 @@ m: andere Nummer
 | x.remove(n) | Enfernt das erste n in x |
 | x.reverse() | Umdrehen der Reihenfolge |
 
-##### Strings
+#### Strings
 
 > Zeichenketten (Strings) sind Instanzen der Klasse str.
 > Nach Instantiierung können Strings nicht mehr verändert werden! 
@@ -379,7 +379,7 @@ print(s[:3])
 #Ein Slice vom String bis index 3
 ~~~
 
-##### Listen
+#### Listen
 
 > Listen können Referenzen auf Objekte beliebigen Typs enthalten.
 
@@ -412,7 +412,7 @@ print(l)
 #Output: [1, 2, 3, 4, 5, 10, 20, 100, 1, 2]
 ```
 
-##### Tupel
+#### Tupel
 
 > Tupel sind wie Listen nur nichtänderbar (immutable)
 
@@ -437,7 +437,7 @@ print(n, m)
 #Output: 10 20
 ```
 
-##### Dictionaries
+#### Dictionaries
 
 > Dictionaries sind Mppings welche aus Key-Value Paaren bestehen
 
@@ -504,13 +504,13 @@ print(c)
 
 ## Objektorientiertes Programmieren
 
-##### Definitionen
+#### Definitionen
 | Name | Beschreibung |
 | ---- | ---- |
 | Objekt (object) | Ein Software-Objekt bestehend aus Attributen und Methoden. |
 | Klasse (class) | Die Schablone für Objekte mit derselben Struktur und demselben Verhalten. |
 | Vererbung (inheritance) | Eine Klasse erbt Struktur und Verhalten von ihren Oberklassen. |
-##### Struktur
+#### Struktur
 
 > Ein Objekt hat Attribute und Methoden / Funktionen
 
@@ -524,7 +524,7 @@ Attribute:
 Methoden / Funktionen:
  - Schalten
  - Bremsen
-##### Beispiel
+#### Beispiel
 
 ~~~python
 # Start der neuen Klasse "Car" (Das ist dann die "Schablone" für jede neue Insanz eines Autos)
@@ -569,7 +569,7 @@ car2.shift(2)
 car2.change_rpm(4000) 
 car2.shift(3)
 ~~~
-##### Instantiierung
+#### Instantiierung
 
 Wie oben gezeigt werden Insanzen einer Klasse wie folgt erstellt:
 ~~~python
@@ -586,7 +586,7 @@ print(car1.gear)
 ```
 > "shift" ist eine Methode der Klasse Car
 > "gear" ist eine Variable der Klass Car
-##### Decorators und pass
+#### Decorators und pass
 
 Decorators werden mit einem "@" über einer Methode angegeben.
 Mit dem Decorator "@staticmethod" oder "@classmethod" können Klassenmethoden innerhalb Klassen angegeben werden.
@@ -614,7 +614,7 @@ class NewClass:
 Weil es einer aus dem höheren Semester erwähnt hat:
 mit "pass" kann man dann die "kleinsten" Methoden, Klassen, usw. machen, falls das gefragt wird.
 
-##### Zugriffsangaben
+#### Zugriffsangaben
 
 > Es sollte von aussen nicht auf Klassenvariablen und Funktionen zugegriffen werden, welche mit Unterstrichen markiert sind, wie die \_\_init\_\_ Methode zum Beispiel.
 
@@ -625,7 +625,7 @@ mit "pass" kann man dann die "kleinsten" Methoden, Klassen, usw. machen, falls d
 | public | self.x | keine |
 | protected | self.\_x\_ | darf aus der eigenen Klasse und Subklassen zugegriffen werden |
 | private | self.\_\_x\_\_ | darf *nur* aus der eigenen Klasse zugegriffen werden  |
-##### Special Methods
+#### Special Methods
 
 > Special Methods sind schon in python eingebaute Methoden die aber überschrieben werden können.
 
@@ -647,7 +647,7 @@ Beispiele (nicht alle angegeben):
 |  | \_\_init\_\_ |
 | del() | \_\_del\_\_ |
 | len() | \_\_len\_\_ |
-##### Vererbung
+#### Vererbung
 
 >Eine Klasse, die von einer anderen Klasse abgeleitet wird, wird Subklasse (subclass, abgeleitete Klasse, erweiterte Klasse, Unterklasse, Kindklasse) genannt.
 
@@ -690,7 +690,7 @@ class Electric_Car(Car):
 ```
 > Da Klasse "Electric_Car" von der Klasse "Car" erbt hat diese auch zugrieff auf die Methoden von "Car" wie z.B. "set_range". 
 
-##### Abstrakte Klassen
+#### Abstrakte Klassen
 
 > Abstrakte Klassen dienen als erweiterbare Klassen (Superklassen), deren Methoden ergänzt oder überschrieben werden sollen.
 
