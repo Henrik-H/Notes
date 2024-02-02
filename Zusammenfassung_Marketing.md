@@ -1,6 +1,6 @@
 # Kommunikationspolitik
 
-#### Definition
+## Definition
 
 >Kommunikationspolitik ist die Gestaltung aller auf den Markt gerchtteten Informationen unter anderem über:
 >- Produkte
@@ -8,7 +8,7 @@
 >- Unternehmen selber
 >Das Ziel ist es den Markt über die eigenen Angebot zu informieren.
 
-#### Anlässe und Ziele
+## Anlässe und Ziele
 
 - Fortdauernder Anlass:
 	  Unternehmen müssen Kunden kuntinuierlich über ihr Leistungsangebot informeiren.
@@ -25,7 +25,7 @@ Die Ziele hängen vom konkreten Anlass ab
 - Neuer Markt: Aufmerksamkeit
 - etabliertes Angebot: bestimmtes Kaufverhalten von Kunden
 
-#### AIDA
+## AIDA
 
 **A**ttention
 	Aufmerksamkeit auf das Produkt lenken, über das Produkt bekannt machen
@@ -36,7 +36,7 @@ Die Ziele hängen vom konkreten Anlass ab
 **A**ction
 	Kunden die nötigen Informationen (Website, Preis) geben um zu Kaufen
 
-#### Kommunikatrionspolitische Effektivität und Effizienz
+## Kommunikatrionspolitische Effektivität und Effizienz
 
 Kommunikationseffektivität:
 	Auswahl von Kommunikationsinstrumenten mit einem begrenzten Budget um eine maximale Wirkung zu erreichen. Die Kommunikationsinstrumente müssen hinsichtlich Auswahl und Einsatz aufeinander abgestimmt werden (intigrierte Kommunikation).
@@ -46,12 +46,12 @@ Kommunikationseffizienz:
 
 # Distributionspolitik
 
-#### Definition
+## Definition
 
 >50er und 60er Hauptfokus auf Verteilungsaufgaben und Distributionslogistik.
 >Später weitere Aufgabe: marktgerichtete akquisitorische Aktivitäten (Abschluss von Kaufverträgen unterstützen)
 
-#### Direkter und Indirekter Vertrieb
+## Direkter und Indirekter Vertrieb
 
 >Direktvertrieb ist der perrsönliche Verkauf von Waren und Dienstleistungen. Wichtig ist da der persönliche Kontakt zwischen Anbieter und Kunde, für beidseitigen Informationsaustausch und direkte Beratung.
 
@@ -66,7 +66,8 @@ Außerdem können individuelle Verkaufsbedingungen ausgehandelt werden und langf
 Indirekter Vertrieb:
 >Vertrieb durch Groß- und Einzelhändler oder Absatzhelfer wie Hanelsvertreter
 
-5 Organe des direkten Vertriebs:
+#### 5 Organe des direkten Vertriebs:
+
 - Außendienst:
 	Außendienstmitarbeiter widmen einen großteil ihrer Arbeitszeit im Außendienst zur Stammkundensicherung und -pflege.
 - Innendienst:
@@ -78,18 +79,18 @@ Indirekter Vertrieb:
 - Internet:
 	Durch das riesige wachstum in den letzten Jahrzenten ist das Internet eines der besten Orte zum Vertrieb geworden.
 
-#### Außenvertrieb
+## Außenvertrieb
 |  | Eigenverkauf mit Außendienstmitarbeitern | Verkauf über Handelsvertreter |
 | ---- | ---- | ---- |
 | Vorteile | - verkauft nur eigene Produkte<br>- direkt motivierbar<br>- kann gut über eigene Produkte ausgebildet werden<br>- vertritt die eigene Firma | - niedrige Kosten<br>- großes Gebiet schnell erschließbar<br>- flexibler Einsatz<br>- bei Erschließung eines neuen Markts sofortiges Insiderwissen |
 | Nachteile | - hohe Kosten<br>- lange Aufbauzeit<br>- unflexible Reaktionsmöglichkeiten auf Absatzrückgäge | - Kontrolle und Schulung nur bedingt möglich<br>- Verkauft auch evt. Produkte anderer Hersteller<br>- ggf. unterschiedliche Ziele<br>- weniger and Kundenzufriedenheit interessiert |
-#### E-Commerce
+## E-Commerce
 | Vorteile | Nachteile |
 | ---- | ---- |
 | - direkte Kontaktaufnahme ohne Zwischenhändler<br>- Produkte müssen nicht physisch vorhanden sein<br>- individuelles Marketing besser zu realisieren<br>- bessere Datengewinnung<br>- immer verfügbar<br>- sofortige Angebotsaktualisierung<br>- Kunde kann in Auftragsentwichlung eingebunden werden | - kann nicht in allen Fällen das persönliche Gespräch ersetzen<br>- Konditionsverhandlungen nicht möglich<br>- Preisdifferenzierung nicht möglich<br>- Wettbewerbssituation nur allgemein bekannt<br>- Struktur der Einkäufer nur schwer erkennbar<br>- geringeres Servicelevel für Kunden |
-#### Verkäuferkompetenzen
+## Verkäuferkompetenzen
 
-Fach- und Methodenkompetzenz:
+#### Fach- und Methodenkompetzenz:
 - Markt- und Produktkenntnisse
 - Kenntnis der Entscheidungsprozesse und Beteiligten
 - betriebswirtschaftliche Kenntnisse
@@ -98,13 +99,13 @@ Fach- und Methodenkompetzenz:
 - Analysefähigkeit
 - planerische Fähigkeiten und Selbstorganisation
 
-Sozialkompetenz:
+#### Sozialkompetenz:
 - Kommunikations-, Begeisterungs- und Wahrnehmungsfähigkeit
 - Freundlichkeit, Kritikfähigkeit und Humor
 - Flexibilität und Kompromissfähigkeit
 - Team- und Kooperationsfähigkeit
 
-Persönlichkeitsmerkmale:
+#### Persönlichkeitsmerkmale:
 - Kontaktfreudigkeit, Offenheit und Initiativkraft
 - Optimismus
 - Selbstvertrauen, Selbstwertgefühl und Durchsetzungsvermögen
@@ -112,7 +113,7 @@ Persönlichkeitsmerkmale:
 - Verantwortungs- und Leistungsbereitschaft sowie Belastbarkeit
 - Kreativität und Improvisationsgabe
 - Lernfähigkeit
-#### Betriebsformen des Einzelhandels
+## Betriebsformen des Einzelhandels
 
 - Einkaufszentren
 - Fachhandel
@@ -127,15 +128,15 @@ Persönlichkeitsmerkmale:
 - Freiwillige Ketten/Einzelhandelsring
 - Einkaufsgenossenschaften
 
-#### Push- und Pull-Ansatz
+## Push- und Pull-Ansatz
 | Push | Pull |
 | ---- | ---- |
 | Druckerzeugung | Sogerzeugung |
 | Absatzmittlerstimulierung durch<br>Vorzug im Verkaufsortiment | indirekte Absatzmittlerstimulierung <br>über den Endkunden |
 | - Rabatte<br>- Prämien<br>- Webemittelunterstützung<br>- Gemeinschaftswerbeaktionen | - Sprungwerbung<br>- Handel kann es sich nicht leisten<br>das Produkt nicht im Sortiment zu haben |
-#### Multi Channel Managent
+## Multi Channel Managent
 
-Vorteile:
+#### Vorteile:
  - höhere Marktabdeckung
  - kundengerechte Ansprache
  - Wirtschaftlichkeit
@@ -143,7 +144,7 @@ Vorteile:
  - Wettbewerbsvorteil
  - Markenpräsentation
 
-Nachteile:
+#### Nachteile:
 - Kundenverwirrung
 - Konflikte zwischen den Kanälen
 - Kontrollverlust
@@ -151,7 +152,7 @@ Nachteile:
 - hohe Investitionskosten
 - Gefahr des Know-how-Abflusses
 
-#### Vertikale Distributionsstrukturen
+## Vertikale Distributionsstrukturen
 
 >Die vertikale Distributionsstruktur bezieht sich auf die Anzahl der Distributitions- bzw. Lagerstufen.
 
@@ -161,11 +162,11 @@ Vertikale Distributionsstrukturen (von fern bis nah am Kunden):
 - Regionallager
 - Auslieferungslager
 # Preispolitik
-#### Definition
+## Definition
 
 >Alle unternehmischeren Maßnahmen welche die direkte oder indirekte monetären Gegenleistungen der Käufer beinhalten.
 
-#### Faktoren
+## Faktoren
 
 Internationalisierung:
 - starke Internationalisierung hat großen Einfluss auf die Preise
@@ -184,7 +185,7 @@ Veränderung rechtlicher Rahmenbedingungen:
  - Rabattgesetz (strenge Grenzen für Rabatte) 2001 außer Kraft gesetzt
  - insgesamt preispolitische Restriktionen abgeschwächt
 
-#### Abblidungen zu Preissituationen
+## Abblidungen zu Preissituationen
 (Beispiele)
 
 | Situation 1 | Situation 2 | Situation 3 |
@@ -192,6 +193,7 @@ Veränderung rechtlicher Rahmenbedingungen:
 | Zalungsbereitschaft<br>des Kunden | Wettbewerbspreis | Zalungsbereitschaft<br>des Kunden |
 | Wettbewerbspreis | Zalungsbereitschaft<br>des Kunden | Kosten |
 | Kosten | Kosten | Wettbewerbspreis |
+
 Situation 1:
 Der Kunde ist nur bereit einen Preis ähnlich zu dem Wettbewerbspreis zu zahlen, wenn auch die Leistung ähnlich zum Wettbewerb ist.
 Preisorientierung: Wettbewerbspreis
@@ -204,7 +206,7 @@ Situation 3:
 Da die Kosten über dem Wettberwerbpreis liegen könnte es möglich sein das das Produkt nicht profitabel Herstellbar ist.
 Preisorientierung: Kosten
 
-#### Preisfindung
+## Preisfindung
 
 1. Cost Plus-Pricing
 	Preis wird an den Herstellungskosten + einem Aufschlag berechnet.
@@ -218,7 +220,7 @@ Preisorientierung: Kosten
 	Ermittelt an nachfragerseitigen Informationen zur Zahlungsbereitschaft und den preispolitischen Faktoren.
 	Die funktionale Beziehung zwischen dem Preis für die Leistung und die Absatzmenge wird mit der Preis-Absatz-Funktion bestimmt.
 
-#### Arten der Preisdifferenzierung
+## Arten der Preisdifferenzierung
 
 - Zeitliche Preisdifferenzierung (z.B. TEE Plan & Spar der Deutschen Bank)
 	  unterschieldicher PReise in Abhängigkeit vom Kaufzeitpunkt
@@ -235,7 +237,7 @@ Preisorientierung: Kosten
 - Quantitative Preisdifferenzierung (z.B. Gruppenticketrabatt der Deutschen Bahn)
 	  Mengenrabatte
 
-#### Preisdifferenzierung nach Pigou
+## Preisdifferenzierung nach Pigou
 
 Erster Grad:
 Ziel ist es genau den Preis zu erzielen, welcher der maximaler Preisbereitschaft der Kunden entspricht.
@@ -249,11 +251,11 @@ Dritter Grad:
 Es gibt wie beim zweiten grad verschidene Preissegmente es wird aber dem Kunden nicht selbst überlassen.
 Diese Grad tritt bei der personellen, räumlichen und zeitlichen Preisdifferenzierung auf.
 
-#### Preisabsatzfunktion
+## Preisabsatzfunktion
 | Produktpreise | Produkt 1<br>1,60€‎ | Produkt 2<br>1,80€‎ |
 | ---- | ---- | ---- |
 | Nachgefragte<br>Menge | 160 | 140 |
-###### Variante 1:
+### Variante 1:
 Formel:
 $x(p)=a-b \cdot p$
 
@@ -280,7 +282,7 @@ $a=320$
 Funktion aufstellen:
 $x(p)=320-100p$
 
-###### Variante 2:
+### Variante 2:
 Formel:
 $x(p)=x_1+ \frac{(x_2-x_1)}{(p_2-p_1)}\cdot (p-p_1)$
 
@@ -291,11 +293,11 @@ $x(p)=320-100p$
 
 # Produktpolitik
 
-#### Difinition
+## Difinition
 
 > Alle Marketing-Maßnahmen, die auf die Gestaltung der Leistungen eines Unternehmens gerichtet sind.
 
-#### Die drei Bestandteile eines Produkts
+## Die drei Bestandteile eines Produkts
 
 1. Produktkern (Kernnutzen)
 2. Formales Produkt (Marke, Image)
@@ -313,7 +315,7 @@ Verpackungsfunktionen:
 - Anmutungsfunktion (formales Produkt)
 - Gebrauchsfunktion (erweitertes Produkt; z.B. wiederverwendung der Verpackung)
 
-#### Produktlebenszyklus
+## Produktlebenszyklus
 
 Einführungsphase:
  - Produkt kaum bekannt
