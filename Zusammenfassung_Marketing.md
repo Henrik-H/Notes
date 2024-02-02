@@ -297,11 +297,15 @@ $x(p)=320-100p$
 
 ### Variante 2:
 Formel:
+
 $x(p)=x_1+ \frac{(x_2-x_1)}{(p_2-p_1)}\cdot (p-p_1)$
 
 Anwenden der Formel:
+
 $x(p)=160+ \frac{(140-160)}{(1,8-1,6)}\cdot(p-1,6)$
+
 $x(p)= 160 + (-100) \cdot (p - 1,6)$
+
 $x(p)=320-100p$
 
 # Produktpolitik
