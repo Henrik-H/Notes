@@ -1,714 +1,320 @@
-## Programmiersprachen Grundlagen
-
-#### Algorithmus, Sprache und Programm
-
->Programme sind für einen Prozessor gefasste Verarbeitungsvorschriften, die bestimmen, was der Computer in welcher Reihenfolge wie oft tun soll, wenn das Programm ausgeführt wird. 
->Solche Verarbeitungsvorschriften nennt man im Allgemeinen „Algorithmen“.
-
-> Die von einem Computer verstandene, sprachliche Form eines Algorithmus nennt man ein Programm.
-
-#### Compiler vs Interpreter
-
-Problemnahes Programm z.B. Javascript -> Interpreter -> Prozess
-
-Problemnahes Programm z.B. C, C++ -> Compiler -> Maschinennahes Programm -> Prozess
-
-Problemnahes Programm z.B. Java, Python -> Compiler -> Maschienennahes Programm (Bytecode) -> Interpreter (Virtual Machine) -> Prozess
-
-|               | Compilersprachen                          | Interpretersprachen                        |
-| ------------- | ----------------------------------------- | ------------------------------------------ |
-| Autonomie     | Compiler nur für Entwicklung erforderlich | Interpreter auch zur Laufzeit erforderlich |
-| Überprüfungen | intensiv, zeitaufwendig                                          | oberflächlich, wenige                                           |
-| Fehlerbehandlung              | Vokabular, Grammatik, z.T. Semantik zur Compilezeit                                          | Entwicklungsumgebungen, Debugginghilfen zur Laufzeit                                           |
-| Programmausführung              | sehr schnell                                          | etwas langsamer                                           |
-| Programmentwicklung              | etwas mühevoller                                          | direkter                                           |
-| Beispiele              | C, C++, Pascal, Java, Python                                          | Python-Bytecode, Java-Bytecode, Javascript                                           |
-
-
-## Variablen
-#### Definition und Datentypen
-
-> Eine Variable ist eine benannte Referenz auf ein Datenelement.
-
-| Datentyp | Bezeichnung |
-| ---- | ---- |
-| int, float | Zahlen |
-| list, tuple, range, str | Squenz |
-| set, frozenset | Mengen |
-| dict | Mapping |
-| bool | Wahrheitswert |
-#### Beispiele
-| Datentyp | Literal |
-| ---- | ---- |
-| int | 35 |
-| float | 3.124 |
-| bool | True |
-| str | "HdM" |
-| list | [1,235,7,6] |
-| tuple | (5,2,67,2) |
-| set | {6,2,65,7} |
-| dict | {"Uni":"Hdm", "Semester":1} |
-#### Type Conversion
-
-Implizite Type Conversion
-```python
-x = 10
-y = 1.53623
-s = x + y
-# hier werden x(Integer) und y(Float) zu s(Float) zusammengefügt ohne das explizit anzugeben
-
-print(s)
-#Output: 11.53623
-```
-
-Explizite Type Conversion
-```python
-x = 10
-y = "Nummer:"
-
-s = y + str(x)
-# hier wird x explizit zu einem String umgewandelt
-
-print(s)
-#Output: Nummer:10
-```
-## Operatoren
-
-#### Arithmetisch
-| Operator | Beschreibung |
-| ---- | ---- |
-| x + y | Addition |
-| x - y | Subtraktion |
-| -x | Negation |
-| x * y | Multiplikation |
-| x ** y | Exponentiation $x^y$ |
-| x / y | Division |
-| x // y | Ganzzahl Division (ohne Rest) |
-| x % y | Modulo-Operator (Rest der Division von x und y) |
-#### Vergleich
-| Operator | Beschreibung |
-| ---- | ---- |
-| x < y | kleiner |
-| x <= y | kleiner gleich |
-| x > y | größer |
-| x >= y | größer gleich |
-| x == y | gleich |
-| x != y | ungleich |
-| x is y | identisch |
-| x is not y | nicht identisch |
-#### Logisch
-| Operator | Beschreibung |
-| ---- | ---- |
-| x and y | wenn beide True |
-| x or y | wenn x oder y True |
-| not x | wenn x False |
-
-## Funktionen
+# Kommunikationspolitik
 
 #### Definition
 
->Eine Funktion stellt ein Unterprogramm (auch Prozedur oder engl.: subroutine) dar.
+>Kommunikationspolitik ist die Gestaltung aller auf den Markt gerchtteten Informationen unter anderem über:
+>- Produkte
+>- Angebotsformen
+>- Unternehmen selber
+>Das Ziel ist es den Markt über die eigenen Angebot zu informieren.
 
-> Ein Unterprogramm ist ein Teil eines Programms, dass eine Teil-Lösung eines Problems bereitstellt.
-> Das Unterprogramm ist aus anderen Teilen des Programms aufrufbar (meistens durch dessen Namen).
+#### Anlässe und Ziele
 
-> Unterprogramme können selbst wiederum aus Unterprogrammen bestehen.
+- Fortdauernder Anlass:
+	  Unternehmen müssen Kunden kuntinuierlich über ihr Leistungsangebot informeiren.
+	  Hauptziel: beim Kunden "in Erinnerung" gerufen werden, nicht in Vergessenheit geraten.
 
+- spezifische Anlässe:
+	Neuerungen im Unternehmen über die der Markt werden muss.
+	Diese Aktivitäten können in verschiedenen Ausmaßen auftreten:
+	- schwere Herausforderung: neuer Markt wird erschlossen (keine bestehende Kunengruppe)
+	- umfassende Neuerung: neuer Markt wird geschaffen (nicht erschlossen)
+	- weniger umfassende Neuerung: neues Angebot (kein neuer Markt)
 
-#### Aufbau
+Die Ziele hängen vom konkreten Anlass ab
+- Neuer Markt: Aufmerksamkeit
+- etabliertes Angebot: bestimmtes Kaufverhalten von Kunden
 
- - def; Schlüsselwort um eine Funktion zu definieren
- - Name der Funktion
- - In Klammern die Liste der Parameter
- - :
- - Anweisungen eingerückt mit *tab* oder *4 leerzeichen*
- - "return" gibt das Ergebnis zurück
-#### Beispiel
+#### AIDA
 
-```python
-def Name(x,y):
-	return x + y
-``` 
-## Kontrollfluss
+**A**ttention
+	Aufmerksamkeit auf das Produkt lenken, über das Produkt bekannt machen
+**I**nterest
+	Interesse der Zielgruppe für das Produkt wecken
+**D**esire
+	Interesse für das Angebot zu einer Kaufmotivation entwickeln
+**A**ction
+	Kunden die nötigen Informationen (Website, Preis) geben um zu Kaufen
+
+#### Kommunikatrionspolitische Effektivität und Effizienz
+
+Kommunikationseffektivität:
+	Auswahl von Kommunikationsinstrumenten mit einem begrenzten Budget um eine maximale Wirkung zu erreichen. Die Kommunikationsinstrumente müssen hinsichtlich Auswahl und Einsatz aufeinander abgestimmt werden (intigrierte Kommunikation).
+
+Kommunikationseffizienz:
+	Die Wirtschaftlichkeit der Kommunikationsmaßnahmen, mit dem Kosten-Nutzen-Vergleich der Kommunkationsinstrumente uind -maßnahmen.
+
+# Distributionspolitik
 
 #### Definition
 
-> Programmieren heißt, Anweisungen in einer Datei abzulegen.
+>50er und 60er Hauptfokus auf Verteilungsaufgaben und Distributionslogistik.
+>Später weitere Aufgabe: marktgerichtete akquisitorische Aktivitäten (Abschluss von Kaufverträgen unterstützen)
 
-> Ohne Kontrollfluss-Anweisungen führt der Interpreter diese Anweisungen von oben nach unten und links nach rechts aus.
+#### Direkter und Indirekter Vertrieb
 
-> Mit Kontrollfluss-Anweisungen kann man
-> - Anweisungen in Abhängigkeit von Bedingungen ausführen
-> - Anweisungen wiederholt ausführen
-> - den normalen Ablauf auf andere Weise beeinflussen
+>Direktvertrieb ist der perrsönliche Verkauf von Waren und Dienstleistungen. Wichtig ist da der persönliche Kontakt zwischen Anbieter und Kunde, für beidseitigen Informationsaustausch und direkte Beratung.
 
-#### Aufbau
+- Besuch der Kunden zu Kause
+- Warenvorführung, Abbildungen, Beschreibungen
+- Bestellungsaufnahme
+- Zustellung der Produkte oder Abholung durch die Kunden
 
-Allgemeine Form einer Kontrollfluss-Anweisung:
-~~~python
-control flow statement details:
-	statement
-	statement
-~~~
-(Wie bei Funktionen werden Statements mit einem *tab* oder *4 Leerzeichen* eingerückt)
+Direktvertrieb eignet sich vor allem bei komplexen Verkaufssituationen und Produkten mit erklärungsbedarf.
+Außerdem können individuelle Verkaufsbedingungen ausgehandelt werden und langfristige und persönliche Beziehungen aufgebaut werden.
 
-#### Arten
-| Typ | Keyword |
-| ---- | ---- |
-| Schleifen | while, for |
-| Entscheidungen | if-else |
-| Ausnahmebehandlung | try-except-finally, raise |
-| Verzweigung | break, continue, return |
+Indirekter Vertrieb:
+>Vertrieb durch Groß- und Einzelhändler oder Absatzhelfer wie Hanelsvertreter
 
+5 Organe des direkten Vertriebs:
+- Außendienst:
+	Außendienstmitarbeiter widmen einen großteil ihrer Arbeitszeit im Außendienst zur Stammkundensicherung und -pflege.
+- Innendienst:
+	Auch Backoffice Supporet genannt, Partner des Außendienst mit dem selben ziel der Kundensicherung. Haupsächlich administrative Aufgaben.
+- Handelsvertreter:
+	Selbstständige Gewerbetreibende die für Unternehemen Geschäfte vermitteln.
+- Filiale:
+	Eigene Filialen haben das Ziel eines emotional-symbolischen Markterlebnisses. Sie schaffen Attraktivität und Marktpäsenz.
+- Internet:
+	Durch das riesige wachstum in den letzten Jahrzenten ist das Internet eines der besten Orte zum Vertrieb geworden.
 
-#### if
-
-> if führt die Statements *nur dann* aus wenn die Beingung erfüllt ist.
-```python
-zahl = 4.5
-
-if zahl > 4:
-	print("größer 4:" + str(zahl))
-```
-> größer 4: 4.5
-#### else
-
->Statements in else werden *nur dann* ausgeführt, wenn die vorherige if nicht ausgeführt wurde.
-```python
-zahl = 3.2
-
-if zahl > 4:
-	print("größer 4:" + str(zahl))
-else:
-	print("kleiner 4:" + str(zahl))
-```
-> kleiner 4: 3.2
-#### elif
-
->Statements in elif werden *nur dann* ausgeführt, wenn die vorherige if (oder elif) nicht ausgeführt wurde *und* die Bedingung erfüllt ist.
-```python
-zahl = 2.0
-
-if zahl > 4:
-	print("größer 4:" + str(zahl))
-elif zahl == 2.0:
-	print("exakt 2:" + str(zahl))
-else:
-	print("kleiner 4:" + str(zahl))
-```
-> exakt 2: 2.0
-
-
-#### range()
-
-> range() "gehöhrt" nicht zum Kontrollfluss, es ist eine Eingebaute Funktion.
-> Es ist hier da sie oft in Schleifen genutzt wird (siehe Kapitel *for* später).
-
-range(y) gibt eine hochzählende Liste von 0 und der Länge y
-
-range(5): (0,1,2,3,4)
-range(10): (0,1,2,3,4,5,6,7,8,9)
-
-
-Es *können* mehr Parameter angegeben werden: range(x,y,z)
-x: start der liste
-y: ende der liste (ohne y selber, also 5 endet mit 4)
-z: um wieviel es hoch gehen soll pro schritt
-
- range(2,11,2): (2,4,6,8,10)
- range(0,-6,-1): (0,-1,-2,-3,-4,-5)
-#### while
-
->while wiederhohlt die Statements bis die Bedingung nicht mehr efüllt ist.
-```python
-zahl = 0
-
-while zahl < 5:
-	print(zahl, end=', ')
-	zahl += 1
-```
-> 0, 1, 2, 3, 4,
-#### for
-
->for widerholt die Statements und geht dabei die Angegebene Sequenz durch, so lange bis die gesamte Sequenz einmal durchgegangen wurde
-
-> also in dem Beispiel wird die Sequenz (0,1,2,3,4) durchgegangen wobei "zahl" immer den Wert des momentanden Elements annimmt
-```python
-for zahl in range(5):
-	print(zahl, end=", ")
-```
->0, 1, 2, 3, 4,
-
-#### break
-
-> break unterbricht Schleifen
-
-```python
-for zahl in range(100):
-	if zahl == 10:
-		break
-	print(zahl, end=", ")
-```
->0,1,2,3,4,5,6,7,8,9,10,
-
-da das "break"-Statement *vor* dem "print"-Statement ist, wird "10" nicht ausgegeben.
-
-#### continue
-
-> Überspringt die jetztige Iteration und fährt mit der nächsten weiter.
-
-```python
-for zahl in range(10):
-	if zahl == 5:
-		continue
-	print(zahl, end=", ")
-```
->0, 1, 2, 3, 4, 6, 7, 8, 9,
-
-#### try-except-finally
-
->"try" führt Statements aus solang keine "Exceptions" (Fehler; aber auch absichtlich mit "raise") geworfen werden.
-
->Statements in "except" werden ausgeführt wenn try nicht ausgeführt wurde.
-
-(try-except sind ähnlich zu if-else, nur bei try-except geht es um Probleme nicht Bedingungen)
-
-> "finally" wird immer ausgeführt, egal ob ein Fehler auftritt oder nicht
-
-```python
-try:
-	for zahl in range(10):
-		if zahl == 5:
-			raise ValueError
-		print(zahl, end=', ')
-
-except ValueError:
-	print('Number is 5')
-```
->0, 1, 2, 3, 4, Number is 5
-
-Nach "except" kann auch ein spezifischer Fehlertyp angegeben werden.
-In dem Fall wird except nur ausgeführt wenn genau dieser Fehler auftritt.
-
-## Collections
-
-#### Definition und Übersicht
-
->Collections sind Sammlungen von Daten
-
-| Kategorie | Datentyp | Beispiel / Literal |
+#### Außenvertrieb
+|  | Eigenverkauf mit Außendienstmitarbeitern | Verkauf über Handelsvertreter |
 | ---- | ---- | ---- |
-| mutable(veränderbare) Sequence | list | \[1,78,5,378,3] |
-| immutable(unveränderbare) Sequence | str | "Hello World" |
-| immutable(unveränderbare) Sequence | tuple | (0,4,67) |
-| immutable(unveränderbare) Sequence | tange | range(10) |
-| Mapping | dict | {"Uni":"Hdm", "Semester":1} |
-| Set | set | {1,2,3,12,15} |
-#### Operatoren für Sequenzen
-
-in den Beispielen:
-x: Sequenz
-y: andere Sequenz
-n: Nummer
-m: andere Nummer
-
-| Operator | Beschreibung |
+| Vorteile | - verkauft nur eigene Produkte<br>- direkt motivierbar<br>- kann gut über eigene Produkte ausgebildet werden<br>- vertritt die eigene Firma | - niedrige Kosten<br>- großes Gebiet schnell erschließbar<br>- flexibler Einsatz<br>- bei Erschließung eines neuen Markts sofortiges Insiderwissen |
+| Nachteile | - hohe Kosten<br>- lange Aufbauzeit<br>- unflexible Reaktionsmöglichkeiten auf Absatzrückgäge | - Kontrolle und Schulung nur bedingt möglich<br>- Verkauft auch evt. Produkte anderer Hersteller<br>- ggf. unterschiedliche Ziele<br>- weniger and Kundenzufriedenheit interessiert |
+#### E-Commerce
+| Vorteile | Nachteile |
 | ---- | ---- |
-| n in x | True wenn, n in x enthalten ist |
-| n not in x | True wenn, n nicht in x enthalten ist |
-| x + y | Kombiniert x und y |
-| n * x | Fügt die Sequenz x n-mal zusammen |
-| x\[n] | n-te Element von x |
-| x\[n:m] | Slice von x ab n bis m |
-| len(x) | Länge von x |
-| min(x) | Kleinstes Element von x |
-| max(x) | Größtes Element von x |
-| x.count(n) | Wie of n in x enthalten ist |
-#### Operatoren für veränderliche Sequenzen (Listen)
+| - direkte Kontaktaufnahme ohne Zwischenhändler<br>- Produkte müssen nicht physisch vorhanden sein<br>- individuelles Marketing besser zu realisieren<br>- bessere Datengewinnung<br>- immer verfügbar<br>- sofortige Angebotsaktualisierung<br>- Kunde kann in Auftragsentwichlung eingebunden werden | - kann nicht in allen Fällen das persönliche Gespräch ersetzen<br>- Konditionsverhandlungen nicht möglich<br>- Preisdifferenzierung nicht möglich<br>- Wettbewerbssituation nur allgemein bekannt<br>- Struktur der Einkäufer nur schwer erkennbar<br>- geringeres Servicelevel für Kunden |
+#### Verkäuferkompetenzen
 
-| Operator | Beschreibung |
+Fach- und Methodenkompetzenz:
+- Markt- und Produktkenntnisse
+- Kenntnis der Entscheidungsprozesse und Beteiligten
+- betriebswirtschaftliche Kenntnisse
+- Verständnis der Unternehmens- und Verkaufsziele sowie der Wettbewerbssituation
+- Verkaufsgesprächsführung, Verhandlungsgeschick
+- Analysefähigkeit
+- planerische Fähigkeiten und Selbstorganisation
+
+Sozialkompetenz:
+- Kommunikations-, Begeisterungs- und Wahrnehmungsfähigkeit
+- Freundlichkeit, Kritikfähigkeit und Humor
+- Flexibilität und Kompromissfähigkeit
+- Team- und Kooperationsfähigkeit
+
+Persönlichkeitsmerkmale:
+- Kontaktfreudigkeit, Offenheit und Initiativkraft
+- Optimismus
+- Selbstvertrauen, Selbstwertgefühl und Durchsetzungsvermögen
+- Einfühlungsvermögen
+- Verantwortungs- und Leistungsbereitschaft sowie Belastbarkeit
+- Kreativität und Improvisationsgabe
+- Lernfähigkeit
+#### Betriebsformen des Einzelhandels
+
+- Einkaufszentren
+- Fachhandel
+- Spezialhandel
+- Fachmärkte
+- Warenhäuser/Kaufhäuser
+- Supermärkte
+- Verbrauchermärkte
+- SB-Warenhäuser
+- Versandhäuser
+- Discounter
+- Freiwillige Ketten/Einzelhandelsring
+- Einkaufsgenossenschaften
+
+#### Push- und Pull-Ansatz
+| Push | Pull |
 | ---- | ---- |
-| x\[n] = m | Setzt das n-te Element von x auf den Wert m |
-| x\[n:m] = y | Setzt den Abschnitt von n bis m in x auf y |
-| del x\[n:m] | Löscht alle Elemente von n bis m in x |
-| x.append(n) | Fügt Element n ans Ende von x an |
-| x.clear() | Entfernt alle Elemente |
-| x.copy() | Flache Kopie von x |
-| x.deep_copy() | Tiefe Kopie von x |
-| x.extend(y) | Erweitert x mit der iterablen y |
-| x \*= n | Vervielfacht x n-mal |
-| x.insert(n,m) | Fügt m an der Stelle n in x ein |
-| x.pop(n) | Löscht das n-te Element in x und gibt es zurück |
-| x.remove(n) | Enfernt das erste n in x |
-| x.reverse() | Umdrehen der Reihenfolge |
-
-#### Strings
-
-> Zeichenketten (Strings) sind Instanzen der Klasse str.
-> Nach Instantiierung können Strings nicht mehr verändert werden! 
-> Sie sind (engl.) immutable!
-
-Beispiel:
-~~~python
-s = "Das ist ein String"
-
-print(s.count("i"))
-#Output: 3
-
-print(s.upper())
-#Output: DAS IST EIN STRING
-
-print(s.lower())
-#Output: das ist ein string
-
-t = s.split(" ")
-print(t)
-#Output: ["Das", "ist", "ein", "String"]
-#Der Output hier ist eine Liste
-
-" ".join(t)
-#Output: Das ist ein String
-#join fügt die Liste wieder zu einem String zusammen
-
-print(s.find("s"))
-#Output: 2
-#(Seqenzen fangen immer bei 0 an)
-
-print(s[:3])
-#Output: Das
-#Ein Slice vom String bis index 3
-~~~
-
-#### Listen
-
-> Listen können Referenzen auf Objekte beliebigen Typs enthalten.
-
-Beispiel:
-```python
-l = [1,2,3,4,5,10,20]
-
-for i in l:
-	print(i, end=", ")
-#Output: 1, 2, 3, 4, 5, 10, 20,
-
-print(l[3:])
-#Output: [4,5,10,20]
-
-l.append(100)
-print(l)
-#Output: [1,2,3,4,5,10,20,100]
-
-l += [1,2,3]
-print(l)
-#Output: [1, 2, 3, 4, 5, 10, 20, 100, 1, 2, 3]
-
-print(len(l))
-#Output: 11
-
-print(l.pop())
-#Output: 3
-
-print(l)
-#Output: [1, 2, 3, 4, 5, 10, 20, 100, 1, 2]
-```
-
-#### Tupel
-
-> Tupel sind wie Listen nur nichtänderbar (immutable)
-
-Beispiel:
-```python
-t = (1,2,4,8)
-
-print(t)
-#Output: (1,2,4,8)
-
-print(t[1])
-#Output: 2
-
-#packing
-p = 10,20 
-print(p)
-#Output: (10,20)
-
-#unpacking
-n, m = (10,20)
-print(n, m)
-#Output: 10 20
-```
-
-#### Dictionaries
-
-> Dictionaries sind Mppings welche aus Key-Value Paaren bestehen
-
-Beispiel:
-```python
-d = {"name" : "Name", "score" : 0.85}
-#"name" und "score" sind die Keys
-#"Name" und 0.85 sind die Values
-
-#das oben kann auch für bessere Übersicht so geschrieben werden:
-d = {"name" : "Name", 
-	 "score" : 0.85}
-
-scores = {3654 : 0.42,
-		  1111 : 0.23,
-		  9351 : 0.91}
-
-print(scores[1111])
-#Output: 0.23
-
-#Dictionaries werden auch oft genested (also ein Dictionary in einem Dictionary)
-
-uniScores = {4500 : {"Uni": "HdM", "score" : 0.74},
-			 6590 : {"Uni": "Uni Stuttgart", "score" : 0.51},
-			 9000 : {"Uni": "HfT", "score" : 0.67}}
-
-print(uniScores[9000])
-#Output: {"Uni": "HfT", "score" : 0.67}
-
-print(uniScores[4500]["Uni"])
-#Output: HdM
-
-for key, value in scores.items():
-	print("key:", key, "value:", value)
-#Output:
-#key: 3654 value: 0.42 
-#key: 1111 value: 0.23 
-#key: 9351 value: 0.91
-
-for item in scores.items():
-	print(item)
-#Output:
-#(3654, 0.42) 
-#(1111, 0.23) 
-#(9351, 0.91)
-
-for key in scores.keys():
-	print(key)
-#Output:
-#3654
-#1111
-#9351
-
-scores.pop(1111, 0.23)
-print(scores)
-#Output: {3654: 0.42, 9351: 0.91}
-
-c = dict(zip( [1,2,3], ["a","b","c"] ))
-print(c)
-#Output: {1: 'a', 2: 'b', 3: 'c'}
-```
-
-
-
-## Objektorientiertes Programmieren
-
-#### Definitionen
-| Name | Beschreibung |
-| ---- | ---- |
-| Objekt (object) | Ein Software-Objekt bestehend aus Attributen und Methoden. |
-| Klasse (class) | Die Schablone für Objekte mit derselben Struktur und demselben Verhalten. |
-| Vererbung (inheritance) | Eine Klasse erbt Struktur und Verhalten von ihren Oberklassen. |
-#### Struktur
-
-> Ein Objekt hat Attribute und Methoden / Funktionen
-
-__Zum Beispiel die Klasse "Auto":__
-
-Attribute:
-- Maximalgeschwindigkeit
-- Drehzahl
-- Gang
-
-Methoden / Funktionen:
- - Schalten
- - Bremsen
-#### Beispiel
-
-~~~python
-# Start der neuen Klasse "Car" (Das ist dann die "Schablone" für jede neue Insanz eines Autos)
-class Car: 
-
-#Die __init__ Funktion wird bei der Erstellung eines neuen Autos automatisch ausgeführt
-#Es werden die Attribute "rpm", "speed" und "gear" hier definiert
-	def __init__(self): 
-		self.rpm = 0 
-		self.speed = 0 
-		self.gear= 0 
-
-#Hier beginnt die erste Methode "change_rpm", sie hat die Parameter "self" und "new_value"
-#self kann nicht manuel gesetzt werden und ist nötig anzugeben, damit die Methode auf das Objekt selber, und damit auch den zugehörigen Attributen zugreifen kann.
-	def change_rpm(self, new_value): 
-#das Attribut "rpm" wird auf den Wert von dem "new_value" Paremeter gesetzt 
-		self.rpm = new_value 
-
-#das selbe wie oben nur mit gear
-	def shift(self, new_value): 
-		self.gear = new_value 
-
-	def apply_brakes(self, decrement): 
-# hier wird die "speed" auf "speed" minus den Parameter "decrement" gesetzt
-# Das könnte auch als "self.speed -= decrement" geschrieben werden
-		self.speed = self.speed - decrement
-		
-
-
-#Das ab hier ist ausserhalb von der Klasse
-
-#Erstellung 2 neuer Insantzen von der "Car" Klasse
-car1 = Car()
-car2 = Car()
-
-#Nutzung der oben definierten Methoden, in den Klammern werden die Parameter angegeben
-car1.change_rpm(2500) 
-car1.shift(2) 
-
-car2.change_rpm(2500) 
-car2.shift(2) 
-car2.change_rpm(4000) 
-car2.shift(3)
-~~~
-#### Instantiierung
-
-Wie oben gezeigt werden Insanzen einer Klasse wie folgt erstellt:
-~~~python
-car1 = Car()
-~~~
-> hier ist "car1" eine Insanz der "Car" Klasse
-
-Die Insantz hat die selbe Funktionalität, wie in der Klasse angegeben.
-Auf die Klassenfunktionen und Variablen können wie folgt zugegriffen werden:
-```python
-car1.shift(2)
-print(car1.gear)
-#Output: 2
-```
-> "shift" ist eine Methode der Klasse Car
-> "gear" ist eine Variable der Klass Car
-#### Decorators und pass
-
-Decorators werden mit einem "@" über einer Methode angegeben.
-Mit dem Decorator "@staticmethod" oder "@classmethod" können Klassenmethoden innerhalb Klassen angegeben werden.
-Beispiel:
-```python
-class NewClass:
-	def __init__(self):
-		self.x = 10
-
-	@staticmethod
-	def static_method():
-		return NewClass.x
-
-	@classmethod
-	def class_method(cls):
-		return cls.x
-
-	def empty_method():
-		pass
-```
-
-> wegen pass kann der Inhalt von "empty_method()" leer sein ohne Fehler zu generieren.
-> "pass" kann in Klassen, Funktionen (def .... :) , for, if, usw. (alles mit einem ":" ) genutzt werden.
-
-Weil es einer aus dem höheren Semester erwähnt hat:
-mit "pass" kann man dann die "kleinsten" Methoden, Klassen, usw. machen, falls das gefragt wird.
-
-#### Zugriffsangaben
-
-> Es sollte von aussen nicht auf Klassenvariablen und Funktionen zugegriffen werden, welche mit Unterstrichen markiert sind, wie die \_\_init\_\_ Methode zum Beispiel.
-
-> Python *verhindert* es nicht aber so soll man es halt machen
-
-| Konzept | Beispiel | Einschränkungen |
+| Druckerzeugung | Sogerzeugung |
+| Absatzmittlerstimulierung durch<br>Vorzug im Verkaufsortiment | indirekte Absatzmittlerstimulierung <br>über den Endkunden |
+| - Rabatte<br>- Prämien<br>- Webemittelunterstützung<br>- Gemeinschaftswerbeaktionen | - Sprungwerbung<br>- Handel kann es sich nicht leisten<br>das Produkt nicht im Sortiment zu haben |
+#### Multi Channel Managent
+
+Vorteile:
+ - höhere Marktabdeckung
+ - kundengerechte Ansprache
+ - Wirtschaftlichkeit
+ - Risikoausgleich
+ - Wettbewerbsvorteil
+ - Markenpräsentation
+
+Nachteile:
+- Kundenverwirrung
+- Konflikte zwischen den Kanälen
+- Kontrollverlust
+- Suboptimierung
+- hohe Investitionskosten
+- Gefahr des Know-how-Abflusses
+
+#### Vertikale Distributionsstrukturen
+
+>Die vertikale Distributionsstruktur bezieht sich auf die Anzahl der Distributitions- bzw. Lagerstufen.
+
+Vertikale Distributionsstrukturen (von fern bis nah am Kunden): 
+- Werkslager
+- Zentrallager
+- Regionallager
+- Auslieferungslager
+# Preispolitik
+#### Definition
+
+>Alle unternehmischeren Maßnahmen welche die direkte oder indirekte monetären Gegenleistungen der Käufer beinhalten.
+
+#### Faktoren
+
+Internationalisierung:
+- starke Internationalisierung hat großen Einfluss auf die Preise
+- höhere Zahl an Wettbewerbern
+
+Elektronische Märkte:
+ - erhöhte Preistranzparenz 
+ - Kunden sind Preiskritischer
+ - häufige Preisvergleiche zu Wettbewerbern
+
+Stärkere Preisorientierung der Kunden:
+- technische Ausreifung
+- geringere Innovation in manchem Märkten
+
+Veränderung rechtlicher Rahmenbedingungen:
+ - Rabattgesetz (strenge Grenzen für Rabatte) 2001 außer Kraft gesetzt
+ - insgesamt preispolitische Restriktionen abgeschwächt
+
+#### Abblidungen zu Preissituationen
+(Beispiele)
+
+| Situation 1 | Situation 2 | Situation 3 |
 | ---- | ---- | ---- |
-| public | self.x | keine |
-| protected | self.\_x\_ | darf aus der eigenen Klasse und Subklassen zugegriffen werden |
-| private | self.\_\_x\_\_ | darf *nur* aus der eigenen Klasse zugegriffen werden  |
-#### Special Methods
+| Zalungsbereitschaft<br>des Kunden | Wettbewerbspreis | Zalungsbereitschaft<br>des Kunden |
+| Wettbewerbspreis | Zalungsbereitschaft<br>des Kunden | Kosten |
+| Kosten | Kosten | Wettbewerbspreis |
+Situation 1:
+Der Kunde ist nur bereit einen Preis ähnlich zu dem Wettbewerbspreis zu zahlen, wenn auch die Leistung ähnlich zum Wettbewerb ist.
+Preisorientierung: Wettbewerbspreis
 
-> Special Methods sind schon in python eingebaute Methoden die aber überschrieben werden können.
+Situation 2:
+Der Kunde ist nicht bereit den Wettbewerbspreis zu zahlen. Desswegen ist es hier wichtig sich nicht am Wettbewerb zu orientieren.
+Preisorientierung: Zalungsbereitschaft
 
-Beispiele (nicht alle angegeben):
+Situation 3:
+Da die Kosten über dem Wettberwerbpreis liegen könnte es möglich sein das das Produkt nicht profitabel Herstellbar ist.
+Preisorientierung: Kosten
 
-| Operation | Methode |
-| ---- | ---- |
-| == | \_\_eq\_\_ |
-| != | \_\_ne\_\_ |
-| < | \_\_lt\_\_ |
-| > | \_\_gt\_\_ |
-| + | \_\_add\_\_ |
-| - | \_\_sub\_\_ |
-| * | \_\_mul\_\_ |
-| // | \_\_floordiv\_\_ |
-| / | \_\_div\_\_ |
-| % | \_\_mod\_\_ |
-|  | \_\_new\_\_ |
-|  | \_\_init\_\_ |
-| del() | \_\_del\_\_ |
-| len() | \_\_len\_\_ |
-#### Vererbung
+#### Preisfindung
 
->Eine Klasse, die von einer anderen Klasse abgeleitet wird, wird Subklasse (subclass, abgeleitete Klasse, erweiterte Klasse, Unterklasse, Kindklasse) genannt.
+1. Cost Plus-Pricing
+	Preis wird an den Herstellungskosten + einem Aufschlag berechnet.
+	Der Preisaufschlag ist in der Regeln ähnlich wie andere Produkte einer Kategorie.
 
->Die Klasse, von der die Subklasse abgeleitet ist, wird Superklasse (superclass, Basisklasse, Elternklasse) genannt.
+2. Wettbewerbsorientierte Preisfindung
+	Preissetzung haupsächlich an Konkurrenzpreisen orientiert. 
+	Sinnvoll wenn die Konkurrenz ähnliche Angebote hat.
 
->Außer der Klasse object hat jede Klasse mindestens eine unmittelbare Superklasse (“Mehrfachvererbung"). Jede Klasse ist aber mittelbar Subklasse von *object*.
+3. Nachfragerorientierte Preisfindung
+	Ermittelt an nachfragerseitigen Informationen zur Zahlungsbereitschaft und den preispolitischen Faktoren.
+	Die funktionale Beziehung zwischen dem Preis für die Leistung und die Absatzmenge wird mit der Preis-Absatz-Funktion bestimmt.
 
->Eine Subklasse erbt alle Members, Variablen, Methoden von ihrer Superklasse.
+#### Arten der Preisdifferenzierung
 
-Beispiel:
-```python
-class Car:
-	def __init__(self):
-		self.max_speed = 0.0
-		self.range = 0.0
+- Zeitliche Preisdifferenzierung (z.B. TEE Plan & Spar der Deutschen Bank)
+	  unterschieldicher PReise in Abhängigkeit vom Kaufzeitpunkt
 
-	def set_max_speed(self,new_speed):
-		self.max_speed = new_speed
+- Räumliche Preisdifferenzierung (z.B. Automobilpreise in Europa)
+	  geographisch abgegrenzte Teilmärkte
 
-	def get_max_speed(self):
-		return self.max_speed
+- Personelle Preisdifferenzierung (z.B. Privat-/Geschäftskunden bei Dell)
+	  Alter, Geschlecht, Einkommen, Beruf, usw.
 
-	def set_range(self,new_range):
-		self.range = new_range
+- Quanlitative Preisdifferenzierung (z.B. Sitzplatzkategorien in Flügen)
+	  Qualitätspräferenzen vom Nachfrager
 
-	def get_range(self):
-		return self.range
+- Quantitative Preisdifferenzierung (z.B. Gruppenticketrabatt der Deutschen Bahn)
+	  Mengenrabatte
 
-class Electric_Car(Car):
-	def __init__(self):
-		#führt die init-Methode der "Car" Klasse aus
-		super().__init__()
-		self.battery_size = 0.0
+#### Preisdifferenzierung nach Pigou
 
-	def set_battery_size(self,new_battery_size):
-		self.battery_size = new_battery_size
+Erster Grad:
+Ziel ist es genau den Preis zu erzielen, welcher der maximaler Preisbereitschaft der Kunden entspricht.
+Das kann durch individuelle Rabattpolitik erreicht werden.
 
-	def get_battery_size(self):
-		return self.battery_size
-```
-> Da Klasse "Electric_Car" von der Klasse "Car" erbt hat diese auch zugrieff auf die Methoden von "Car" wie z.B. "set_range". 
+Zweiter Grad:
+Es werden verschiedene Leistungsangebote zu verschiedenen Preisen angeboten.
+Es wird dem Kunden selbst überlassen sich in eine Preisgruppe einzuteilen.
 
-#### Abstrakte Klassen
+Dritter Grad:
+Es gibt wie beim zweiten grad verschidene Preissegmente es wird aber dem Kunden nicht selbst überlassen.
+Diese Grad tritt bei der personellen, räumlichen und zeitlichen Preisdifferenzierung auf.
 
-> Abstrakte Klassen dienen als erweiterbare Klassen (Superklassen), deren Methoden ergänzt oder überschrieben werden sollen.
+#### Preisabsatzfunktion
+| Produktpreise | Produkt 1<br>1,60€‎ | Produkt 2<br>1,80€‎ |
+| ---- | ---- | ---- |
+| Nachgefragte<br>Menge | 160 | 140 |
+###### Variante 1:
+Formel:
+$x(p)=a-b \cdot p$
 
->Abstrakte Klassen können sog. abstrakte Methoden enthalten. Dies sind Methoden ohne Implementierung, d.h. ohne Methodenkörper.
+Aufstellen der Gleichungen:
+$x_1: 160, p_1:1,6$
+$160=a-1,6b$
 
+$x_2:140,p_2:1,8$
+$140=a-1,8b$
 
-Um eine Abstrakte Klasse zu definieren muss diese von "ABC" erben.
-Um eine Abstrakte Methode zu definieren muss diese den "@abstractmethod" decorator haben.
-"ABC" und "abstractmethod" müssen aus "abc" importiert werden.
+a auf eine Seite bringen:
+$a = 160 + 1,6b$
+$a = 140 + 1,8b$
 
-Beispiel:
-```python
-from abc import ABC, abstractmethod
+Gleichsetzungsverfahren und nach b auflösen:
+$160+1,6b = 140+1,8b$
+$20=0,2b$
+$b=100$
 
-class New_Abstract_Class(ABC):
-	@abstractmethod
-	def new_abstract_method(self):
-		pass
-```
+b einsetzten und nach a auflösen:
+$a=160+1,6*100$
+$a=320$
 
-Jede nicht abstrakte Subklasse von einer abstrakten Klasse muss die abstrakten Methoden überschreiben.
+Funktion aufstellen:
+$x(p)=320-100p$
+
+###### Variante 2:
+Formel:
+$x(p)=x_1+ \frac{(x_2-x_1)}{(p_2-p_1)}\cdot (p-p_1)$
+
+Anwenden der Formel:
+$x(p)=160+ \frac{(140-160)}{(1,8-1,6)}\cdot(p-1,6)$
+$x(p)= 160 + (-100) \cdot (p - 1,6)$
+$x(p)=320-100p$
+
+# Produktpolitik
+
+#### Difinition
+
+> Alle Marketing-Maßnahmen, die auf die Gestaltung der Leistungen eines Unternehmens gerichtet sind.
+
+#### Die drei Bestandteile eines Produkts
+
+1. Produktkern (Kernnutzen)
+2. Formales Produkt (Marke, Image)
+3. Erweitertes Produkt (Gewinnspiele,Aktionen,Angebote)
+
+Zusammenhang Kundenproblem und Produktkerngestaltung
+>Für die Gestaltung des Produktkerns ist die Kenntnis des eigentlichen Kundenproblems und grundlegenden Bedürfnisse der Nachfrager von entscheidender Bedeutung.
+
+Produktdesign und Formale Produktgestaltung
+>Bei der gestaltung des formalen Produktes stehen die Nutzenbestandteile im Vodergrund, die den Zusatznutzen für Kunden darstellen.
+>Unter Produktdesign wird die planmäßige Gestaltung serieller Artefakte mit starkem ästhetischem Bezug verstanden.
+
+Verpackungsfunktionen:
+- Schutzfunktion (Produktkern)
+- Anmutungsfunktion (formales Produkt)
+- Gebrauchsfunktion (erweitertes Produkt; z.B. wiederverwendung der Verpackung)
+
+#### Produktlebenszyklus
+
+Einführungsphase:
+ - Produkt kaum bekannt
+ - Unfangreiche wer
