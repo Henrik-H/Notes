@@ -66,7 +66,7 @@ Außerdem können individuelle Verkaufsbedingungen ausgehandelt werden und langf
 Indirekter Vertrieb:
 >Vertrieb durch Groß- und Einzelhändler oder Absatzhelfer wie Hanelsvertreter
 
-#### 5 Organe des direkten Vertriebs:
+### 5 Organe des direkten Vertriebs:
 
 - Außendienst:
 	Außendienstmitarbeiter widmen einen großteil ihrer Arbeitszeit im Außendienst zur Stammkundensicherung und -pflege.
@@ -90,7 +90,7 @@ Indirekter Vertrieb:
 | - direkte Kontaktaufnahme ohne Zwischenhändler<br>- Produkte müssen nicht physisch vorhanden sein<br>- individuelles Marketing besser zu realisieren<br>- bessere Datengewinnung<br>- immer verfügbar<br>- sofortige Angebotsaktualisierung<br>- Kunde kann in Auftragsentwichlung eingebunden werden | - kann nicht in allen Fällen das persönliche Gespräch ersetzen<br>- Konditionsverhandlungen nicht möglich<br>- Preisdifferenzierung nicht möglich<br>- Wettbewerbssituation nur allgemein bekannt<br>- Struktur der Einkäufer nur schwer erkennbar<br>- geringeres Servicelevel für Kunden |
 ## Verkäuferkompetenzen
 
-#### Fach- und Methodenkompetzenz:
+### Fach- und Methodenkompetzenz:
 - Markt- und Produktkenntnisse
 - Kenntnis der Entscheidungsprozesse und Beteiligten
 - betriebswirtschaftliche Kenntnisse
@@ -99,13 +99,13 @@ Indirekter Vertrieb:
 - Analysefähigkeit
 - planerische Fähigkeiten und Selbstorganisation
 
-#### Sozialkompetenz:
+### Sozialkompetenz:
 - Kommunikations-, Begeisterungs- und Wahrnehmungsfähigkeit
 - Freundlichkeit, Kritikfähigkeit und Humor
 - Flexibilität und Kompromissfähigkeit
 - Team- und Kooperationsfähigkeit
 
-#### Persönlichkeitsmerkmale:
+### Persönlichkeitsmerkmale:
 - Kontaktfreudigkeit, Offenheit und Initiativkraft
 - Optimismus
 - Selbstvertrauen, Selbstwertgefühl und Durchsetzungsvermögen
@@ -337,3 +337,56 @@ Verpackungsfunktionen:
 Einführungsphase:
  - Produkt kaum bekannt
  - Unfangreiche wer
+
+Wachstumsphase:
+- verstärkt nachgefragt
+- Break-Even-Point
+
+Sättigungsphase:
+- stagnierende Umsätze
+- verstärkter Preiswettbewerb
+- Produktdifferenzierungen
+
+## Anpassung des Produktprogramms
+
+### Produktdifferenzierung
+Veränderung von typenbildenden Merkmalen eines bereits im Programm enthaltenen Produktes.
+Das Ziel ist es das neue Produkt vom bisherigen abzugrenzen.
+### Produktelimination
+Herausnahme von nicht erfolgreichen Produkten aus dem Produktions- und Absatzprogramms.
+
+## Break-Even-Menge
+
+$Menge = \frac{Fixkosten}{Preis \ - \ variable \ Kosten}$
+
+Für einen Stand auf dem Weihnachtsmarkt muss täglich eine Standgebühr von 350
+Euro errichtet werden. Eine Waffel kostet den Standbetreiber in der Herstellung 1
+Euro. Diese verkauft er für 4 Euro.
+
+$\frac{350}{4-1} \approx 117$ 
+
+## Scoring Modell
+
+| Kriterium | Gewichtung | Produkt A | Produkt B | Sum A | Sum B |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| Realisierbarkeit | 25% | 7 | 8 | 1,75 | 2 |
+| Innovationsgrad | 20% | 7 | 5 | 1,4 | 1 |
+| Funktionalität | 20% | 8 | 7 | 1,6 | 1,4 |
+| Qualität | 15% | 5 | 6 | 0,75 | 0,8 |
+| Langlebigkeit | 15% | 4 | 6 | 0,6 | 0,9 |
+| Umweltverträglichkeit | 5% | 3 | 4 | 0,15 | 0,2 |
+| Gesamtwert |  |  |  | 6,25 | 6,4 |
+
+## einstufige Deckungsbeitragsrechnung
+
+|  | A | B | C |
+| ---- | ---- | ---- | ---- |
+| Preis, p | 4 | 2,5 | 1 |
+| Absatz, m | 200 | 200 | 700 |
+| Stückkosten<br>variabel, $k_v$ | 1,75 | 0,75 | 0,571 |
+| Gesamtkosten<br>variabel, $K_v$ |  | 800 |  |
+| Deckungs-<br>beitrag, DB | 450 | 350 | 300.3 |
+| Summe Deckungs-<br>beiträge, $\sum$DB |  | 1100.3 |  |
+| Stückdeckungs-<br>beitrag, db | 2.25 | 1.75 | 0.429 |
+| Betriebs-<br>ergebnis, BE |  | 300.3 |  |
+
