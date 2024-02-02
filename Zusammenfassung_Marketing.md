@@ -377,7 +377,7 @@ $\frac{350}{4-1} \approx 117$
 | Umweltverträglichkeit | 5% | 3 | 4 | 0,15 | 0,2 |
 | Gesamtwert |  |  |  | 6,25 | 6,4 |
 
-## einstufige Deckungsbeitragsrechnung
+## Einstufige Deckungsbeitragsrechnung
 
 |  | A | B | C |
 | ---- | ---- | ---- | ---- |
