@@ -257,29 +257,42 @@ Diese Grad tritt bei der personellen, räumlichen und zeitlichen Preisdifferenzi
 | Nachgefragte<br>Menge | 160 | 140 |
 ### Variante 1:
 Formel:
+
 $x(p)=a-b \cdot p$
 
 Aufstellen der Gleichungen:
+
 $x_1: 160, p_1:1,6$
+
 $160=a-1,6b$
 
+
 $x_2:140,p_2:1,8$
+
 $140=a-1,8b$
 
 a auf eine Seite bringen:
+
 $a = 160 + 1,6b$
+
 $a = 140 + 1,8b$
 
 Gleichsetzungsverfahren und nach b auflösen:
+
 $160+1,6b = 140+1,8b$
+
 $20=0,2b$
+
 $b=100$
 
 b einsetzten und nach a auflösen:
+
 $a=160+1,6*100$
+
 $a=320$
 
 Funktion aufstellen:
+
 $x(p)=320-100p$
 
 ### Variante 2:
