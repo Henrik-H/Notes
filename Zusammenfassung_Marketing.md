@@ -174,9 +174,94 @@ Marktsegmentierungskriterien:
 ## Wettbewerbsanalyse
 
 - Branchenanalyse
-- strategische Gruppenalyse
-- Konkurrenzanalyse
+	  Beobachtung der gesamten Branche
 
+- strategische Gruppenalyse
+	  Beobachtung von Gruppen einer Branche
+
+- Konkurrenzanalyse
+	  Beobachtung der direkten Konkurrenz
+
+## Branchenanalyse nach Proter
+
+Five-Forces-Modell
+
+- Rivalität unter bestehenden Wettbewerbern
+- Bedrohung durch potenzielle neue Konkurrenten
+- Verhandlungsmacht der Abnehmer
+- Verhandlungsstärke der Lieferanten
+- Bedrohung durch Ersatzprodukte oder -dienstleistungen
+
+## Strategische Gruppen
+
+> Eine strategische Gruppe sind mehrere Unternehmen einer Branche welche sich hinsichtlich ihrer verfogten Wettbewerbsstrategie ähneln.
+
+
+## Konkurrenzanalyse
+
+Konkurrenz wir auf folgende Faktoren analysiert:
+- Erfolg und Misserfolg
+- Stärken
+- Schwächen
+- Strategien
+- Fähigkeiten
+- Verhalten
+## SWOT-Analyse
+
+Unternehmen wird auf unternehmensinterne und unternehmensexterne Faktoren analysiert
+
+ - Stärken
+ - Schwächen
+ - Chancen
+ - Risiken
+
+## Marktforschungsprozess
+
+- Ausrichtung und Bedingungen der Untersuchung festlegen
+	- Definition des Untersuchungsproplems
+	- Festlegung der Untersuchungsziele
+- Festlegeung der Methoden
+	- Festlegung der Untersuchungsdesigns
+	- Entwicklung der Messinstrumente
+- Durchführung
+	- Datensammlung
+	- Datenanalyse
+	- Bericht
+
+## Datenquellen
+
+|  | Primärdaten | Sekundärdaten |
+| ---- | ---- | ---- |
+|  | Spezifisch für den Zweck der Marktforschung | In der Vergangenheit zu einem anderen Zweck erhoben |
+| Pro | - höhere Aussagekraft<br>- meist exklusiv für den Durchführenden der Studie<br>- meist aktueller | - meist Preisgünstiger<br>- weniger Zeitaufwand<br>- weniger Personalaufwand |
+| Con | - Teurer<br>- Dauert länger<br>- meist Fachpersonal benötigt | - Viele Punkte der Datenqualität nicht überprüfbar<br>- meist älter<br>- erhobene Daten könnten nicht perfekt zum gesuchten passen |
+
+|  | Vorteile | Nachteile |
+| ---- | ---- | ---- |
+| Mündliche<br>Befragung | - Möglichkeit von Rückfragen<br>- Steuerung des Befragungsablaufs<br>- ergänzende Beobachtungen <br>(z.B. Nonverbale Signale, Emotionen)<br>- kleinere Verweigerungsquote<br>- wenig Einschränkungen des <br>Umfangs und Komplexität | - Risiko (anpassung an soziale Norm)<br>- keine Anonymität<br>- hoher Aufwand<br>- Zeit- und Ortgebunden |
+| Online<br>Befragung | - niedrige Kosten<br>- hohe Reichweite<br>- international<br>- Erreichbarkeit großer Fallzahlen<br>- automatisiert<br>- kein sozialer Einfuss<br>- zeitliche und örtliche Flexibilität<br>- multimediale Gestaltung | - ggf. eingeschränkte Repräsentativität<br>- oft unzureichende Informationen <br>über die Grundgesamtheit<br>- keine Kontrolle des Befragungsablaufs,<br>Risiko unseriöser Antworten<br>- ggf. geringe Rücklaufquoten, <br>hohe Abbruchquoten |
+
+## Quantitative und Qualitative Marktanalyse
+
+Quantitativ:
+- Absatzmengen-Potenzial
+- Umsatz-Potenzial
+- Nachfragef-Potenzial
+
+Qualitativ:
+- Positionierungs-Analyse
+
+Die Vier Bezungsgrößen der quantitativen Marktanalyse:
+- Marktpotenzial
+	  Das Maximum eines Marktes für ein bestimmtes Produkt oder Dienstleistungsart
+- Marktvolumen
+	  Absatzmenge aller Anbieter einer Güter- oder Dienstleistungsart in einen bestimmten Zeitraum in einem abgegrenzten Markt
+- Absatzpotenzial
+	  Absatzmenge eines Produktes, die ein Unternehmen maximal in einem Markt erreichen kann
+- Abtatzvolumen
+	  Absatzmenge eines Produktes, die ein Unternehmen tatsächlich hat
+
+$Marktausschoepfungsgrad = \frac{Marktvolumen}{Marktpotenzial}$
 
 # Ziele & Strategien
 
