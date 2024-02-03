@@ -52,6 +52,132 @@ Nutzenvorteil muss **verteidigungsfähig** und **wirtschaftlich** sein.
 
 # Situationsanalyse
 
+## Markt
+
+> Ort des Aufeinandertreffens von Angebot und Nachfrage
+
+Konsumerverhalten
+>Das Einkaufs-, Konsum- und Informationsverhalten von privaten Haushalten
+
+### Marktabgrenzung
+
+ - räumliche Abgrenzung:
+	Festlegung des Marktgebiet der Unternehmensaktivitäten
+- zeitliche Abgrenzung:
+	Festlegung, ob Leistungen zu jedem möglichen Zeitpunkt oder nur innerhalb von beschränkten Zeiträumen angeboten werden
+- sachliche Abgrenzung:
+	Wird notwendig aufgrund von Substitutionsbeziehungen im Rahmen der Bedürfnisbefriedigung von Nachfragern. 
+
+## Kaufverhaltensforschung
+
+| Frage | Aspekte |
+| ---- | ---- |
+| Wer | Kaufakteure |
+| Was | Kaufobjekte |
+| Wie viel | Menge |
+| Wann | Zeitpunkt |
+| Wo/ bei wem | Lieferantenauswahl |
+| Wie | Kauftypen |
+| Warum | Kaufmotive |
+
+## Kaufentscheidungen
+
+|  | Individuelle Entscheidung | Kollektive Entscheidung |
+| ---- | ---- | ---- |
+| Konsument | Individuelle Kaufentscheidungen<br>von Konsumenten | Kollektive Kaufentscheidungen<br>von Konsumenten |
+| Organisation | Individuelle Kaufentscheidungen<br>von Organsiationen | Kollektive Kaufentscheidungen<br>von Organisationen |
+
+- Habitualisierte Kaufentscheidungen (wiederkehrende Käufe)
+- Impulsive Kaufentscheidungen (Sponteane Käufe)
+- Extensive Kaufentscheidung (Lang geplante Käufe)
+
+## SOR-Modell
+
+| Stimulus | Organism | Response |
+| ---- | ---- | ---- |
+| Input<br>beobachtbare Variablen | nicht beobachtbare,<br>intervenierende Variablen | Output<br>beobachtbare Variablen |
+| - Werbeanzeige<br>- Preis<br>- Marke | - Einstellung<br>- Lernen | - Kauf / Nichtkauf<br>- Zufriedenheit<br>- Menge |
+
+> SR-Modell ist das selbe ohne "Organism"
+> Es geht von einer dierekten Verbindung zwischen Stimulus und Response aus
+
+## Bedürfnispyramide nach Maslow
+
+| Stufe | Beispiel |
+| ---- | ---- |
+| Selbstverwirklichung | - Erlebnisstreben<br>- Genussstreben |
+| Geltungsbedürfnisse | - Anerkennung<br>- Prestige<br>- Ruhm |
+| Soziale Bedürfnisse | - Liebe<br>- Zuneigung<br>- Soziales Engagement |
+| Sicherheitsbedürfnisse | - Gesundheit<br>- Schutz<br>- Risikoveringerung |
+| Fundamental physiologische<br>Bedürfnisse | - Sicherung der<br>  Daseinsgrundlagen |
+
+## Fishbein und Tormmsdorff
+
+### Einstellung
+
+>Die Denkhaltung eines Nachfragers gegenüber einer Person, einem Thema oder einer Sache.
+
+- Affektive Komponente: gefühlsmäßige Einschätzung
+- Kognitive Komponente: subjektivs Wissen
+- Konative Komponente: mit der Einstellung verbundene Handlungstendenz
+#### Fishbein-Modell
+$A_{ik} = \sum^n_{j=1} B_{ijk} \cdot a_{ijk}$ 
+
+$A_{ik}=$ Einstellung der Person i zu Objekt k
+$B_{ijk}=$ Wahrscheinlichkeit dafür, dass ein Objekt k nach Meinung des Befragten i eine bestimmte Eigenschaft j besitzt
+$a_{ijk}=$ Bewertung des Objektmerkmals j beim Objekt k durch Person i
+
+#### Trommsdorff-Modell
+$E_{ik} = \sum^n_{j=1} | B_{ijk} - I_{ij} |$
+
+$E_{ik}=$ Einstellung der Person i zu Objekt k
+$B_{ijk}=$ Tatsächlicher Eindruck des j-ten Merkmals in Hinblick auf Objekt k bei Person i
+$I_{jk}=$ Idealbild des j-ten Merkmals für Objekte der gleichen Klasse
+
+## Bestimmungsfaktoren / Determinanten des Kaufverhaltens
+
+- Soziokulturelle Faktoren
+	- Kulturelle Faktoren
+		- Werte
+		- Normen
+		- Tabus
+	- Soziale Faktoren
+		- Lebensstil
+		- Lebensphase
+- Individuelle Faktoren
+	- Presönliche Faktoren
+		- Intilligenz
+		- Durchsetzungsfähigkeit
+	- Psychologische Prozesse
+		- Kognitive Komponenten
+		- Affektive Komponenten
+
+## Marktsegmentierung
+
+>Aufteilung eines Gesamtmarktes bezüglich ihrer Marktreaktion in intern homogene und untereinander heterogene Untergruppen (Marktsegmente) 
+
+Ziele der Marktsegmentierung:
+• Marktidentifizierung
+• Konsumentenbedürfnisse werden besser befriedigt
+• Wettbewerbsvorteile erzielen
+• Rechtzeitige Beurteilung der Konkurrenz
+• Gezielter Einsatz von Marketinginstrumenten
+• Erhöhung des Gewinns oder Umsatzes
+
+Marktsegmentierungskriterien:
+• Demografische Kriterien: Alter, Lebensform etc.
+• Psychografische Kriterien: Lebensstil, Gewohnheiten, Hobbies etc.
+• Soziologische Kriterien: Kultur, Religion, Einkommen etc.
+• Physiologische Kriterien: Geschlecht, Größe, Typ etc.
+• Kriterien des beobachtbaren Kaufverhaltens: Produkt-/Markenwahl, Preisklasse, Kaufhäufigkeit etc.
+
+## Wettbewerbsanalyse
+
+- Branchenanalyse
+- strategische Gruppenalyse
+- Konkurrenzanalyse
+
+
 # Ziele & Strategien
 
 # Produktpolitik
@@ -296,7 +422,7 @@ $x(p)=320-100p$
 >Direktvertrieb ist der perrsönliche Verkauf von Waren und Dienstleistungen. Wichtig ist da der persönliche Kontakt zwischen Anbieter und Kunde, für beidseitigen Informationsaustausch und direkte Beratung.
 
 - Besuch der Kunden zu Kause
-- Warenvorführung, Abbildungen, Beschreibungen 
+- Warenvorführung, Abbildungen, Beschreibungen
 - Bestellungsaufnahme
 - Zustellung der Produkte oder Abholung durch die Kunden
 
