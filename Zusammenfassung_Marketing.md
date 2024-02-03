@@ -1,166 +1,141 @@
-# Kommunikationspolitik
+# Einführung
 
-## Definition
+## KKV
 
->Kommunikationspolitik ist die Gestaltung aller auf den Markt gerchtteten Informationen unter anderem über:
->- Produkte
->- Angebotsformen
->- Unternehmen selber
->Das Ziel ist es den Markt über die eigenen Angebot zu informieren.
+### Effektivität
 
-## Anlässe und Ziele
+>Die richtigen Dinge tun
 
-- Fortdauernder Anlass:
-	  Unternehmen müssen Kunden kuntinuierlich über ihr Leistungsangebot informeiren.
-	  Hauptziel: beim Kunden "in Erinnerung" gerufen werden, nicht in Vergessenheit geraten.
+Leistungen müssen einen **bedeutsamen** Nutzenvorteil im Vergleich zu **wahrgenommenen** Konkurrenzangeboten sein.
+### Effizienz
 
-- spezifische Anlässe:
-	Neuerungen im Unternehmen über die der Markt werden muss.
-	Diese Aktivitäten können in verschiedenen Ausmaßen auftreten:
-	- schwere Herausforderung: neuer Markt wird erschlossen (keine bestehende Kunengruppe)
-	- umfassende Neuerung: neuer Markt wird geschaffen (nicht erschlossen)
-	- weniger umfassende Neuerung: neues Angebot (kein neuer Markt)
+>Die Dinge richtig tun
 
-Die Ziele hängen vom konkreten Anlass ab
-- Neuer Markt: Aufmerksamkeit
-- etabliertes Angebot: bestimmtes Kaufverhalten von Kunden
+Nutzenvorteil muss **verteidigungsfähig** und **wirtschaftlich** sein.
 
-## AIDA
+### Bestimmungsfaktoren des KKV
 
-**A**ttention
-	Aufmerksamkeit auf das Produkt lenken, über das Produkt bekannt machen
-**I**nterest
-	Interesse der Zielgruppe für das Produkt wecken
-**D**esire
-	Interesse für das Angebot zu einer Kaufmotivation entwickeln
-**A**ction
-	Kunden die nötigen Informationen (Website, Preis) geben um zu Kaufen
+- Bedürfnisse der Nachfrager
+- Problemlösungs-Know-How der Konkurrenten
+- Problemlösungs-Know-How des Anbieters
+### Teilperspektiven
 
-## Kommunikatrionspolitische Effektivität und Effizienz
+- Innen: Unternehmen
+- Außen: Markt und Kunden
 
-Kommunikationseffektivität:
-	Auswahl von Kommunikationsinstrumenten mit einem begrenzten Budget um eine maximale Wirkung zu erreichen. Die Kommunikationsinstrumente müssen hinsichtlich Auswahl und Einsatz aufeinander abgestimmt werden (intigrierte Kommunikation).
+- Horizontal: Wettbewerb
+- Vertikal: Vor- und Nachgelagerte Wertschöpfungsstufen
 
-Kommunikationseffizienz:
-	Die Wirtschaftlichkeit der Kommunikationsmaßnahmen, mit dem Kosten-Nutzen-Vergleich der Kommunkationsinstrumente uind -maßnahmen.
+## Marketingkonzeption
 
-# Distributionspolitik
+1. Situationsanalyse
+	Detailierte Analyse der Ausgangssituation
 
-## Definition
+1. Marketing-Ziele
+	   Aus den Unternehmenszielen abzuleiten
 
->50er und 60er Hauptfokus auf Verteilungsaufgaben und Distributionslogistik.
->Später weitere Aufgabe: marktgerichtete akquisitorische Aktivitäten (Abschluss von Kaufverträgen unterstützen)
+1. Marketing-Strategien
+	   - Marktdefinition (Abgrenzung)
+	   - Die Entscheidung wann (Timing)
+	   - Im Alleingang oder in Kooperation mit Partnern
+	   - Wettbewerbsvorteile Planen
+	   - Netto-Nutenvorteile aus Nachfragersicht ermitteln
 
-## Direkter und Indirekter Vertrieb
+1. Marketing-Maßnahmen
+	   - Produktpolitik
+	   - Preispolitik
+	   - DIstributionspolitik
+	   - Kommunikationspolitik
 
->Direktvertrieb ist der perrsönliche Verkauf von Waren und Dienstleistungen. Wichtig ist da der persönliche Kontakt zwischen Anbieter und Kunde, für beidseitigen Informationsaustausch und direkte Beratung.
+1. Marketing-Controlling
+	Zielerreichungsgrad überprüfen
 
-- Besuch der Kunden zu Kause
-- Warenvorführung, Abbildungen, Beschreibungen
-- Bestellungsaufnahme
-- Zustellung der Produkte oder Abholung durch die Kunden
+# Situationsanalyse
 
-Direktvertrieb eignet sich vor allem bei komplexen Verkaufssituationen und Produkten mit erklärungsbedarf.
-Außerdem können individuelle Verkaufsbedingungen ausgehandelt werden und langfristige und persönliche Beziehungen aufgebaut werden.
+# Ziele & Strategien
 
-Indirekter Vertrieb:
->Vertrieb durch Groß- und Einzelhändler oder Absatzhelfer wie Hanelsvertreter
+# Produktpolitik
 
-### 5 Organe des direkten Vertriebs:
+## Difinition
 
-- Außendienst:
-	Außendienstmitarbeiter widmen einen großteil ihrer Arbeitszeit im Außendienst zur Stammkundensicherung und -pflege.
-- Innendienst:
-	Auch Backoffice Supporet genannt, Partner des Außendienst mit dem selben ziel der Kundensicherung. Haupsächlich administrative Aufgaben.
-- Handelsvertreter:
-	Selbstständige Gewerbetreibende die für Unternehemen Geschäfte vermitteln.
-- Filiale:
-	Eigene Filialen haben das Ziel eines emotional-symbolischen Markterlebnisses. Sie schaffen Attraktivität und Marktpäsenz.
-- Internet:
-	Durch das riesige wachstum in den letzten Jahrzenten ist das Internet eines der besten Orte zum Vertrieb geworden.
+> Alle Marketing-Maßnahmen, die auf die Gestaltung der Leistungen eines Unternehmens gerichtet sind.
 
-## Außenvertrieb
-|  | Eigenverkauf mit Außendienstmitarbeitern | Verkauf über Handelsvertreter |
-| ---- | ---- | ---- |
-| Vorteile | - verkauft nur eigene Produkte<br>- direkt motivierbar<br>- kann gut über eigene Produkte ausgebildet werden<br>- vertritt die eigene Firma | - niedrige Kosten<br>- großes Gebiet schnell erschließbar<br>- flexibler Einsatz<br>- bei Erschließung eines neuen Markts sofortiges Insiderwissen |
-| Nachteile | - hohe Kosten<br>- lange Aufbauzeit<br>- unflexible Reaktionsmöglichkeiten auf Absatzrückgäge | - Kontrolle und Schulung nur bedingt möglich<br>- Verkauft auch evt. Produkte anderer Hersteller<br>- ggf. unterschiedliche Ziele<br>- weniger and Kundenzufriedenheit interessiert |
-## E-Commerce
-| Vorteile | Nachteile |
-| ---- | ---- |
-| - direkte Kontaktaufnahme ohne Zwischenhändler<br>- Produkte müssen nicht physisch vorhanden sein<br>- individuelles Marketing besser zu realisieren<br>- bessere Datengewinnung<br>- immer verfügbar<br>- sofortige Angebotsaktualisierung<br>- Kunde kann in Auftragsentwichlung eingebunden werden | - kann nicht in allen Fällen das persönliche Gespräch ersetzen<br>- Konditionsverhandlungen nicht möglich<br>- Preisdifferenzierung nicht möglich<br>- Wettbewerbssituation nur allgemein bekannt<br>- Struktur der Einkäufer nur schwer erkennbar<br>- geringeres Servicelevel für Kunden |
-## Verkäuferkompetenzen
+## Die drei Bestandteile eines Produkts
 
-### Fach- und Methodenkompetzenz:
-- Markt- und Produktkenntnisse
-- Kenntnis der Entscheidungsprozesse und Beteiligten
-- betriebswirtschaftliche Kenntnisse
-- Verständnis der Unternehmens- und Verkaufsziele sowie der Wettbewerbssituation
-- Verkaufsgesprächsführung, Verhandlungsgeschick
-- Analysefähigkeit
-- planerische Fähigkeiten und Selbstorganisation
+1. Produktkern (Kernnutzen)
+2. Formales Produkt (Marke, Image)
+3. Erweitertes Produkt (Gewinnspiele,Aktionen,Angebote)
 
-### Sozialkompetenz:
-- Kommunikations-, Begeisterungs- und Wahrnehmungsfähigkeit
-- Freundlichkeit, Kritikfähigkeit und Humor
-- Flexibilität und Kompromissfähigkeit
-- Team- und Kooperationsfähigkeit
+Zusammenhang Kundenproblem und Produktkerngestaltung
+>Für die Gestaltung des Produktkerns ist die Kenntnis des eigentlichen Kundenproblems und grundlegenden Bedürfnisse der Nachfrager von entscheidender Bedeutung.
 
-### Persönlichkeitsmerkmale:
-- Kontaktfreudigkeit, Offenheit und Initiativkraft
-- Optimismus
-- Selbstvertrauen, Selbstwertgefühl und Durchsetzungsvermögen
-- Einfühlungsvermögen
-- Verantwortungs- und Leistungsbereitschaft sowie Belastbarkeit
-- Kreativität und Improvisationsgabe
-- Lernfähigkeit
-## Betriebsformen des Einzelhandels
+Produktdesign und Formale Produktgestaltung
+>Bei der gestaltung des formalen Produktes stehen die Nutzenbestandteile im Vodergrund, die den Zusatznutzen für Kunden darstellen.
+>Unter Produktdesign wird die planmäßige Gestaltung serieller Artefakte mit starkem ästhetischem Bezug verstanden.
 
-- Einkaufszentren
-- Fachhandel
-- Spezialhandel
-- Fachmärkte
-- Warenhäuser/Kaufhäuser
-- Supermärkte
-- Verbrauchermärkte
-- SB-Warenhäuser
-- Versandhäuser
-- Discounter
-- Freiwillige Ketten/Einzelhandelsring
-- Einkaufsgenossenschaften
+Verpackungsfunktionen:
+- Schutzfunktion (Produktkern)
+- Anmutungsfunktion (formales Produkt)
+- Gebrauchsfunktion (erweitertes Produkt; z.B. wiederverwendung der Verpackung)
 
-## Push- und Pull-Ansatz
-| Push | Pull |
-| ---- | ---- |
-| Druckerzeugung | Sogerzeugung |
-| Absatzmittlerstimulierung durch<br>Vorzug im Verkaufsortiment | indirekte Absatzmittlerstimulierung <br>über den Endkunden |
-| - Rabatte<br>- Prämien<br>- Webemittelunterstützung<br>- Gemeinschaftswerbeaktionen | - Sprungwerbung<br>- Handel kann es sich nicht leisten<br>das Produkt nicht im Sortiment zu haben |
-## Multi Channel Managent
+## Produktlebenszyklus
 
-#### Vorteile:
- - höhere Marktabdeckung
- - kundengerechte Ansprache
- - Wirtschaftlichkeit
- - Risikoausgleich
- - Wettbewerbsvorteil
- - Markenpräsentation
+Einführungsphase:
+ - Produkt kaum bekannt
+ - Unfangreiche wer
 
-#### Nachteile:
-- Kundenverwirrung
-- Konflikte zwischen den Kanälen
-- Kontrollverlust
-- Suboptimierung
-- hohe Investitionskosten
-- Gefahr des Know-how-Abflusses
+Wachstumsphase:
+- verstärkt nachgefragt
+- Break-Even-Point
 
-## Vertikale Distributionsstrukturen
+Sättigungsphase:
+- stagnierende Umsätze
+- verstärkter Preiswettbewerb
+- Produktdifferenzierungen
 
->Die vertikale Distributionsstruktur bezieht sich auf die Anzahl der Distributitions- bzw. Lagerstufen.
+## Anpassung des Produktprogramms
 
-Vertikale Distributionsstrukturen (von fern bis nah am Kunden): 
-- Werkslager
-- Zentrallager
-- Regionallager
-- Auslieferungslager
+### Produktdifferenzierung
+Veränderung von typenbildenden Merkmalen eines bereits im Programm enthaltenen Produktes.
+Das Ziel ist es das neue Produkt vom bisherigen abzugrenzen.
+### Produktelimination
+Herausnahme von nicht erfolgreichen Produkten aus dem Produktions- und Absatzprogramms.
+
+## Break-Even-Menge
+
+$Menge = \frac{Fixkosten}{Preis \ - \ variable \ Kosten}$
+
+Für einen Stand auf dem Weihnachtsmarkt muss täglich eine Standgebühr von 350
+Euro errichtet werden. Eine Waffel kostet den Standbetreiber in der Herstellung 1
+Euro. Diese verkauft er für 4 Euro.
+
+$\frac{350}{4-1} \approx 117$ 
+
+## Scoring Modell
+
+| Kriterium | Gewichtung | Produkt A | Produkt B | Sum A | Sum B |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| Realisierbarkeit | 25% | 7 | 8 | 1,75 | 2 |
+| Innovationsgrad | 20% | 7 | 5 | 1,4 | 1 |
+| Funktionalität | 20% | 8 | 7 | 1,6 | 1,4 |
+| Qualität | 15% | 5 | 6 | 0,75 | 0,8 |
+| Langlebigkeit | 15% | 4 | 6 | 0,6 | 0,9 |
+| Umweltverträglichkeit | 5% | 3 | 4 | 0,15 | 0,2 |
+| Gesamtwert |  |  |  | 6,25 | 6,4 |
+
+## Einstufige Deckungsbeitragsrechnung
+
+|  | A | B | C |
+| ---- | ---- | ---- | ---- |
+| Preis, p | 4 | 2,5 | 1 |
+| Absatz, m | 200 | 200 | 700 |
+| Stückkosten<br>variabel, $k_v$ | 1,75 | 0,75 | 0,571 |
+| Gesamtkosten<br>variabel, $K_v$ |  | 800 |  |
+| Deckungs-<br>beitrag, DB | 450 | 350 | 300.3 |
+| Summe Deckungs-<br>beiträge, $\sum$DB |  | 1100.3 |  |
+| Stückdeckungs-<br>beitrag, db | 2.25 | 1.75 | 0.429 |
+| Betriebs-<br>ergebnis, BE |  | 300.3 |  |
+
 # Preispolitik
 ## Definition
 
@@ -308,85 +283,167 @@ $x(p)= 160 + (-100) \cdot (p - 1,6)$
 
 $x(p)=320-100p$
 
-# Produktpolitik
 
-## Difinition
+# Distributionspolitik
 
-> Alle Marketing-Maßnahmen, die auf die Gestaltung der Leistungen eines Unternehmens gerichtet sind.
+## Definition
 
-## Die drei Bestandteile eines Produkts
+>50er und 60er Hauptfokus auf Verteilungsaufgaben und Distributionslogistik.
+>Später weitere Aufgabe: marktgerichtete akquisitorische Aktivitäten (Abschluss von Kaufverträgen unterstützen)
 
-1. Produktkern (Kernnutzen)
-2. Formales Produkt (Marke, Image)
-3. Erweitertes Produkt (Gewinnspiele,Aktionen,Angebote)
+## Direkter und Indirekter Vertrieb
 
-Zusammenhang Kundenproblem und Produktkerngestaltung
->Für die Gestaltung des Produktkerns ist die Kenntnis des eigentlichen Kundenproblems und grundlegenden Bedürfnisse der Nachfrager von entscheidender Bedeutung.
+>Direktvertrieb ist der perrsönliche Verkauf von Waren und Dienstleistungen. Wichtig ist da der persönliche Kontakt zwischen Anbieter und Kunde, für beidseitigen Informationsaustausch und direkte Beratung.
 
-Produktdesign und Formale Produktgestaltung
->Bei der gestaltung des formalen Produktes stehen die Nutzenbestandteile im Vodergrund, die den Zusatznutzen für Kunden darstellen.
->Unter Produktdesign wird die planmäßige Gestaltung serieller Artefakte mit starkem ästhetischem Bezug verstanden.
+- Besuch der Kunden zu Kause
+- Warenvorführung, Abbildungen, Beschreibungen
+- Bestellungsaufnahme
+- Zustellung der Produkte oder Abholung durch die Kunden
 
-Verpackungsfunktionen:
-- Schutzfunktion (Produktkern)
-- Anmutungsfunktion (formales Produkt)
-- Gebrauchsfunktion (erweitertes Produkt; z.B. wiederverwendung der Verpackung)
+Direktvertrieb eignet sich vor allem bei komplexen Verkaufssituationen und Produkten mit erklärungsbedarf.
+Außerdem können individuelle Verkaufsbedingungen ausgehandelt werden und langfristige und persönliche Beziehungen aufgebaut werden.
 
-## Produktlebenszyklus
+Indirekter Vertrieb:
+>Vertrieb durch Groß- und Einzelhändler oder Absatzhelfer wie Hanelsvertreter
 
-Einführungsphase:
- - Produkt kaum bekannt
- - Unfangreiche wer
+### 5 Organe des direkten Vertriebs:
 
-Wachstumsphase:
-- verstärkt nachgefragt
-- Break-Even-Point
+- Außendienst:
+	Außendienstmitarbeiter widmen einen großteil ihrer Arbeitszeit im Außendienst zur Stammkundensicherung und -pflege.
+- Innendienst:
+	Auch Backoffice Supporet genannt, Partner des Außendienst mit dem selben ziel der Kundensicherung. Haupsächlich administrative Aufgaben.
+- Handelsvertreter:
+	Selbstständige Gewerbetreibende die für Unternehemen Geschäfte vermitteln.
+- Filiale:
+	Eigene Filialen haben das Ziel eines emotional-symbolischen Markterlebnisses. Sie schaffen Attraktivität und Marktpäsenz.
+- Internet:
+	Durch das riesige wachstum in den letzten Jahrzenten ist das Internet eines der besten Orte zum Vertrieb geworden.
 
-Sättigungsphase:
-- stagnierende Umsätze
-- verstärkter Preiswettbewerb
-- Produktdifferenzierungen
+## Außenvertrieb
+|  | Eigenverkauf mit Außendienstmitarbeitern | Verkauf über Handelsvertreter |
+| ---- | ---- | ---- |
+| Vorteile | - verkauft nur eigene Produkte<br>- direkt motivierbar<br>- kann gut über eigene Produkte ausgebildet werden<br>- vertritt die eigene Firma | - niedrige Kosten<br>- großes Gebiet schnell erschließbar<br>- flexibler Einsatz<br>- bei Erschließung eines neuen Markts sofortiges Insiderwissen |
+| Nachteile | - hohe Kosten<br>- lange Aufbauzeit<br>- unflexible Reaktionsmöglichkeiten auf Absatzrückgäge | - Kontrolle und Schulung nur bedingt möglich<br>- Verkauft auch evt. Produkte anderer Hersteller<br>- ggf. unterschiedliche Ziele<br>- weniger and Kundenzufriedenheit interessiert |
+## E-Commerce
+| Vorteile | Nachteile |
+| ---- | ---- |
+| - direkte Kontaktaufnahme ohne Zwischenhändler<br>- Produkte müssen nicht physisch vorhanden sein<br>- individuelles Marketing besser zu realisieren<br>- bessere Datengewinnung<br>- immer verfügbar<br>- sofortige Angebotsaktualisierung<br>- Kunde kann in Auftragsentwichlung eingebunden werden | - kann nicht in allen Fällen das persönliche Gespräch ersetzen<br>- Konditionsverhandlungen nicht möglich<br>- Preisdifferenzierung nicht möglich<br>- Wettbewerbssituation nur allgemein bekannt<br>- Struktur der Einkäufer nur schwer erkennbar<br>- geringeres Servicelevel für Kunden |
+## Verkäuferkompetenzen
 
-## Anpassung des Produktprogramms
+### Fach- und Methodenkompetzenz:
+- Markt- und Produktkenntnisse
+- Kenntnis der Entscheidungsprozesse und Beteiligten
+- betriebswirtschaftliche Kenntnisse
+- Verständnis der Unternehmens- und Verkaufsziele sowie der Wettbewerbssituation
+- Verkaufsgesprächsführung, Verhandlungsgeschick
+- Analysefähigkeit
+- planerische Fähigkeiten und Selbstorganisation
 
-### Produktdifferenzierung
-Veränderung von typenbildenden Merkmalen eines bereits im Programm enthaltenen Produktes.
-Das Ziel ist es das neue Produkt vom bisherigen abzugrenzen.
-### Produktelimination
-Herausnahme von nicht erfolgreichen Produkten aus dem Produktions- und Absatzprogramms.
+### Sozialkompetenz:
+- Kommunikations-, Begeisterungs- und Wahrnehmungsfähigkeit
+- Freundlichkeit, Kritikfähigkeit und Humor
+- Flexibilität und Kompromissfähigkeit
+- Team- und Kooperationsfähigkeit
 
-## Break-Even-Menge
+### Persönlichkeitsmerkmale:
+- Kontaktfreudigkeit, Offenheit und Initiativkraft
+- Optimismus
+- Selbstvertrauen, Selbstwertgefühl und Durchsetzungsvermögen
+- Einfühlungsvermögen
+- Verantwortungs- und Leistungsbereitschaft sowie Belastbarkeit
+- Kreativität und Improvisationsgabe
+- Lernfähigkeit
+## Betriebsformen des Einzelhandels
 
-$Menge = \frac{Fixkosten}{Preis \ - \ variable \ Kosten}$
+- Einkaufszentren
+- Fachhandel
+- Spezialhandel
+- Fachmärkte
+- Warenhäuser/Kaufhäuser
+- Supermärkte
+- Verbrauchermärkte
+- SB-Warenhäuser
+- Versandhäuser
+- Discounter
+- Freiwillige Ketten/Einzelhandelsring
+- Einkaufsgenossenschaften
 
-Für einen Stand auf dem Weihnachtsmarkt muss täglich eine Standgebühr von 350
-Euro errichtet werden. Eine Waffel kostet den Standbetreiber in der Herstellung 1
-Euro. Diese verkauft er für 4 Euro.
+## Push- und Pull-Ansatz
+| Push | Pull |
+| ---- | ---- |
+| Druckerzeugung | Sogerzeugung |
+| Absatzmittlerstimulierung durch<br>Vorzug im Verkaufsortiment | indirekte Absatzmittlerstimulierung <br>über den Endkunden |
+| - Rabatte<br>- Prämien<br>- Webemittelunterstützung<br>- Gemeinschaftswerbeaktionen | - Sprungwerbung<br>- Handel kann es sich nicht leisten<br>das Produkt nicht im Sortiment zu haben |
+## Multi Channel Managent
 
-$\frac{350}{4-1} \approx 117$ 
+#### Vorteile:
+ - höhere Marktabdeckung
+ - kundengerechte Ansprache
+ - Wirtschaftlichkeit
+ - Risikoausgleich
+ - Wettbewerbsvorteil
+ - Markenpräsentation
 
-## Scoring Modell
+#### Nachteile:
+- Kundenverwirrung
+- Konflikte zwischen den Kanälen
+- Kontrollverlust
+- Suboptimierung
+- hohe Investitionskosten
+- Gefahr des Know-how-Abflusses
 
-| Kriterium | Gewichtung | Produkt A | Produkt B | Sum A | Sum B |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-| Realisierbarkeit | 25% | 7 | 8 | 1,75 | 2 |
-| Innovationsgrad | 20% | 7 | 5 | 1,4 | 1 |
-| Funktionalität | 20% | 8 | 7 | 1,6 | 1,4 |
-| Qualität | 15% | 5 | 6 | 0,75 | 0,8 |
-| Langlebigkeit | 15% | 4 | 6 | 0,6 | 0,9 |
-| Umweltverträglichkeit | 5% | 3 | 4 | 0,15 | 0,2 |
-| Gesamtwert |  |  |  | 6,25 | 6,4 |
+## Vertikale Distributionsstrukturen
 
-## Einstufige Deckungsbeitragsrechnung
+>Die vertikale Distributionsstruktur bezieht sich auf die Anzahl der Distributitions- bzw. Lagerstufen.
 
-|  | A | B | C |
-| ---- | ---- | ---- | ---- |
-| Preis, p | 4 | 2,5 | 1 |
-| Absatz, m | 200 | 200 | 700 |
-| Stückkosten<br>variabel, $k_v$ | 1,75 | 0,75 | 0,571 |
-| Gesamtkosten<br>variabel, $K_v$ |  | 800 |  |
-| Deckungs-<br>beitrag, DB | 450 | 350 | 300.3 |
-| Summe Deckungs-<br>beiträge, $\sum$DB |  | 1100.3 |  |
-| Stückdeckungs-<br>beitrag, db | 2.25 | 1.75 | 0.429 |
-| Betriebs-<br>ergebnis, BE |  | 300.3 |  |
+Vertikale Distributionsstrukturen (von fern bis nah am Kunden): 
+- Werkslager
+- Zentrallager
+- Regionallager
+- Auslieferungslager
 
+# Kommunikationspolitik
+
+## Definition
+
+>Kommunikationspolitik ist die Gestaltung aller auf den Markt gerchtteten Informationen unter anderem über:
+>- Produkte
+>- Angebotsformen
+>- Unternehmen selber
+>Das Ziel ist es den Markt über die eigenen Angebot zu informieren.
+
+## Anlässe und Ziele
+
+- Fortdauernder Anlass:
+	  Unternehmen müssen Kunden kuntinuierlich über ihr Leistungsangebot informeiren.
+	  Hauptziel: beim Kunden "in Erinnerung" gerufen werden, nicht in Vergessenheit geraten.
+
+- spezifische Anlässe:
+	Neuerungen im Unternehmen über die der Markt werden muss.
+	Diese Aktivitäten können in verschiedenen Ausmaßen auftreten:
+	- schwere Herausforderung: neuer Markt wird erschlossen (keine bestehende Kunengruppe)
+	- umfassende Neuerung: neuer Markt wird geschaffen (nicht erschlossen)
+	- weniger umfassende Neuerung: neues Angebot (kein neuer Markt)
+
+Die Ziele hängen vom konkreten Anlass ab
+- Neuer Markt: Aufmerksamkeit
+- etabliertes Angebot: bestimmtes Kaufverhalten von Kunden
+
+## AIDA
+
+**A**ttention
+	Aufmerksamkeit auf das Produkt lenken, über das Produkt bekannt machen
+**I**nterest
+	Interesse der Zielgruppe für das Produkt wecken
+**D**esire
+	Interesse für das Angebot zu einer Kaufmotivation entwickeln
+**A**ction
+	Kunden die nötigen Informationen (Website, Preis) geben um zu Kaufen
+
+## Kommunikatrionspolitische Effektivität und Effizienz
+
+Kommunikationseffektivität:
+	Auswahl von Kommunikationsinstrumenten mit einem begrenzten Budget um eine maximale Wirkung zu erreichen. Die Kommunikationsinstrumente müssen hinsichtlich Auswahl und Einsatz aufeinander abgestimmt werden (intigrierte Kommunikation).
+
+Kommunikationseffizienz:
+	Die Wirtschaftlichkeit der Kommunikationsmaßnahmen, mit dem Kosten-Nutzen-Vergleich der Kommunkationsinstrumente uind -maßnahmen.
