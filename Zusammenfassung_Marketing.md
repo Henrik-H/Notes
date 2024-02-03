@@ -265,6 +265,185 @@ $Marktausschoepfungsgrad = \frac{Marktvolumen}{Marktpotenzial}$
 
 # Ziele & Strategien
 
+## Zielformulierung
+
+- Zielinhalt
+	  Was soll erreicht werden?
+- Zielausmaß
+	  Wann gilt ein Ziel als erreicht?
+- Zielbezug
+	  Festlegugn des Zeitlicher Ramens
+- Segmentbezug
+	  Festlegung auf ein Segment
+
+## Zielpyramide
+
+| Ziel | Funktion |
+| ---- | ---- |
+| Unternehmenszweck | Langfristige Zielvorstellung und Vision des Unternehmens |
+| Unternehmensziele | Richtgrößen für das unternehmische Handeln |
+| Ziele der strategischen<br>Geschäftseinheit | Ziele einer organisatorischen Einheit im Unternehmen<br>**(Für das Marketing relevante Ebene)** |
+| Funktionalziele | Die verschiedenen Unternehmensfunktionen <br>(Fertigung, Forschung, usw.) |
+| Instrumentalziele | Kombination von Aktionsparemetern um <br>Funktionsziele zu realisieren |
+
+## Ökonomische und Psychografische Ziele
+### Ökonomisch
+
+>Eng mit den generellen Unternehmenszielen zusammenhängende Größen
+- Gewinn
+- Rentabilität
+- Unternehmenswert
+### Psychografisch
+
+>psychische Prozesse, die zu einer positiven Einstellung gegenüber dem Unternehmen und seinen Produkten führen
+- Motive
+- Einstellungen
+- Images
+## Marketing-Funnel
+
+- Awareness
+- Familiarity
+- Relevant Set
+- First Choice
+  
+- Choice
+- Loyalty
+
+## Zielbeziehungstypen
+
+- Komplementäre Beziehung
+	  Die Ziele sind postitiv miteinander verbunden
+- Indifferente Beziehung
+	  Die Ziele haben keinen Effekt aufeinander
+- Konfliktäre Beziehung
+	  Die Ziele stehen gegeneinander
+
+## Marketing-Strategien
+
+### Definition A
+
+>Das Bindeglied zwischen Marketing-Zielen und -Instrumenten. 
+>Um Marketing-Ziele realisieren zu können, kommt es zwar letztlich auf konkrete, für den Kunden sichtbare Marketing-Instrumente 
+>(Produkte, Preise, Kommunikation und Distribution) an, diese lassen sich allerdings nur dann effektiv und effizient gestalten, 
+>wenn zuvor die grundsätzliche Richtung ihrer Ausgestaltung festgelegt worden ist. 
+>
+>Gesucht wird also ein genereller Handlungsrahmen für die  Marketing-Instrumente, 
+>der die Erreichung der vorgegebenen Marketing-Ziele möglichst umfassend sicherstellt. 
+>Genau diesen generellen Handlungsrahmen für die Marketing-Instrumente bilden die Marketing-Strategien.
+
+### Definition B
+
+>Auf die Erreichung von Marketing-Zielen gerichteter Handlungsrahmen für die Marketing-Instrumente (Produkte, Preise, Kommunikation und Distribution).
+>Dieser Rahmen diehnt der Festlegung von KKVs. 
+>Wenn dieses Verständnis für Marketing-Strategien zugrunde gelegt wird, 
+>dann gehören zum Bereich der Marketing-Strategien alle grundsätzlichen Festlegungen im Marketing, mit deren Hilfe KKVs definiert werden.
+
+### Teilstrategien im Marketing
+
+- Zielgruppen-Strategie
+	  Wer soll im Markt addressiert werden?
+- Timing-Strategie
+	  Wann sollen die ausgewählten Gruppen bearbeitete werden?
+- Marktstimulierungs-Strategie
+	  Wie sollen Nutzenvorteile für die Nachfrager garanteirt werden?
+- Kooperationspartner-Strategie
+	  Mit wem soll der Markt bearbeitet werden?
+
+## Kundenwert
+
+### Bestimmungsfaktoren
+
+- Marktpotenzial (unmittelbar)
+	- Ertragspotenzial
+	- Entwicklungspotenzial
+	- Cross-Buying-Potenzial
+	- Loyalitätspotenzial
+- Ressourcenpotenzial (mittelbar)
+	- Referenzpotenzial
+	- Informationspotenzial
+	- Kooperations- und Synergiepotenzial
+
+### Methoden zur Kundenwertsbestimmung
+
+| Zuordnung<br>/ Bewertung | Individuelle Darstellung | Kumulierte Darstellung |
+| ---- | ---- | ---- |
+| Eindimensional | - Kunden Deckungs<br>Beitrags Rechnung<br>- Customer-Lifetime-Value | - ABC-Analyse |
+| Mehrdimensional | - Scoring-Modelle | - Klassisches Kunden-Portfolio |
+## Timing-Strategien
+
+- Pionier
+	  Erste in einem neun Markt
+- Frühe Folger
+	  Abieter, die kurze Zeit nach dem Pionier einsteigen
+- Späte Folger
+	  Einsteiger in einen lang etablierten Markt
+
+## Marktstrategien für einen KKV
+
+Eindimensionale Strategien
+> Führerschaft bei einzelnenNutzendimension
+
+Mehrdimensionale Strategien
+> ideal, kombiniertes Angebot verschiedener Nutzendimensionen
+
+| Strategie | Beschreibung |
+| ---- | ---- |
+| Qualitätsführerschaft | Entscheidener Vorteil durch das<br>Angebot einer besseren Leistung |
+| Presiführerschaft | Überzeugung durch einen<br>absoluten Preisvorteil |
+| Zeitführerschaft | Vorteil durch Zeit (Früheinsteiger) |
+| Flexibilitätsstrategie | "Zur richtigen Zeit am richtigen Ort" |
+| Strategie zeitbasierten<br>Opportunitätsnutzens | Zeitreduktion oder parallele<br>Zeitverwendung |
+| Beziehungsführerschaft | Bereits bestehende positive<br>Kunden- oder Geschäftsbeziehungen |
+
+## Marken
+
+>Differenzierung von anderen mit ähnlichen Nutzenbündeln durch spezifische Merkmale
+
+Vorteile:
+- Unsicherheitsreduktion
+- Kaufeffizienz
+- Immaterieller Nutzen
+## Kundenrückgewinnungsmanagement
+
+1. Identifikation geeigneter abgewanderter Kunden
+2. Abwanderungsanalyse
+3. Behebung der Abwanderungsprobleme
+4. Entwicklung geeigneter Kundenrückgewinnungsmaßnahmen
+5. Nachbetreuung zurückgewonnener Kunden
+
+## Confirmation / Disconfirmation-Paradigma (C/D-Paradigma)
+
+>Kundenzufriedenheit resultiert aus einem Vergleich der Erfahrungen bei der Inanspruchnahme einer Leistung (Ist-Leistung) 
+>und einem kundenseitig bestehenden Vergleichsstandard (Soll-Leistung).
+
+Ergebnisse des Vergleichprozesses:
+- Wahrgenommene Leistungsniveau unterhalb des Vergleichstandarts
+	  negative Diskonfirmation, Unzufriedenheit
+- Wahrgenommene Leistungsniveau gleich mit dem Vergleichstandart
+	  Konfirmation, Zufriedenheit
+- Wahrgenommene Leistungsniveau oberhalb des Vergleichstandarts
+	  positive Diskonfirmation, Zufriedenheit
+## Kundenzufriedenheit Messungsmethoden
+
+| Objektive Methoden | Subjektive Methoden |
+| ---- | ---- |
+| - Absatz<br>- Umsatz<br>- Marktanteil<br>- Wiederkaufsrate<br>- Kundenverluste/eroberung<br>- Häufigkeit von Mägeln<br>- Qualitätskontrollen | - Beschwerden<br>- Beschwerdezufriedenheit<br>- Erfassung enttäuschter Erwartungen<br>- Meinungsforschung |
+## Kooperation
+### Vorteile
+- Mangelnde Ressourcen
+- Mangelndes Know-How
+- Kostenvorteile
+- Reduzierung des Wettbewerbes
+- Wachstum
+- Erhöhung der Wirtschaftlichkeit
+- Risikominderung
+### Vertikale Kooperation
+
+>Kooperation mit einem Unternehmen mit vor- oder nachgelagerten Werschöpfungsstufen
+### Horizontale Kooperation
+
+>Kooperation mit einem Unternehemen gleicher Wertschöpfungsstufe
+
 # Produktpolitik
 
 ## Difinition
