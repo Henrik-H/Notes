@@ -296,7 +296,7 @@ $x(p)=320-100p$
 >Direktvertrieb ist der perrsönliche Verkauf von Waren und Dienstleistungen. Wichtig ist da der persönliche Kontakt zwischen Anbieter und Kunde, für beidseitigen Informationsaustausch und direkte Beratung.
 
 - Besuch der Kunden zu Kause
-- Warenvorführung, Abbildungen, Beschreibungen
+- Warenvorführung, Abbildungen, Beschreibungen 
 - Bestellungsaufnahme
 - Zustellung der Produkte oder Abholung durch die Kunden
 
