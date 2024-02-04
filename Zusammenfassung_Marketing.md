@@ -2,12 +2,13 @@
 
 ## KKV
 
-### Effektivität
+### Dimensionen
+#### Effektivität
 
 >Die richtigen Dinge tun
 
 Leistungen müssen einen **bedeutsamen** Nutzenvorteil im Vergleich zu **wahrgenommenen** Konkurrenzangeboten sein.
-### Effizienz
+#### Effizienz
 
 >Die Dinge richtig tun
 
