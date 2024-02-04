@@ -673,7 +673,14 @@ $x(p)= 160 + (-100) \cdot (p - 1,6)$
 
 $x(p)=320-100p$
 
+## Gewinnmaimaler Preis
 
+$G = U - K = x*p - K$
+
+1. Gewinnfunktion aufstellen
+2. 1. Ableitung mit 0 gleichsetzen 
+3. 2. Ableitung auf Maximum prüfen
+4. 0-Stelle einsetzen
 # Distributionspolitik
 
 ## Definition
