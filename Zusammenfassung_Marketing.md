@@ -830,12 +830,16 @@ Die Ziele hängen vom konkreten Anlass ab
 
 **A**ttention
 	Aufmerksamkeit auf das Produkt lenken, über das Produkt bekannt machen
+	
 **I**nterest
 	Interesse der Zielgruppe für das Produkt wecken
+	
 **D**esire
 	Interesse für das Angebot zu einer Kaufmotivation entwickeln
+	
 **A**ction
 	Kunden die nötigen Informationen (Website, Preis) geben um zu Kaufen
+	
 
 ## Kommunikatrionspolitische Effektivität und Effizienz
 
