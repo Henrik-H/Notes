@@ -90,4 +90,12 @@ LEFT JOIN = $A$
 
 OUTER JOIN = $A \cup B$
 
+# Graph-Datenbanken
+
+>Eine NoSQL Datenbank bestehend aus Nodes und Edges. Stellt die Beziehungen zwischen Datenpukten dar. 
+>Gut für komplexe Datenbeziehungen wie Routenplanung, Sotziale Netzwerke oder Empfehlungs-Algorithmen 
+
+# Dokument-Datenbanken
+
+> Bestehend aus Keys und Values ( wie Dictionaries in Python). Leicht in den meisten Programmiersprachen wie Javascript und Python zu nutzen.
 
