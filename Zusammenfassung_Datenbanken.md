@@ -85,6 +85,9 @@ WHERE column_name IS NOT NULL;
 # Joins
 
 INNER JOIN = $A \cap B$
+
 LEFT JOIN = $A$
+
 OUTER JOIN = $A \cup B$
+
 
