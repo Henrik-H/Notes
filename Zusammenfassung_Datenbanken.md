@@ -69,20 +69,21 @@
 # Where
 
 ```SQL
---- BETWEEN AND
 WHERE column_name BETWEEN value1 AND value2;
-
---- LIKE
+--- BETWEEN AND
 
 WHERE column_name LIKE 'Text_gesucht';
---- Fängt mit A an, endet mit l
-WHERE column_name LIKE 'A%l';
---- Zeichen vor oder nach dem Text
-WHERE column_name LIKE 'Apfe_';
+--- LIKE
 
---- IS NULL
+WHERE column_name LIKE 'A%l';
+--- Fängt mit A an, endet mit l
+
+WHERE column_name LIKE 'Apfe_';
+--- Zeichen vor oder nach dem Text
+
 WHERE column_name IS NULL;
 WHERE column_name IS NOT NULL;
+--- IS (NOT) NULL
 ```
 
 # Joins
