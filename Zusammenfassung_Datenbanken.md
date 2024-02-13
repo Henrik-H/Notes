@@ -74,8 +74,10 @@ WHERE column_name BETWEEN value1 AND value2;
 
 --- LIKE
 WHERE column_name LIKE 'Text_gesucht';
-WHERE column_name LIKE 'A%l'; --- Fängt mit A an, endet mit l
-WHERE column_name LIKE 'Apfe_'; --- Zeichen vor oder nach dem Text
+--- Fängt mit A an, endet mit l
+WHERE column_name LIKE 'A%l';
+--- Zeichen vor oder nach dem Text
+WHERE column_name LIKE 'Apfe_';
 
 --- IS NULL
 WHERE column_name IS NULL;
