@@ -73,6 +73,7 @@
 WHERE column_name BETWEEN value1 AND value2;
 
 --- LIKE
+
 WHERE column_name LIKE 'Text_gesucht';
 --- Fängt mit A an, endet mit l
 WHERE column_name LIKE 'A%l';
