@@ -164,7 +164,124 @@ Typen:
 ![Prozess-Mining](attachments/8.png)
 
 # 03 Modellierung betrieblicher Informationssysteme
+## Grundlagen der Modellierung
+### Was ist Modellierung?
+>Unter der Modellierung (engl.: modeling) versteht man die vereinfachende und zweckorientierte Abbildung eines Sachverhalts. Der Begriff Abbildung lässt sich hier sowohl als Verrichtung als auch als Ergebnis verstehen. Als Verrichtung beschreibt die Modellierung den Vorgang, einen Sachverhalt nach Maßgabe eines bestimmten Zwecks zu verkürzen und abzubilden. Als Ergebnis erhält man aus diesem Vorgang ein Modell (engl.: model).
+### Modellierung vs. Modell
+Charakteristika der Modellierung:
+- Abbildungscharakter (Modell hat Bezug zur Wiener U-Bahn)
+- Vereinfachungseigenschaft (Teil aus der Realwelt -> Zweckorientierung)
+- Zweckorientierung (Stadtplan vs. Netzplan)
+### Prinzipien des Modellierens
+>Die **Partitionierung** bezeichnet die Zerlegung eines großen Problems oder Sachverhalts in einzelne, weitgehend isolierbare Teilbereiche.
+BSP: Zerlegung in einzelne U-Bahn Linien, Zerlegung von Aufgaben, Organisationseinheiten oder Daten
 
+>Die **Projektion** beschreibt die Betrachtung eines Sachverhalts aus einer bestimmten Perspektive. 
+>Dabei werden Sachverhalte weggelassen, die für diese Perspektive nicht relevant sind.
+BSP: Netzplan = Perspektive auf Haltestellen, Rollen in Prozessen
+
+>Die **Abstraktion** bezeichnet das Ausblenden von Details und ermöglicht so eine Konzentration auf die wesentlichen Sachverhalte.
+BSP: In beiden U-Bahn Modellen wird von zwei Schienensträngen abstrahiert zu einer Linie
+
+GEMEINSAM FÖRDERN SIE DIE VEREINFACHUNGSEIGENSCHAFT DER MODELLIERUNG
+### Arten von Modellen
+- Istmodell: ein Modell, das einen Sachverhalt in seinem aktuellen Zustand in der Realwelt beschreibt.
+- Sollmodell: Es zeigt einen Sachverhalt, wie er sich in der Zukunftg darstellen soll. Referenzmodelle abstrahieren von einem konkreten Sachverhalt.
+- Referenzmodell: Versucht für eine allgemeine Problemstellung eine anerkannte Lösung darzustellen.
+- Idealmodell: Versucht im Gegenzug zu einem Referenzmodell für eine individuelle Problemstellung eine individuelle Lösung darzustellen.
+## Modellierungssprachen
+### Was ist eine Modellierungssprache?
+>Unter einer Modellierungssprache versteht man eine künstliche Sprache, die für den Zweck der Modellierung geschaffen worden ist. 
+>Diese Sprache besteht aus einer Reihe von Konstruktionselementen (Syntax) mit vordefinierter Bedeutung (Semantik).
+>Diese Elemente können gemäß vorgegebenen Regeln (Grammatik) zu einem Modell zusammengefügt und benannt werden.
+### Die Modellierungssprache BPMN
+>Die BPMN (Business Process Model and Notation) ist eine Modellierungssprache, um den Ablauf eines Prozesses im Hinblick auf zeitlich-sachlogische Abhängigkeiten zwischen Aktivitäten und Ereignissen zu beschreiben. Gatter beschreiben Entscheidungen und Parallelausführungen.
+
+![BPMN_Elementtypen](attachments/9.png)
+
+![BPMN_Syntax_Semantik](attachments/10.png)
+
+![BPMN_Modellierungsqualitaet](attachments/11.png)
+
+### ARIS-Architekturmodell Architektur integrierter Informationssysteme
+>Die Architektur integrierter Informationssysteme ist die gesamtheitliche Beschreibung der Prozesse, Organisationsstrukturen, Funktionen, Daten und Kommunikationsbeziehungen der Informationssysteme eines Betriebs.
+
+- ARIS stellt Methoden für eine integrierte Unternehmensmodellierung zur Verfügung, bei der alle Sichten und Beschreibungsebenen berücksichtigt werden.
+- Im Vordergrund: Modellierung, Analyse und Optimierung von Geschäftsprozessen.
+
+ARIS unterscheidet fünf Sichten:
+- Organisationssicht
+- Funktionssicht
+- Datensicht
+- Steuerungssicht
+- Leistungssicht
+
+ARIS unterscheidet drei Beschreibungsebenen:
+- Fachkonzept
+- DV-Konzept
+- Implementierung
+
+In jeder Sicht und Ebene werden verschiedene Modellierungssprachen verwendet.
+
+![Modellierung](attachments/12.png)
+
+![ARIS](attachments/13.png)
+
+![ARIS](attachments/14.png)
+
+Jeder Prozess (steuerungssicht)...
+- wird von einem Akteur umgesetzt (Organisationssicht)
+- benötigt und erzeugt Daten (Datensicht)
+- setzt sich zusammen aus verschiedenen Funktionen
+- hat einen Output (Leistungssicht)
+### Modellierung der Organisationssicht Am Beispiel eines Organigramms
+>In Organigrammen werden gemäß der gewählten Strukturierungskriterien die gebildeten Organisationseinheiten mit ihren Beziehungen grafisch dargestellt. Organisationseinheiten sind Träger der zum Erreichen der Unternehmensziele durchzuführenden Aufgaben. Organigramme dienen zur Beschreibung der Organisationssicht in ARIS.
+### Modellierung der Funktionssicht Am Beispiel eines Zieldiagramms
+>Zieldiagramme stellen die Zerlegung von betrieblichen Zielen in eine Hierarchie von untergeordneten Zielen dar.
+
+- Möchte die Ziele des Unternehmens explizit machen
+- Sie werden in ARIS der Funktionssicht zugeordnet.
+- Ganz oben steht ein sehr allgemeines Ziel. Jede Ebene verfeinert das allgemeine Ziel
+- Ziele sollten „smart“ formuliert werden
+
+- s = spezifisch 
+- m = messbar 
+- a = akzeptiert 
+- r = realistisch 
+- t = terminiert
+### Modellierung der Funktionssicht Am Beispiel eines Zieldiagramms
+>Der Funktionshierarchiebaum stellt die Zerlegung von betriebliche Funktionen in eine Hierarchie von Unterfunktionen dar.
+
+- Funktionshierarchiebäume dienen zur Beschreibung der Funktionssicht in ARIS
+- Funktionen sind auf höherer Ebene Arbeitsvorrichtungen mit einem In- und Output
+- Funktionen werden in Teilfunktionen zerlegt (Hierachie)
+### Modellierung der Datensicht Am Beispiel eines Entity-Relationship-Modells
+>Das Entity-Relationship-Modell definiert die Datenelemente mit ihren Attributen, die in einem Informationssystem gespeichert werden sollen. 
+>Zusätzlich werden die Beziehungen zwischen diesen Datenelementen definiert.
+
+> Das Kardinalitätsverhältnis drückt den Grad einer Beziehung aus und besagt, wie viele Entities eines beteiligten Entitätstyps mit wie vielen Entities des anderen beteiligten Entitätstyps in Beziehung treten können.
+
+![ERM](attachments/15.png)
+### Modellierung der Leistungssicht Am Beispiel eines Produktbaumes
+>Produktbäume stellen die Zerlegung von Leistungen in eine Hierarchie von Teilleistungen dar.
+
+- Eine Leistung repräsentiert ein Produkt oder eine Dienstleistung
+- Die Produkte werden in ihre Bestandteile zerlegt
+- So ist es möglich auch Stücklisten zu beschreiben
+- Produktbäume sind auch ein Hilfsmittel für die Beschaffung
+- Sie werden in ARIS der Leistungssicht zugeordnet
+
+### Modellierung der Steuerungssicht Am Beispiel eines Wertschöpfungskettendiagramm
+>Das Wertschöpfungskettendiagramm stellt betriebliche Prozesse auf einem abstrakten Niveau dar und veranschaulicht, wie die dargestellten Prozesse miteinander zusammenhängen.
+
+- Sie dienen in ARIS zur Beschreibung der Steuerungssicht
+- Werden genutzt, um die Gesamt- oder Teilabläufe des Unternehmens darzustellen
+### Modellierung der Steuerungssicht Am Beispiel eines Ereignisgesteuerte Prozessketten
+>Die ereignisgesteuerte Prozesskette (EPK) ist eine grafische Modellsprache und dient der systematischen Darstellung von Geschäftsprozessen.
+
+- Die Ereignisse stehen im Vordergrund
+- Diese Prozesse werden mithilfe definierter Syntaxregeln und einer semiformalen Modellierungssprache erstellt.
+- Diese sind der Steuerungssicht zugeordnet
 # 04 ERP-Systeme
 
 # 05 Managementunterstützungssysteme
