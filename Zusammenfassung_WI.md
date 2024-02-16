@@ -144,4 +144,41 @@ Abstraktionsebenen:
 >Es gibt viele Heuristiken welche die Probleme beim erreichen bestimmter Ziele beschreibt.
 
 ## Prozesseinführung
+>Maßnahmen um die Prozessnötige Infrastruktur bereitzustellen.
+### Geschäftsprozessmanagementsysteme (GPMS)
+>Ein Softwaresystem das die Entwicklung von Geschäftsprozessen in allen Bereichen unterstützt.
 
+Typen:
+- **Groupware-Systeme**: fördert Zusammenarbeit der Benutzer
+- **Ad-hoc-Workflowsysteme**: Prozessabläufe können im Bedarfsfall geändert werden
+- **Strukturierte Workflowsysteme**: Arbeiten mit genormten Abläufen
+## Prozessüberwachung
+
+### mit Kennzahlen
+
+![Kennzahlen](attachments/7.png)
+
+### mit Prozess-Mining
+>Analyse des gesamten Systems
+
+![Prozess-Mining](attachments/8.png)
+
+# 03 Modellierung betrieblicher Informationssysteme
+
+# 04 ERP-Systeme
+
+# 05 Managementunterstützungssysteme
+
+# 06 Informationssysteme
+
+# 07 Grundlagen des Computers
+
+# 08 Hardware
+
+# 09 Mathematische Grundlagen
+
+# 10 Betriebssysteme
+
+# 11 Datenkommunikation und Rechnernetze
+
+# 12 Datenspeicherung
