@@ -121,4 +121,27 @@ Abstraktionsebenen:
 - Geschäftserforderliche Funktionen
 - Nicht wertschöpfende Funktionen
 ### Ursache-Wirkungs-Diagramm
+>Mögliche Ursachen für Probleme finden. Ursachen werden in sechs Bereiche unterteilt.
+
+- Mensch
+- Maschinen
+- Umwelt
+- Material
+- Methoden
+- Messung
+
+![Ursache-Wirkungs-Diagramm](attachments/5.png)
+
+## Prozessverbesserung
+>Entwickelt Vorschläge under Verbesserungen zu gefundenen Schwachstellen
+### Dimensionen
+>Es ist nicht möglich alle Dimensionen zur gleichen Zeit zu verbesseren
+
+![Dimensionen](attachments/6.png)
+
+### Redesign-Heuristik
+>Maßname zur Umgestaltung eines Geschäftsprozesses, die mit der Erwartung einer Verbesserung in zumindest einer Dimension verbunden ist.
+>Es gibt viele Heuristiken welche die Probleme beim erreichen bestimmter Ziele beschreibt.
+
+## Prozesseinführung
 
