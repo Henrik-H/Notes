@@ -63,7 +63,6 @@ Prozessorientierung
 ![Geschäftsprozess](attachments/1.png)
 
 ## Geschäftsprozessmanagement
-
 >Geschäftsprozesse **effizienter** und **effektiver** machen
 
 | Rolle | Verantwortlichkeit |
@@ -78,23 +77,20 @@ Prozessorientierung
 
 ## Prozessidentifikation
 ### Prozesse benennen
-
 Eine Benennung muss folgende Eigenschaften haben:
 - Konsistent
 - Wiederspruchsfrei
 ### Prozesslandkarte
-
 >Grafische Darstellung der wesentlichen Prozesse mit Aufgabe, Zusammenhängen und Schnittstellen
 
-![Prozesslandkart](attachments/3.png)
+![Prozesslandkarte](attachments/3.png)
 
 ### Referenzmodell
 >Modell, das eine anerkannte gut Lösung für ein häufig auftretendes Problem bietet.
 
-![Referenzmodelle](4.png)
+![Referenzmodelle](attachments/4.png)
 ### Prozesse bewerten
 - Strategische Wichtigkeit
 - Verbesserungs-würdigkeit
 - Verbesserungs-fähigkeit
 ### Prozesse strukturieren (Modellieren)
-
