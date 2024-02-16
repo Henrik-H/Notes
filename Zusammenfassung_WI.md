@@ -38,7 +38,6 @@ Informationssystem-Erfolgsmodell von DeLone und McLean
 - Vertikale Integration: verknüpft Teilsysteme des gleichen Funktionsbereichs auf verschiedenen Stufen(Arbeiter und Management)
 - Horizontale Integration: verbindet Teilsysteme aus unterschiedlichen Funktionsbereichen auf einer Ebene
 ## Wechselwirkungen mit der Gesellschaft
-
 ### Problemfelder
 
 | Gebiet | Herausforderung |
@@ -61,6 +60,20 @@ Geschäftsprozess
 Prozessorientierung
 >Ansatz zur Organisation eines Betriebs, der die Geschäftsprozesse in den Mittelpunkt stellt
 
-![01](attachments/1.png)
+![Geschäftsprozess](attachments/1.png)
 
----
+## Geschäftsprozessmanagement
+
+>Geschäftsprozesse **effizienter** und **effektiver** machen
+
+| Rolle | Verantwortlichkeit |
+| ---- | ---- |
+| Geschäftsführung | - Gestaltung der Geschäftsprozesse<br>- Beauftragt initiative Prozessverbesserung<br>- Strategische Ausrichtung |
+| Prozessverantwortlicher | - Prozesse effizient und effektiv gestalten<br>- Planung und Führung der Prozesse |
+| Prozessteilnehmer | - Routieneaufgaben |
+| Systemanalytiker | - Analyse zur Verbesserung der Prozesse |
+| Anwendungsentwickler | - korrekte Umsetzung der Prozessvorgaben <br>in betrieblichen Informationssystemen |
+![Lebenszyklus](attachments/2.png)
+
+## Prozessidentifikation
+
