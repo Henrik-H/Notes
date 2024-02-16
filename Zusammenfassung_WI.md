@@ -50,7 +50,6 @@ Informationssystem-Erfolgsmodell von DeLone und McLean
 | Umwelt | - Stromverbrauch<br>- Elektroschrott |
 | Sicherheit | - Datenschutz<br>- Überwachung (Staat, Arbeit) |
 # 02 Geschäftsprozesse
-
 ## Definitionen
 
 Geschäftsprozess
@@ -85,7 +84,7 @@ Eine Benennung muss folgende Eigenschaften haben:
 
 ![Prozesslandkarte](attachments/3.png)
 
-### Referenzmodell
+### Referenzmodelle (Beispiele)
 >Modell, das eine anerkannte gut Lösung für ein häufig auftretendes Problem bietet.
 
 ![Referenzmodelle](attachments/4.png)
@@ -94,3 +93,32 @@ Eine Benennung muss folgende Eigenschaften haben:
 - Verbesserungs-würdigkeit
 - Verbesserungs-fähigkeit
 ### Prozesse strukturieren (Modellieren)
+>Vorgabe zur systematischen Organisation und Beschreibung von Prozessen eines Betriebs.
+
+Abstraktionsebenen:
+1. Prozesslandkarte
+2. Wertschöpfungsebene
+3. Prozessmodelle
+
+## Prozesserhebung
+>**Sammlung von sämtlichen Informationen** zu einem Prozess und dessen **Aufbereitung** in Form eines **Istmodells**
+### Herausforderungen
+- Prozesse sind arbeitsteilig organisiert
+- Heben das Abstraktionsniveaus
+- Verwendung geeigneter Terminologie
+- Prozessteilnehmer haben oft wenige Kenntnisse von Modellierungssprachen
+### Methoden
+- Bestehende Dokumentation
+- Beobachtung im Echtbetrieb
+- Interviews
+- Workshops
+## Prozessanalyse
+>Das systematische Aufspüren von Schwachstellen und deren Ursachen
+### Wertbeitragsanalyse
+>einteilung der Funktionen in wertschöpfungs-Kategorien
+
+- Wertschöpfende Funktionen
+- Geschäftserforderliche Funktionen
+- Nicht wertschöpfende Funktionen
+### Ursache-Wirkungs-Diagramm
+
