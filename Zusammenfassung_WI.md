@@ -37,7 +37,6 @@ Informationssystem-Erfolgsmodell von DeLone und McLean
 
 - Vertikale Integration: verknüpft Teilsysteme des gleichen Funktionsbereichs auf verschiedenen Stufen(Arbeiter und Management)
 - Horizontale Integration: verbindet Teilsysteme aus unterschiedlichen Funktionsbereichen auf einer Ebene
-
 ## Wechselwirkungen mit der Gesellschaft
 
 ### Problemfelder
@@ -51,3 +50,16 @@ Informationssystem-Erfolgsmodell von DeLone und McLean
 | Freizeit | - Soziale Vereinsamung<br>- Informationsüberflutung<br>- Vergleiche (Instagram) |
 | Umwelt | - Stromverbrauch<br>- Elektroschrott |
 | Sicherheit | - Datenschutz<br>- Überwachung (Staat, Arbeit) |
+# 02 Geschäftsprozesse
+
+## Definitionen
+
+Geschäftsprozess
+>Komplexer, aus mehreren Funktion bestehender Arbeitsablauf zur Erledigung einer betrieblichen Aufgabe.
+>Die Funktionen stehen in einem **zeitlich-sachlogischen Zusammenhang** und tragen zu einem betriebswirtschaftlichen Ziel bei.
+
+Prozessorientierung
+>Ansatz zur Organisation eines Betriebs, der die Geschäftsprozesse in den Mittelpunkt stellt
+
+![[Pasted image 20240216214629.png]]
+
