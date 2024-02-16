@@ -283,7 +283,58 @@ Jeder Prozess (steuerungssicht)...
 - Diese Prozesse werden mithilfe definierter Syntaxregeln und einer semiformalen Modellierungssprache erstellt.
 - Diese sind der Steuerungssicht zugeordnet
 # 04 ERP-Systeme
+>Unter ERP (enterprise resource planning) versteht man eine aus mehreren Komponenten bestehende integrierte betriebliche Anwendungssoftware, die die operativen Prozesse in allen wesentlichen betrieblichen Funktionsbereichen unterstützt. 
+>Die Integration wird dabei von einer zentralen Datenbank getragen, wodurch Datenredundanzen vermieden und integrierte Geschäftsprozesse ermöglicht werden.
 
+![ERP](attachments/16.png)
+### Wo werden ERP Systeme integriert?
+
+![ERP_integration](attachments/17.png)
+### Unternehmen welche ERP Systeme bereitstellen
+>Ein ERP-System soll alle Bereiche miteinander verzahnen, damit die Prozesse nahtlos durch alle Bereich laufen können
+
+![ERP_Unternehmen](18.png)
+## Anwendungsbereiche ERP-Systeme, Typische Komponenten von ERP-Systemen
+### Finanz- und Rechnungswesen
+Das betriebliche Finanz- und Rechnungswesen wird unterschieden in:
+- Finanzierung/Investition die Bereitstellung und zielgerichtete Verwendung finanzieller Mittel
+- Rechnungswesen die systematische Erfassung der durch die betrieblichen Leistungsprozesse entstehenden Transaktionen und die Überwachung der Wirtschaftlichkeit
+- Externes Rechnungswesen: Gegenüber außenstehenden Interessenten, wie beispielsweise Investoren, Banken, Finanzämtern, Krankenkassen usw. ist entsprechend den gesetzlichen Vorschriften Rechenschaft abzulegen.
+- Internes Rechnungswesen: Der Geschäftsführung sind die zur Planung, Steuerung und Kontrolle erforderlichen Daten zu liefern
+
+![Rechnungswegen](attachments/19.png)
+### Personalwirtschaft
+>Unter Personalwirtschaft oder Personalwesen versteht man die Bereitstellung und den zielgerichteten Einsatz von Mitarbeitern in Betrieben.
+
+- Wirtschaftliche Ziele sind die Sicherstellung der Verfügbarkeit von bestgeeigneten Mitarbeitern und ihres effizienten Arbeitseinsatzes
+- Soziales Ziel ist die bestmögliche Gestaltung der Arbeitsverhältnisse für die Mitarbeiter.
+### Materialwirtschaft
+>Unter Materialwirtschaft versteht man die Planung, Steuerung, Verwaltung und Kontrolle der Materialbestände und –bewegungen innerhalb eines Betriebs und zwischen dem Betrieb und seinen Marktpartnern.
+
+In der Industrie ist die Materialwirtschaft eng verzahnt mit der Produktion, die mit den richtigen Roh-, Hilfs- und Betriebsstoffen, Zulieferteilen und Halbfabrikaten zur:
+- richtigen Zeit am
+- richtigen Ort in der
+- richtigen Menge und der
+- richtigen Qualität versorgt werden muss
+Darüber hinaus ist allgemein die Versorgung mit indirekten Gütern wie Büroartikel, Ersatzteilen oder Serviceleistungen erforderlich.
+
+![Materialwirtschaft](attachments/20.png)
+### Produktion
+>Unter Produktion im weiteren Sinn versteht man die Erzeugung von Produkten und Dienstleistungen aller Art in allen Bereichen der Wirtschaft und Gesellschaft.
+
+>Die Produktion im engeren Sinn beinhaltet die industrielle Leistungserstellung: Aus Rohstoffen, Zulieferteilen und Halbfabrikaten werden in einem vom Menschen bewirkten Transformationsprozess unter Einsatz von Arbeit, Betriebsmitteln und Werkstoffen lagerbare Sachgüter erzeugt.
+
+![Produktionsmanagement](attachments/21.png)
+### Produktionsplanungs- und -steuerungssystem
+>Die operative Produktionsplanung legt zur Deckung eines vorliegenden oder erwarteten Bedarfs das Produktionsprogramm sowie den mengenmäßigen und zeitlichen Produktionsablauf für ein gegebenes Fertigungssystem kurzfristig fest und sorgt für die Bereitstellung der notwendigen Arbeitskräfte, Betriebsmittel und Werkstoffe.
+
+>Die Produktionssteuerung löst die hierfür erforderlichen Fertigungsaufträge aus und überwacht deren Durchlauf
+### Stücklisten sind wichtiger Bestandteil der Produktionsplanung
+>Eine Stückliste (bill of materials; BOM) ist ein Verzeichnis der Mengen aller Rohstoffe, Teile und Baugruppen, die für die Fertigung einer Einheit eines Erzeugnisses oder einer Gruppe erforderlich sind.
+### Vertrieb
+>Der Vertrieb ist eine betriebliche Fubnktion in Unnternehmen, die Produkte oder Dienstleistungen für Kunden oder Endverbraucher verfügbar machen soll. (Marketing-Mix; Distributionspolitik)
+
+>In ERP-Systemen umfasst Vertrieb meist weitere Elemente des Marketing-Mix z.B. Preisfindung
 # 05 Managementunterstützungssysteme
 
 # 06 Informationssysteme
