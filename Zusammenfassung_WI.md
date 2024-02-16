@@ -73,6 +73,7 @@ Prozessorientierung
 | Prozessteilnehmer | - Routieneaufgaben |
 | Systemanalytiker | - Analyse zur Verbesserung der Prozesse |
 | Anwendungsentwickler | - korrekte Umsetzung der Prozessvorgaben <br>in betrieblichen Informationssystemen |
+
 ![Lebenszyklus](attachments/2.png)
 
 ## Prozessidentifikation
