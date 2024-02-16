@@ -61,5 +61,5 @@ Geschäftsprozess
 Prozessorientierung
 >Ansatz zur Organisation eines Betriebs, der die Geschäftsprozesse in den Mittelpunkt stellt
 
-![[Pasted image 20240216214629.png]]
+![[1.png]]
 
