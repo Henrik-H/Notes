@@ -445,7 +445,114 @@ Die Analytical Engine ist der Entwurf einer mechanischen Rechenmaschine für all
 | Funktional | - Definition von Funktionen (input -> output) | Haskell, F# |
 | Logisch | -Beschreibung des Realweltprogramms durch (Prädikaten-)Logik | Prolog, ASP |
 # 08 Hardware
+## Physikalische Grundlagen
+Verarbeitung -> Zentraleinheit
+	- Prozessor, inkl. Rechen- Steuerwerk, Eingabe- und Ausgabewerk, Speicherwerk, Datentransfer-System
+Ein- & Ausgabe + Speicher -> Peripherie
+	- Maus, Tastatur, Monitor, Drucker, Festplatte, Server etc
+## EVA(S) Prinzip
+>Grundlegendes Prinzip der Datenverarbeitung und Reihenfolge
 
+E - Eingabeeinheit
+V - Verarbeitungseinheit
+A - Ausgabeeinheit
+(S - Speicher)
+
+>Dieser Prozess existiert auch bei uns Menschen, daher universeller Prozess der Datenverarbeitung
+
+![EVAS](attachments/26.png)
+
+## Hardware-Komponenten
+
+### Mainboard
+
+![Mainboard](attachments/27.png)
+
+Hauptplatinen sind immer ähnlich aufgebaut, wichtigste Komponenten:
+- Northbridge
+	  verbindet alle Computerkomponente, welche besonders schnell miteinander kommunizieren müssen, also Prozessor, Arbeitsspeicher(RAM) und schnelle Grafikkarten
+- Southbridge
+	  verbindet restliche Komponente, Festplatten, Netzwerkkarte und das BIOS
+
+In modernen Systemen wird die Northbridge oft auch direkt im Prozessor integriert, zudem enthält die Southbridge meist einen Netzwerk- und Grafikkontroller.
+
+![north-south-bridge](attachments/28.png)
+### Grafikkarte (GPU)
+Aufgaben
+- Erzeugen einer Pixelgrafik aus einer anderen Darstellungsform
+- Speichern dieser Pixelgrafik, des Bildschirminhalts
+- Steuerung des Bildschirms, damit er den Bildschirminhalt anzeigt
+
+Kenngrößen
+- maximale Auflösung BSP: 1920x1080 Pixel (Full HD)
+- Taktfrequenz, wie schnell Berechnungen durchgeführt werden können. Wird in Hertz angegeben (bedeutet pro Sekunde)
+- Speicherkapazität, eigener Arbeitsspeicher der GPU. BSP: 8GB
+### Netzwerkkarte
+>Kommunkation mit dem Internet
+>WLAN (dratlos) oder LAN (per Kabel)
+ 
+**Übertragungsrate**, wie viele Daten pro Sekunde. 
+BSP: Megabit pro Sekunde, Mbps
+### Schnittstellen
+- PCI
+	  Eine der ersten und bis heute immer noch in verbesserter Form angewandte Technik und Möglichkeit, schnell und einfach interne Peripheriegeräte an das Mainboard anschließen zu können.
+- PCIe
+	  PCI-Express Schnittstelle oder PCIe bzw. PCI-E genannt, ist ein Erweiterungsstandard zur Verbindung von Peripheriegeräten 
+	  BSP: Controller, Maus; aber auch: GPU, Netzwerkkarte
+- SATA
+	  Anschluss von von Massenspeichern wie Festplatten, SSDs und CD/DVD-Laufwerken an Computern
+- IDE
+	  Alte Festplatten-Schnittstelle, bei der die Steuerungselektronik bzw. der Controller in das Festplattengehäuse integriert ist.
+### Eingabegeräte
+- Maus
+	  Cursor auf Bildschirm bewegen, Maustasten
+- Scanner
+	  Überbegriff für Geräte, welche flache Gegenstände, meist Bilder oder Textseiten in den Computer übertragen
+- Mikrofon
+	  Ton-Eingabe
+- Webcam
+	  Im Rahmen von Videoconferencing mittels VoIPdas Bild des Gesprächsteilnehmers aufzunehmen
+### Ausgabegeräte
+>Das Ausgabegerät zeigt das Ergebnis der Verarbeitung von Rohdaten an, die über ein Eingabegerät in den Computer eingegeben werden
+
+- peripheres Gerät zur Ausgabe von Computerdaten
+- Es gibt eine Reihe von Ausgabegeräten, z.B. Text, Bilder, Hardcopy, Audio oder Video 
+  BSP: Bildschirm / Monitor, Touchscreen, Kopfhörer
+### Monitore
+- CRT - alt
+- LCD - weit verbreited
+- LED - neu
+
+Touchscereen: ermöglicht Input
+### Speicher
+>Ein Schreib-Lese-Speicher kann gelesen und beschrieben werden.
+
+>Festwertspeicher (ROM) kann nur gelesen werden und Informationen sind unveränderbar.
+
+>Direktzugriffsspeicher (Arbeitsspeicher, ROM) ist ein Speicher, bei dem jede einzelne Speicherstelle über ihre fest zugeordnete Adresse gelesen oder beschrieben (und damit auch gelöscht) werden kann. Die Zugriffszeit ist für alle Speicherstellen in etwa gleich lang.
+
+>Flüchtiger Speicher verliert bei Ausfall der Versorgungsspannung seinen Inhalt.
+
+>Nicht flüchtiger Speicher behält seinen Inhalt auch ohne Versorgungsspannung.
+
+>Flash Speicher ist ein spezieller ROM-Typ, dessen Inhalt durch Anlegen eines elektrischen Felds in bestimmten Speicherbereichen, sogenannten Sektoren oder Blöcken (zum Beispiel 512 Bytes), auf einmal gelöscht wird.
+>- Die Speicherzellen können nicht – wie bei gewöhnlichen ROM-Chips – einzeln gelöscht werden. Das Schreiben erfolgt je nach Chiparchitektur selektiv für jede einzelne Zelle oder auf einmal für einen gesamten Block
+>- Flash-Speicher haben eine begrenzte Lebensdauer, die sich durch die maximale Anzahl von Löschzyklen ergibt.
+
+![Speicherchips](attachments/29.png)
+### Ram
+>Arbeitsspeicher bezeichnet den kurzfristigen Speicher eines Computers. Dieser enthält alle Daten, die Sie gerade nutzen – von geöffneten Webseiten bis hin zu einer Mausbewegung über den Bildschirm
+
+>DDR steht für Double Data Rate, DDR ist die RAM-Technologie
+
+RAM besteht aus einer Reihe an nummerierten Speicherzellen gleicher Größe.
+Die Bit-Zahl der Architektur bestimmt sowohl die maximale Anzahl, als auch die Größe der Speicherzellen.
+Auf jede Speicherzelle kann gleich schnell zugegriffen werden, wenn man ihre Adresse kennt.
+### Hardware & Software
+- Hardware, alle physischen Bestandteile
+- Software, alle nicht physischen Komponenten
+
+![Hardware-Software](attachments/30.png)
 # 09 Mathematische Grundlagen
 
 # 10 Betriebssysteme
