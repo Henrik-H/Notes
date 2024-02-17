@@ -293,7 +293,7 @@ Jeder Prozess (steuerungssicht)...
 ### Unternehmen welche ERP Systeme bereitstellen
 >Ein ERP-System soll alle Bereiche miteinander verzahnen, damit die Prozesse nahtlos durch alle Bereich laufen können
 
-![ERP_Unternehmen](18.png)
+![ERP_Unternehmen](attachments/18.png)
 ## Anwendungsbereiche ERP-Systeme, Typische Komponenten von ERP-Systemen
 ### Finanz- und Rechnungswesen
 Das betriebliche Finanz- und Rechnungswesen wird unterschieden in:
@@ -554,6 +554,61 @@ Auf jede Speicherzelle kann gleich schnell zugegriffen werden, wenn man ihre Adr
 
 ![Hardware-Software](attachments/30.png)
 # 09 Mathematische Grundlagen
+## Logik
+Warum ist ein Verständnis der Logik in der Wirtschaftsinformatik relevant?
+- Repräsentation von Wissen (z.B. im Bereich KI)
+- Grundlage für Datenbank-Anfragesprachen (SQL)
+## Aussagenlogik
+### Definition
+> Die Basis sind strukturlose Elementaraussagen, denen ein Wahrheitswert zugeordnet wird.
+> In der klassischen Aussagelogik gilt:
+> - Aussage ist **WAHR** oder
+> - Aussage ist **FALSCH**
+### Junktoren / Logische Operatoren
+
+| Verknüpfung | Schreibweise | Beispiel |
+| ---- | ---- | ---- |
+| Konjunktion | $a \land b$ | Ich bink krank und gehe zum Arzt. |
+| Disjunktion | $a \lor b$ | Ich gehe zum Arzt oder der Arzt kommt vorbei (oder beides). |
+| Subjunktion | $a \rightarrow b$ | Wenn ich krank bin, dann gehe ich zum Arzt. |
+| Bijunktion | $a \leftrightarrow b$ | Wenn ich krank bin, dann gehe ich zum Arzt und umgekehrt. (Ich gehe genau dann zum Arzt, wenn ich krank bin.) |
+Negation: $\lnot$
+### De-Morgen-Theorem
+>Die De Morganschen Gesetze sind zwei grundlegende Regeln für logische Aussagen.
+
+- NOT
+- NAND
+- NOR
+- AND
+- OR
+## Mengen
+### Defintion
+>Die Mengenlehre schafft Grundlagen zur Logik
+
+Mengen werden über ihre Elemente bestimmt.
+Ist m ein Element von M so schreibt man $m \in M$
+
+Elemente von Mengen können selber Mengen sein.
+Ist m kein Element von M so schreibt man $m \notin M$
+
+Die leere Menge.
+Es gilt $\varnothing = \{ \}$
+### Zahlenmengen
+Natürliche Zahlen
+$\mathbb{N} = \{1,2,3,...\}$
+
+Natürliche Zahlen mit 0
+$\mathbb{N}_0 = \{0,1,2,3,...\}$ 
+
+Ganze Zahlen
+$\mathbb{Z} = \{...,-3,-2,-1,0,1,2,3,...\}$
+
+Rationale Zahlen
+$\mathbb{Q}$ (alle Bruchzahlen)
+
+Reelle Zahlen
+$\mathbb{R}$ (Kommazahlen)
+
 
 # 10 Betriebssysteme
 
