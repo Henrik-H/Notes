@@ -640,10 +640,12 @@ Umfasst das Testen der Software, auf **Fehler** und **Erfüllung der spezifizier
 - Unit Testing
 
 ### Unterscheidung zwischen White Box Testing & Black Box Testing:
+
+![Unterscheidung White Box Testing & Black Box Testing](attachments/57.png)
 #### Black Box
-
+Tester weiß nicht wie die Software implementiert ist und aus welchen Komponenten sie besteht. Tests erfolgen durch invalide Inputs, durch diese die Funktionsweise eines Systems mit fehlerhaften Eingaben und Aktionen untersucht wird.
 #### White Box
-
+Tester haben Kenntnisse über den Code und die Funktionsweise der Software.
 # 07 Grundlagen des Computers
 ## Definitionen
 ### Computer
