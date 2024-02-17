@@ -555,7 +555,9 @@ Auf jede Speicherzelle kann gleich schnell zugegriffen werden, wenn man ihre Adr
 ![Hardware-Software](attachments/30.png)
 # 09 Mathematische Grundlagen
 ## Logik
-Warum ist ein Verständnis der Logik in der Wirtschaftsinformatik relevant?
+Warum ist ein Verständnis der Logik in der Wirtschaftsinformatik 
+Teilmenge: $C \subseteq A$
+relevant?
 - Repräsentation von Wissen (z.B. im Bereich KI)
 - Grundlage für Datenbank-Anfragesprachen (SQL)
 ## Aussagenlogik
@@ -618,7 +620,9 @@ Teilmenge: $B \subset A$
 ### Zahlensysteme
 
 Binärsystem = Base 2
+
 Oktalsystem = Base 8
+
 Hexadezimasystem = Base 16
 
 # 10 Betriebssysteme
