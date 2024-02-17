@@ -336,7 +336,219 @@ Darüber hinaus ist allgemein die Versorgung mit indirekten Gütern wie Büroart
 
 >In ERP-Systemen umfasst Vertrieb meist weitere Elemente des Marketing-Mix z.B. Preisfindung
 # 05 Managementunterstützungssysteme
+## Was ist ein Managementunterstützungssystem?
+Unter Management Support System bzw. Managementunterstützungssystem versteht man ein rechnergestütztes Informationssystem, das für Führungskräfte eine adäquate Informationsversorgung und Entscheidungsunterstützung bietet.
+## Betriebliche Entscheidungen
 
+![Betriebliche Entscheidungen](attachments/34.png)
+
+1. Erkennung von **Problemen**
+2. Treffen von **Entscheidungen**
+3. **Handlungsalternativen** finden und beurteilen
+4. **Beste Alternative** auswählen und umsetzen
+## 3 Ebenen für Führungskräfte
+
+- Obere Ebene (**Topmanagement**)
+- Mittlere Ebene (**Taktische Ebene**)
+- Untere Ebene (**Operative Ebene**)
+
+![3 Ebenen für Führungskräfte](attachments/35.png)
+
+### Obere Ebene (Topmanagement)
+- Strategische Aufgabe & Überblick über Betrieb und Umwelt
+- Treffen richtungsweisende Entscheidungen
+	Beispiele:
+	- Vorgabe von Zielen & Strategien
+	- Umgang mit Ressourcen (Geld & Mitarbeiter)
+	- Preispolitik
+- Internationalisierung eines Unternehmens
+
+Braucht Informationen mit Vorhersagecharakter (Aggregierte, periodenbezogene Daten ohne Details)
+### Mittlere Ebene (Taktische Ebene)
+- Umsetzung strategischer Vorgaben
+- Entscheidungen über den Mitteleinsatz, Rabattgestaltung, Werbekampagnen
+- Lösung von finanziellen und personellen Problemen
+- Ladeneinrichtung von Filialen
+- Auswahl von Lieferanten
+
+Braucht wichtige Informationen für die Entscheidung
+### Untere Ebene (Operative Ebene)
+- Entscheidungen betreffen das Tagesgeschäft
+- Welche Artikel und Menge muss nachbestellt werden?
+
+Braucht Informationen möglichst zeitnah
+## Probleme der Mangementunterstützung
+### Was braucht das Management?
+Die richtige Information in richtiger Qualität am richtigen Ort verfügbar
+**(wer / was / wann / wo / warum)**
+### Probleme
+- Vielzahl unterschiedlicher Applikationen und unterschiedlicher Datenformate in heterogenen operativen Informationssystemen
+- Schwierige Integration der Datenbestände (inhaltlich, organisatorisch, datentechnisch)
+- Welche Daten sind überhaupt verfügbar?
+- Wie kommt man zu den Daten?
+- Wie können Daten aktuell gehalten werden
+## Aktionsfelder der IT-Unterstützung des Managements
+
+![Aktionsfelder der IT-Unterstützung des Managements](attachments/36.png)
+
+## Methodische Grundlagen der Data-Science
+### Definition
+Data-Science bezeichnet die Lehre von der Extraktion von Sachverhalten durch die Aufbereitung und Analyse von sehr großen, heterogenen Datenbeständen, um daraus Handlungsempfehlungen für das Management abzuleiten.
+
+**Ziel:** Beschreibung, Diagnose, Vorhersage unbekannter Zusammenhänge, Muster und Trends
+
+**Fragen:**
+- Was ist passiert? (Daten der Vergangenheit)
+- Warum ist es passiert (Zusammenhänge)
+- Wann wird es passieren? (Zukünftige Ereignisse)
+- Was kann ich tun? (Handlungsempfehlungen)
+
+![Fragen](attachments/37.png)
+
+## Künstliche Intelligenz & CO
+
+### Künstliche Intelligenz (KI)
+Versuch, sich mit Rechnern den Intelligenzleistungen von Menschen zu nähern.
+>Imitation des Menschen
+### Maschinelles Lernen (ML)
+Maschinen und Roboter, die aus Erfahrung Wissen generieren. Baut durch Techniken der Statistik und der mathematischen Optimierung auf.
+>Lösung von Problemen durch neues Wissen
+### Deep Learning (DL)
+Tiefe neuronale Netze die Erkenntnisse aus Daten gewinnen. Orientation am menschlichen Gehirn.
+>Erkenntnisgewinnung von Daten
+### Reinforcement Learning (RL)
+Form des ML, wobei der RL-Agent benutzt wird, um sequentielle Probleme zu lösen.
+>Lösung sequentieller Entscheidungsprobleme
+
+![KI etc](attachments/38.png)
+
+## Maschinelles Lernen (ML)
+### Überwachtes Lernen
+Überwachtes Lernen ist ein Verfahren des maschinellen Lernens. Es wird ein Datensatz, bei dem die Zielvariable bereits bekannt ist vorgelegt. Algorithmus erlernt Zusammenhänge und Abhängigkeiten, die diese Zielvariable erklären. Danach wird die Qualität der Vorhersage bewertet. Erlernte Muster werden
+auf unbekannte Daten angewendet, um Prognosen/Vorhersagen zu erstellen.
+- Trainingsdaten werden vom Menschen übernommen
+- Hervorragend für Vorhersagen
+- Kann Empfehlungen generieren
+Beispiele:
+- Diagnose
+- Vorhersage
+
+![ML](attachments/39.png)
+### Regressionsanalyse
+Ein statistisches Verfahren, um Beziehungen zwischen abhängigen und verschiedenen unabhängigen Variablen zu bestimmen.
+
+![Regression](attachments/41.png)
+
+Beispiel:
+
+![Beispiel](attachments/40.png)
+
+### Unüberwachtes Lernen
+Suche nach vorher unbekannten Mustern in nicht kategorisierten Daten. Funktioniert mit minimalem menschlichem Aufwand. Lernt selbständig Muster aus Daten.
+- Einsetzung in Clustering und Segmentierung
+- NICHT einsetzbar für Prognosen
+- Möglich in Echtzeit einzusetzen
+- Anzahl Kategorien im Vorfeld nicht bekannt
+- Minimaler menschlicher Aufwand
+Beispiele:
+- Mustererkennung
+- Anomalienerkennung: Hacker, Netzstörungen
+- Kundengruppierungen
+
+Segmentierung → Algorithmische Verfahren, die Ähnlichkeiten zwischen Datenelementen erkennen
+
+Clustering → Berechnet welche Einträge ähnlich sind aufgrund der Datengrundlage
+
+![ML](attachments/42.png)
+
+## Reinforcement Learning (RL)
+Software-Agent erlernt selbständig eine Strategie, um erhaltene Belohnungen zu maximieren. (Teilgebiet vom Maschinellen Lernen)
+**Beispiele:**
+- Chatbots
+- Ampel-Steuerung
+- Staubsaugroboter
+
+![RL](attachments/43.png)
+
+## Deep Learning (DL)
+Erkennung von Bildern, Verstehen von Texten und Treffen genauerer Entscheidungen.
+**Beispiel:** Unterscheidung zwischen Hund und Katze.
+1. Tausende klassifizierte Bilder von Hunden und Katzen als Trainingsdaten
+2. Entscheidung ob es sich um einen Hund oder eine Katze handelt
+3. Lernen von Fehlern
+
+![cat](attachments/44.png)
+
+## Klassische Entscheidungssysteme
+### Definition
+Ein klassisches Entscheidungsunterstützungssystem hilft vor allem Fachspezialisten bei der Entscheidungsvorbereitung für eng abgegrenzte Aufgabenstellungen.
+- Untersuchung möglicher Handlungsalternativen mit mathematischen Methoden und Modellen
+- Benutzer = Fachspezialist → gibt Annahmen über Zusammenhänge zwischen Entscheidungsvariablen ein und überprüft anhand vorliegender Daten
+
+![Entscheidungssysteme](attachments/45.png)
+
+### Simulation
+Ein Experiment, bei dem eine komplexe Realweltsituation durch ein Softwaresystem nachgebildet vwird.
+**Beispiele:**
+- Minimierung notwendiger Maschinen in der Fertigung
+- Optimale Routen zur Belieferung von Kunden
+- Regaloptimierung im Lebensmitteleinzelhandel
+
+![Sim](attachments/46.png)
+
+### Regaloptimierung
+Bestmögliche Ausnutzung der vorhandenen Verkaufsfläche.
+
+Grundgedanke → Jeder Ware wird der Platz zugeordnet, der ihrem Umsatz- und Ertragsbeitrag am besten entspricht.
+**Vorgehen:**
+1. Festlegung der Ziele
+2. Bereitstellung der Produktdaten
+3. Aufbau der Regale
+4. Festlegung des Lager- und Merchandisings
+5. Erstellung von Regalbefüllungsplänen
+6. Durchführung und Kontrolle
+## Business-Intelligence-Systeme (BI)
+### Definition Business-Intelligence
+Beschreibt ein integriertes, betriebsindividuell zu entwickelndes Gesamtkonzept zur IT-Unterstützung des Managements.
+
+**Was sind Business-Intelligence-Systeme?**
+An einen Betrieb angepasste analytische Anwendungen zur Integration und Auswertung großer Datenbestände.
+### Funktionen
+- Berichterstellung
+- Datenanalyse
+- Kennzeichenvergleiche
+- Kundenbewertung
+- Clusteranalyse
+
+![BI](attachments/47.png)
+### Komponenten
+
+**Data-Warehouse**
+Eine zentrale, strukturierte Datenbank, die verschiedene Datenquellen integriert, um umfassende Analysen und Berichte zu ermöglichen.
+
+**Data-Mart**
+Ein kleinerer Ausschnitt eines Data-Warehouses, der spezifische Daten für die Analyse eines bestimmten Geschäftsbereichs oder Teams bereitstellt.
+
+**Data-Lake**
+Ein umfassender Speicher für strukturierte und unstrukturierte Daten in ihrem Rohformat, die flexiblere Analysen und Big-Data-Verarbeitung ermöglicht.
+
+![Daten Schichten](attachments/48.png)
+
+### Hyperwürfel
+Stellt eine Datenstruktur dar, die drei oder mehr Dimensionen umfasst. Benutzer können sich intuitiv in dem Würfel bewegen („Dicing“) und an beliebiger Stelle Schnitte durch den Würfel ziehen („Slicing“), um Information zu vergleichen und selbstständig Berichte zu erzeugen. („Slicing and Dicing“)
+### Betriebliche Kennzahlen
+Sind charakterisierende Maßzahlen und dienen als Verdichtung der komplexen Realität über zahlenmäßig erfassbare Sachverhalte.
+
+**Absolute Kennzahlen:** Anzahl Mitarbeiter, Produkte, etc.
+**Relative Kennzhalen:** Umsatz pro Kunde/ pro Quartal
+
+![Kennzahlen](attachments/49.png)
+
+### Dashboard
+Als Dashboard wird im Informationsmanagement eine grafische Benutzeroberfläche bezeichnet, die zur Visualisierung von Daten dient.
+
+Beispielbild:
+![Beispielbild](attachments/50.png)
 # 06 Informationssysteme
 
 # 07 Grundlagen des Computers
@@ -681,7 +893,6 @@ Hexadezimasystem = Base 16
 **Nicht alles wissen, aber Aspekte kennen** (Frage wäre z.B. Nenn Sie ein Unterschied der Schwächen zw. Windows und Linux)
 
 ![Windows_macOS_Linux](attachments/32.png)
-
 
 ![Betriebssysteme](attachments/33.png)
 
