@@ -21,8 +21,8 @@
 | Art | Definition |
 | ---- | ---- |
 | rechnergestütztes Informationssystem | - Erfassung<br>- Speicherung<br>- Übertragung<br>- Transformation<br>von Informationen |
-| operatives Informationssystem | Erleichterung der alltäglichen betrieblichen<br>Leistungsprozesse mit <br>betrieblichen Anwendungsprogrammen |
-| Planungssystem<br>oder<br>Managementunterstützungssystem | Unterstützt die Führungskräfte eines Betriebs<br>- Planung<br>- Überwachung<br>- Einhaltung der Pläne |
+| operatives Informationssystem | Erleichterung der alltäglichen betrieblichen Leistungsprozesse mit betrieblichen Anwendungsprogrammen |
+| Planungssystem<br>oder<br>Managementunterstützungssystem | Unterstützt die Führungskräfte eines Betriebs bei der<br>- Planung<br>- Überwachung<br>- Einhaltung der Pläne |
 ## Informationssysteme und Betriebe
 ### Erfolg
 
@@ -70,7 +70,7 @@ Prozessorientierung
 | Prozessverantwortlicher | - Prozesse effizient und effektiv gestalten<br>- Planung und Führung der Prozesse |
 | Prozessteilnehmer | - Routieneaufgaben |
 | Systemanalytiker | - Analyse zur Verbesserung der Prozesse |
-| Anwendungsentwickler | - korrekte Umsetzung der Prozessvorgaben <br>in betrieblichen Informationssystemen |
+| Anwendungsentwickler | - korrekte Umsetzung der Prozessvorgaben in betrieblichen Informationssystemen |
 
 ![Lebenszyklus](attachments/2.png)
 
@@ -441,10 +441,9 @@ Die Analytical Engine ist der Entwurf einer mechanischen Rechenmaschine für all
 | Art | Beschreibung | Beispiel |
 | ---- | ---- | ---- |
 | Imperativ | - Formulierung von komplexen Anweisungen | C, C++ |
-| Objektorientiert | - Beschreibung des Realweltprogramms durch Objekte und Klassen des Anwendungsbereiches |  |
-| Funktional |  |  |
-| Logisch |  |  |
-
+| Objektorientiert | - Beschreibung des Realweltprogramms durch Objekte und Klassen des Anwendungsbereiches<br>- Leichter durch die Abstraktion | Python, Java |
+| Funktional | - Definition von Funktionen (input -> output) | Haskell, F# |
+| Logisch | -Beschreibung des Realweltprogramms durch (Prädikaten-)Logik | Prolog, ASP |
 # 08 Hardware
 
 # 09 Mathematische Grundlagen
