@@ -3,13 +3,10 @@
 ## Einordnung Wirtschaftsinformatik
 
 ### Deinition
-
->Wissenschaft, die sich mit der Gestaltung rechnergestützter Informationssysteme in der Wirtschaft (Betriebe) befasst.
-
+Wissenschaft, die sich mit der Gestaltung rechnergestützter Informationssysteme in der Wirtschaft (Betriebe) befasst.
 ## Informationsysteme / Anwendungssysteme
 ### Definition
-
->Ein Informationssystem besteht aus Menschen und Maschinen (Rechner samt Software, Netzen, Kommunikationseinrichtungen), die Information erzeugen und/oder benutzen und die durch Kommunikationsbeziehungen miteinander verbunden sind.
+Ein Informationssystem besteht aus Menschen und Maschinen (Rechner samt Software, Netzen, Kommunikationseinrichtungen), die Information erzeugen und/oder benutzen und die durch Kommunikationsbeziehungen miteinander verbunden sind.
 
 | Informationssystem | Anwendungssystem |
 | ---- | ---- |
@@ -51,18 +48,16 @@ Informationssystem-Erfolgsmodell von DeLone und McLean
 | Sicherheit | - Datenschutz<br>- Überwachung (Staat, Arbeit) |
 # 02 Geschäftsprozesse
 ## Definitionen
-
-Geschäftsprozess
->Komplexer, aus mehreren Funktion bestehender Arbeitsablauf zur Erledigung einer betrieblichen Aufgabe.
->Die Funktionen stehen in einem **zeitlich-sachlogischen Zusammenhang** und tragen zu einem betriebswirtschaftlichen Ziel bei.
-
-Prozessorientierung
->Ansatz zur Organisation eines Betriebs, der die Geschäftsprozesse in den Mittelpunkt stellt
+#### Geschäftsprozess
+Komplexer, aus mehreren Funktion bestehender Arbeitsablauf zur Erledigung einer betrieblichen Aufgabe.
+Die Funktionen stehen in einem **zeitlich-sachlogischen Zusammenhang** und tragen zu einem betriebswirtschaftlichen Ziel bei.
+#### Prozessorientierung
+Ansatz zur Organisation eines Betriebs, der die Geschäftsprozesse in den Mittelpunkt stellt
 
 ![Geschäftsprozess](attachments/1.png)
 
 ## Geschäftsprozessmanagement
->Geschäftsprozesse **effizienter** und **effektiver** machen
+Geschäftsprozesse **effizienter** und **effektiver** machen
 
 | Rolle | Verantwortlichkeit |
 | ---- | ---- |
@@ -80,12 +75,12 @@ Eine Benennung muss folgende Eigenschaften haben:
 - Konsistent
 - Wiederspruchsfrei
 ### Prozesslandkarte
->Grafische Darstellung der wesentlichen Prozesse mit Aufgabe, Zusammenhängen und Schnittstellen
+Grafische Darstellung der wesentlichen Prozesse mit Aufgabe, Zusammenhängen und Schnittstellen
 
 ![Prozesslandkarte](attachments/3.png)
 
 ### Referenzmodelle (Beispiele)
->Modell, das eine anerkannte gut Lösung für ein häufig auftretendes Problem bietet.
+Modell, das eine anerkannte gut Lösung für ein häufig auftretendes Problem bietet.
 
 ![Referenzmodelle](attachments/4.png)
 ### Prozesse bewerten
@@ -93,7 +88,7 @@ Eine Benennung muss folgende Eigenschaften haben:
 - Verbesserungs-würdigkeit
 - Verbesserungs-fähigkeit
 ### Prozesse strukturieren (Modellieren)
->Vorgabe zur systematischen Organisation und Beschreibung von Prozessen eines Betriebs.
+Vorgabe zur systematischen Organisation und Beschreibung von Prozessen eines Betriebs.
 
 Abstraktionsebenen:
 1. Prozesslandkarte
@@ -101,7 +96,7 @@ Abstraktionsebenen:
 3. Prozessmodelle
 
 ## Prozesserhebung
->**Sammlung von sämtlichen Informationen** zu einem Prozess und dessen **Aufbereitung** in Form eines **Istmodells**
+**Sammlung von sämtlichen Informationen** zu einem Prozess und dessen **Aufbereitung** in Form eines **Istmodells**
 ### Herausforderungen
 - Prozesse sind arbeitsteilig organisiert
 - Heben das Abstraktionsniveaus
@@ -133,18 +128,18 @@ Abstraktionsebenen:
 ![Ursache-Wirkungs-Diagramm](attachments/5.png)
 
 ## Prozessverbesserung
->Entwickelt Vorschläge under Verbesserungen zu gefundenen Schwachstellen
+Entwickelt Vorschläge under Verbesserungen zu gefundenen Schwachstellen
 ### Dimensionen
->Es ist nicht möglich alle Dimensionen zur gleichen Zeit zu verbesseren
+Es ist nicht möglich alle Dimensionen zur gleichen Zeit zu verbesseren
 
 ![Dimensionen](attachments/6.png)
 
 ### Redesign-Heuristik
->Maßname zur Umgestaltung eines Geschäftsprozesses, die mit der Erwartung einer Verbesserung in zumindest einer Dimension verbunden ist.
->Es gibt viele Heuristiken welche die Probleme beim erreichen bestimmter Ziele beschreibt.
+Maßname zur Umgestaltung eines Geschäftsprozesses, die mit der Erwartung einer Verbesserung in zumindest einer Dimension verbunden ist.
+Es gibt viele Heuristiken welche die Probleme beim erreichen bestimmter Ziele beschreibt.
 
 ## Prozesseinführung
->Maßnahmen um die Prozessnötige Infrastruktur bereitzustellen.
+Maßnahmen um die Prozessnötige Infrastruktur bereitzustellen.
 ### Geschäftsprozessmanagementsysteme (GPMS)
 >Ein Softwaresystem das die Entwicklung von Geschäftsprozessen in allen Bereichen unterstützt.
 
@@ -166,21 +161,21 @@ Typen:
 # 03 Modellierung betrieblicher Informationssysteme
 ## Grundlagen der Modellierung
 ### Was ist Modellierung?
->Unter der Modellierung (engl.: modeling) versteht man die vereinfachende und zweckorientierte Abbildung eines Sachverhalts. Der Begriff Abbildung lässt sich hier sowohl als Verrichtung als auch als Ergebnis verstehen. Als Verrichtung beschreibt die Modellierung den Vorgang, einen Sachverhalt nach Maßgabe eines bestimmten Zwecks zu verkürzen und abzubilden. Als Ergebnis erhält man aus diesem Vorgang ein Modell (engl.: model).
+Unter der Modellierung (engl.: modeling) versteht man die vereinfachende und zweckorientierte Abbildung eines Sachverhalts. Der Begriff Abbildung lässt sich hier sowohl als Verrichtung als auch als Ergebnis verstehen. Als Verrichtung beschreibt die Modellierung den Vorgang, einen Sachverhalt nach Maßgabe eines bestimmten Zwecks zu verkürzen und abzubilden. Als Ergebnis erhält man aus diesem Vorgang ein Modell (engl.: model).
 ### Modellierung vs. Modell
 Charakteristika der Modellierung:
 - Abbildungscharakter (Modell hat Bezug zur Wiener U-Bahn)
 - Vereinfachungseigenschaft (Teil aus der Realwelt -> Zweckorientierung)
 - Zweckorientierung (Stadtplan vs. Netzplan)
 ### Prinzipien des Modellierens
->Die **Partitionierung** bezeichnet die Zerlegung eines großen Problems oder Sachverhalts in einzelne, weitgehend isolierbare Teilbereiche.
+Die **Partitionierung** bezeichnet die Zerlegung eines großen Problems oder Sachverhalts in einzelne, weitgehend isolierbare Teilbereiche.
 BSP: Zerlegung in einzelne U-Bahn Linien, Zerlegung von Aufgaben, Organisationseinheiten oder Daten
 
->Die **Projektion** beschreibt die Betrachtung eines Sachverhalts aus einer bestimmten Perspektive. 
->Dabei werden Sachverhalte weggelassen, die für diese Perspektive nicht relevant sind.
+Die **Projektion** beschreibt die Betrachtung eines Sachverhalts aus einer bestimmten Perspektive. 
+Dabei werden Sachverhalte weggelassen, die für diese Perspektive nicht relevant sind.
 BSP: Netzplan = Perspektive auf Haltestellen, Rollen in Prozessen
 
->Die **Abstraktion** bezeichnet das Ausblenden von Details und ermöglicht so eine Konzentration auf die wesentlichen Sachverhalte.
+Die **Abstraktion** bezeichnet das Ausblenden von Details und ermöglicht so eine Konzentration auf die wesentlichen Sachverhalte.
 BSP: In beiden U-Bahn Modellen wird von zwei Schienensträngen abstrahiert zu einer Linie
 
 GEMEINSAM FÖRDERN SIE DIE VEREINFACHUNGSEIGENSCHAFT DER MODELLIERUNG
@@ -191,11 +186,11 @@ GEMEINSAM FÖRDERN SIE DIE VEREINFACHUNGSEIGENSCHAFT DER MODELLIERUNG
 - Idealmodell: Versucht im Gegenzug zu einem Referenzmodell für eine individuelle Problemstellung eine individuelle Lösung darzustellen.
 ## Modellierungssprachen
 ### Was ist eine Modellierungssprache?
->Unter einer Modellierungssprache versteht man eine künstliche Sprache, die für den Zweck der Modellierung geschaffen worden ist. 
->Diese Sprache besteht aus einer Reihe von Konstruktionselementen (Syntax) mit vordefinierter Bedeutung (Semantik).
->Diese Elemente können gemäß vorgegebenen Regeln (Grammatik) zu einem Modell zusammengefügt und benannt werden.
+Unter einer Modellierungssprache versteht man eine künstliche Sprache, die für den Zweck der Modellierung geschaffen worden ist. 
+Diese Sprache besteht aus einer Reihe von Konstruktionselementen (Syntax) mit vordefinierter Bedeutung (Semantik).
+Diese Elemente können gemäß vorgegebenen Regeln (Grammatik) zu einem Modell zusammengefügt und benannt werden.
 ### Die Modellierungssprache BPMN
->Die BPMN (Business Process Model and Notation) ist eine Modellierungssprache, um den Ablauf eines Prozesses im Hinblick auf zeitlich-sachlogische Abhängigkeiten zwischen Aktivitäten und Ereignissen zu beschreiben. Gatter beschreiben Entscheidungen und Parallelausführungen.
+Die BPMN (Business Process Model and Notation) ist eine Modellierungssprache, um den Ablauf eines Prozesses im Hinblick auf zeitlich-sachlogische Abhängigkeiten zwischen Aktivitäten und Ereignissen zu beschreiben. Gatter beschreiben Entscheidungen und Parallelausführungen.
 
 ![BPMN_Elementtypen](attachments/9.png)
 
@@ -235,7 +230,7 @@ Jeder Prozess (steuerungssicht)...
 - setzt sich zusammen aus verschiedenen Funktionen
 - hat einen Output (Leistungssicht)
 ### Modellierung der Organisationssicht Am Beispiel eines Organigramms
->In Organigrammen werden gemäß der gewählten Strukturierungskriterien die gebildeten Organisationseinheiten mit ihren Beziehungen grafisch dargestellt. Organisationseinheiten sind Träger der zum Erreichen der Unternehmensziele durchzuführenden Aufgaben. Organigramme dienen zur Beschreibung der Organisationssicht in ARIS.
+In Organigrammen werden gemäß der gewählten Strukturierungskriterien die gebildeten Organisationseinheiten mit ihren Beziehungen grafisch dargestellt. Organisationseinheiten sind Träger der zum Erreichen der Unternehmensziele durchzuführenden Aufgaben. Organigramme dienen zur Beschreibung der Organisationssicht in ARIS.
 ### Modellierung der Funktionssicht Am Beispiel eines Zieldiagramms
 >Zieldiagramme stellen die Zerlegung von betrieblichen Zielen in eine Hierarchie von untergeordneten Zielen dar.
 
@@ -256,10 +251,10 @@ Jeder Prozess (steuerungssicht)...
 - Funktionen sind auf höherer Ebene Arbeitsvorrichtungen mit einem In- und Output
 - Funktionen werden in Teilfunktionen zerlegt (Hierachie)
 ### Modellierung der Datensicht Am Beispiel eines Entity-Relationship-Modells
->Das Entity-Relationship-Modell definiert die Datenelemente mit ihren Attributen, die in einem Informationssystem gespeichert werden sollen. 
->Zusätzlich werden die Beziehungen zwischen diesen Datenelementen definiert.
+Das Entity-Relationship-Modell definiert die Datenelemente mit ihren Attributen, die in einem Informationssystem gespeichert werden sollen. 
+Zusätzlich werden die Beziehungen zwischen diesen Datenelementen definiert.
 
-> Das Kardinalitätsverhältnis drückt den Grad einer Beziehung aus und besagt, wie viele Entities eines beteiligten Entitätstyps mit wie vielen Entities des anderen beteiligten Entitätstyps in Beziehung treten können.
+Das Kardinalitätsverhältnis drückt den Grad einer Beziehung aus und besagt, wie viele Entities eines beteiligten Entitätstyps mit wie vielen Entities des anderen beteiligten Entitätstyps in Beziehung treten können.
 
 ![ERM](attachments/15.png)
 ### Modellierung der Leistungssicht Am Beispiel eines Produktbaumes
@@ -283,15 +278,15 @@ Jeder Prozess (steuerungssicht)...
 - Diese Prozesse werden mithilfe definierter Syntaxregeln und einer semiformalen Modellierungssprache erstellt.
 - Diese sind der Steuerungssicht zugeordnet
 # 04 ERP-Systeme
->Unter ERP (enterprise resource planning) versteht man eine aus mehreren Komponenten bestehende integrierte betriebliche Anwendungssoftware, die die operativen Prozesse in allen wesentlichen betrieblichen Funktionsbereichen unterstützt. 
->Die Integration wird dabei von einer zentralen Datenbank getragen, wodurch Datenredundanzen vermieden und integrierte Geschäftsprozesse ermöglicht werden.
+Unter ERP (enterprise resource planning) versteht man eine aus mehreren Komponenten bestehende integrierte betriebliche Anwendungssoftware, die die operativen Prozesse in allen wesentlichen betrieblichen Funktionsbereichen unterstützt. 
+Die Integration wird dabei von einer zentralen Datenbank getragen, wodurch Datenredundanzen vermieden und integrierte Geschäftsprozesse ermöglicht werden.
 
 ![ERP](attachments/16.png)
 ### Wo werden ERP Systeme integriert?
 
 ![ERP_integration](attachments/17.png)
 ### Unternehmen welche ERP Systeme bereitstellen
->Ein ERP-System soll alle Bereiche miteinander verzahnen, damit die Prozesse nahtlos durch alle Bereich laufen können
+Ein ERP-System soll alle Bereiche miteinander verzahnen, damit die Prozesse nahtlos durch alle Bereich laufen können
 
 ![ERP_Unternehmen](attachments/18.png)
 ## Anwendungsbereiche ERP-Systeme, Typische Komponenten von ERP-Systemen
@@ -320,21 +315,21 @@ Darüber hinaus ist allgemein die Versorgung mit indirekten Gütern wie Büroart
 
 ![Materialwirtschaft](attachments/20.png)
 ### Produktion
->Unter Produktion im weiteren Sinn versteht man die Erzeugung von Produkten und Dienstleistungen aller Art in allen Bereichen der Wirtschaft und Gesellschaft.
+Unter Produktion im weiteren Sinn versteht man die Erzeugung von Produkten und Dienstleistungen aller Art in allen Bereichen der Wirtschaft und Gesellschaft.
 
->Die Produktion im engeren Sinn beinhaltet die industrielle Leistungserstellung: Aus Rohstoffen, Zulieferteilen und Halbfabrikaten werden in einem vom Menschen bewirkten Transformationsprozess unter Einsatz von Arbeit, Betriebsmitteln und Werkstoffen lagerbare Sachgüter erzeugt.
+Die Produktion im engeren Sinn beinhaltet die industrielle Leistungserstellung: Aus Rohstoffen, Zulieferteilen und Halbfabrikaten werden in einem vom Menschen bewirkten Transformationsprozess unter Einsatz von Arbeit, Betriebsmitteln und Werkstoffen lagerbare Sachgüter erzeugt.
 
 ![Produktionsmanagement](attachments/21.png)
 ### Produktionsplanungs- und -steuerungssystem
->Die operative Produktionsplanung legt zur Deckung eines vorliegenden oder erwarteten Bedarfs das Produktionsprogramm sowie den mengenmäßigen und zeitlichen Produktionsablauf für ein gegebenes Fertigungssystem kurzfristig fest und sorgt für die Bereitstellung der notwendigen Arbeitskräfte, Betriebsmittel und Werkstoffe.
+Die operative Produktionsplanung legt zur Deckung eines vorliegenden oder erwarteten Bedarfs das Produktionsprogramm sowie den mengenmäßigen und zeitlichen Produktionsablauf für ein gegebenes Fertigungssystem kurzfristig fest und sorgt für die Bereitstellung der notwendigen Arbeitskräfte, Betriebsmittel und Werkstoffe.
 
->Die Produktionssteuerung löst die hierfür erforderlichen Fertigungsaufträge aus und überwacht deren Durchlauf
+Die Produktionssteuerung löst die hierfür erforderlichen Fertigungsaufträge aus und überwacht deren Durchlauf
 ### Stücklisten sind wichtiger Bestandteil der Produktionsplanung
->Eine Stückliste (bill of materials; BOM) ist ein Verzeichnis der Mengen aller Rohstoffe, Teile und Baugruppen, die für die Fertigung einer Einheit eines Erzeugnisses oder einer Gruppe erforderlich sind.
+Eine Stückliste (bill of materials; BOM) ist ein Verzeichnis der Mengen aller Rohstoffe, Teile und Baugruppen, die für die Fertigung einer Einheit eines Erzeugnisses oder einer Gruppe erforderlich sind.
 ### Vertrieb
->Der Vertrieb ist eine betriebliche Fubnktion in Unnternehmen, die Produkte oder Dienstleistungen für Kunden oder Endverbraucher verfügbar machen soll. (Marketing-Mix; Distributionspolitik)
+Der Vertrieb ist eine betriebliche Fubnktion in Unnternehmen, die Produkte oder Dienstleistungen für Kunden oder Endverbraucher verfügbar machen soll. (Marketing-Mix; Distributionspolitik)
 
->In ERP-Systemen umfasst Vertrieb meist weitere Elemente des Marketing-Mix z.B. Preisfindung
+In ERP-Systemen umfasst Vertrieb meist weitere Elemente des Marketing-Mix z.B. Preisfindung
 # 05 Managementunterstützungssysteme
 ## Was ist ein Managementunterstützungssystem?
 Unter Management Support System bzw. Managementunterstützungssystem versteht man ein rechnergestütztes Informationssystem, das für Führungskräfte eine adäquate Informationsversorgung und Entscheidungsunterstützung bietet.
@@ -649,21 +644,21 @@ Tester haben Kenntnisse über den Code und die Funktionsweise der Software.
 # 07 Grundlagen des Computers
 ## Definitionen
 ### Computer
->Computer als programmgesteuerter Rechenautomat
+Computer als programmgesteuerter Rechenautomat
 
->Computer als Automat für Algorithmen
->Algorithmus als Schritt-für-Schritt-Anweisung für die Lösung eines (mathematischen) Problems (z.B. für eine Entscheidung)
+Computer als Automat für Algorithmen
+Algorithmus als Schritt-für-Schritt-Anweisung für die Lösung eines (mathematischen) Problems (z.B. für eine Entscheidung)
 
->Computer Verarbeiten ausschließlich digitale Daten
->Computer wandelt analoge und digitale Daten um
+Computer Verarbeiten ausschließlich digitale Daten
+Computer wandelt analoge und digitale Daten um
 ### Digitale Daten
->Digitale Daten sind in Form von Zahlen dargestellt
->Digitale Daten sind die kleinste Informationseinhiet, können nicht weiter aufgelöst werden
->Daten liegen aber meist in Form von Bilder, Tönen, Videos, etc vor
+Digitale Daten sind in Form von Zahlen dargestellt
+Digitale Daten sind die kleinste Informationseinhiet, können nicht weiter aufgelöst werden
+Daten liegen aber meist in Form von Bilder, Tönen, Videos, etc vor
 ### Analog
->Daten in Wellenform (Elektrische Signale von variabler Stärke)
+Daten in Wellenform (Elektrische Signale von variabler Stärke)
 ### Digital / Binär
->Daten mit nur zwei Zuständen: 0 (OFF), 1 (ON)
+Daten mit nur zwei Zuständen: 0 (OFF), 1 (ON)
 
 ![Analog_Digital](attachments/22.png)
 ### Grundgatter (logic gates)
@@ -677,9 +672,9 @@ Tester haben Kenntnisse über den Code und die Funktionsweise der Software.
 >Mit den Logikbaustreinen kann man Rechnungen durchführen und Daten verarbeiten.
 ## CPU
 ### Transistoren
->Transistoren haben verschiedene Formen, die meist genutzten lassen nur Strom durch, wenn ein (kleiner) Aktivierungsstrom von der Seite gegeben wird.
->Eine große Menge von Transistoren nennt man intigrierte Schaltung (IC) oder Mikrochip.
->Computer CPUs bestehen aus milliarden von Transistoren und führen so Rechnungen durch.
+Transistoren haben verschiedene Formen, die meist genutzten lassen nur Strom durch, wenn ein (kleiner) Aktivierungsstrom von der Seite gegeben wird.
+Eine große Menge von Transistoren nennt man intigrierte Schaltung (IC) oder Mikrochip.
+Computer CPUs bestehen aus milliarden von Transistoren und führen so Rechnungen durch.
 ### Aufbau Prozessor
 
 ![Aufbau_CPU](attachments/23.png)
@@ -687,9 +682,9 @@ Tester haben Kenntnisse über den Code und die Funktionsweise der Software.
 
 ![Maschinenbefehle](attachments/24.png)
 ### Taktfrequenz
->Die Taktfrequenz eines Prozessors gibt an, mit welcher Frequenz die Verarbeitungseinheiten Operationen durchführen.
+Die Taktfrequenz eines Prozessors gibt an, mit welcher Frequenz die Verarbeitungseinheiten Operationen durchführen.
 ### Moore's Law
->Faustformel: Leistungsfähigkeit (Anzahl der Transistoren auf Mikro-Chips) verdoppelt sich ca. alle 18 Monate.
+Faustformel: Leistungsfähigkeit (Anzahl der Transistoren auf Mikro-Chips) verdoppelt sich ca. alle 18 Monate.
 ## Geschichte des Computers
 ### Erste Rechenhilfsmittel
 Abakus (2500 v.Chr.), Rechenbrett der Antike
@@ -713,15 +708,15 @@ Die Analytical Engine ist der Entwurf einer mechanischen Rechenmaschine für all
 - Numerische SonderwerteParallele Ausführung von Operationen so weit wie möglich
 ## Elektrik vs Elektronisch
 ### Elektrik
->Umschreibt alles was mit Strom zu tun hat
+Umschreibt alles was mit Strom zu tun hat
 ### Elektrisches Gerät
->Alle Geräte, die elektrische Energie für die Ausführung verwenden. BSP: Generator
+Alle Geräte, die elektrische Energie für die Ausführung verwenden. BSP: Generator
 ### Elektronik
->Umschreibt alles was damit zu tun hat, elektrischen Strom zu leiten, kontrollieren und regulieren
+Umschreibt alles was damit zu tun hat, elektrischen Strom zu leiten, kontrollieren und regulieren
 ### Elektronisches Gerät
->Die Vorrichtung, die den Elektronenfluss zur Ausführung der Aufgabe steuert. BSP: Motor
+Die Vorrichtung, die den Elektronenfluss zur Ausführung der Aufgabe steuert. BSP: Motor
 ### Elektromechanisches Gerät
->Beinhaltet Schaltelemente, die durch einen Elektromagneten gesteuert werden. BSP: Elektromotor
+Beinhaltet Schaltelemente, die durch einen Elektromagneten gesteuert werden. BSP: Elektromotor
 ## Rechner
 ### Entwicklung elektronischer Rechner
 
@@ -734,15 +729,15 @@ Die Analytical Engine ist der Entwurf einer mechanischen Rechenmaschine für all
 - Personalcomputer (PC)
 - Persönliche Informationshilfsmittel (mobile Geräte, die als universelles Instrument verwendet werden, um geschäftliche und private Aufgaben zu erledigen)
 ## Software
->Software ist ein Sammelbegriff für Computerprogramme
->Detaillierte Handlungsanweisung an einen Prozessor
->Prozessor führt ausschließlich Maschinenbefehle durch
+Software ist ein Sammelbegriff für Computerprogramme
+Detaillierte Handlungsanweisung an einen Prozessor
+Prozessor führt ausschließlich Maschinenbefehle durch
 
->Erstellung komplexer Handlungsanweisungen in Maschinenbefehlen für den Menschen aufwendig, fehleranfällig und prozessorabhängig.
->Deshalb Proframmiersprachen
+Erstellung komplexer Handlungsanweisungen in Maschinenbefehlen für den Menschen aufwendig, fehleranfällig und prozessorabhängig.
+Deshalb Proframmiersprachen
 ## Programmiersprache
->Eine Programmiersprache, deren Befehle sich am Anwendungsbereich orientieren, wird als höhere Programmiersprache bezeichnet. 
->Höhere Programmiersprachen abstrahieren vom Befehlssatz des Prozessors und verwenden Elemente der natürlichen Sprache und/oder der Mathematik für das Formulieren von Programmen.
+Eine Programmiersprache, deren Befehle sich am Anwendungsbereich orientieren, wird als höhere Programmiersprache bezeichnet. 
+Höhere Programmiersprachen abstrahieren vom Befehlssatz des Prozessors und verwenden Elemente der natürlichen Sprache und/oder der Mathematik für das Formulieren von Programmen.
 ### Arten von Programmiersprachen
 
 | Art | Beschreibung | Beispiel |
@@ -758,7 +753,7 @@ Verarbeitung -> Zentraleinheit
 Ein- & Ausgabe + Speicher -> Peripherie
 	- Maus, Tastatur, Monitor, Drucker, Festplatte, Server etc
 ## EVA(S) Prinzip
->Grundlegendes Prinzip der Datenverarbeitung und Reihenfolge
+Grundlegendes Prinzip der Datenverarbeitung und Reihenfolge
 
 E - Eingabeeinheit
 V - Verarbeitungseinheit
@@ -795,8 +790,8 @@ Kenngrößen
 - Taktfrequenz, wie schnell Berechnungen durchgeführt werden können. Wird in Hertz angegeben (bedeutet pro Sekunde)
 - Speicherkapazität, eigener Arbeitsspeicher der GPU. BSP: 8GB
 ### Netzwerkkarte
->Kommunkation mit dem Internet
->WLAN (dratlos) oder LAN (per Kabel)
+Kommunkation mit dem Internet
+**WLAN** (dratlos) oder **LAN** (per Kabel)
  
 **Übertragungsrate**, wie viele Daten pro Sekunde. 
 BSP: Megabit pro Sekunde, Mbps
@@ -832,25 +827,25 @@ BSP: Megabit pro Sekunde, Mbps
 
 Touchscereen: ermöglicht Input
 ### Speicher
->Ein Schreib-Lese-Speicher kann gelesen und beschrieben werden.
+Ein Schreib-Lese-Speicher kann gelesen und beschrieben werden.
 
->Festwertspeicher (ROM) kann nur gelesen werden und Informationen sind unveränderbar.
+Festwertspeicher (ROM) kann nur gelesen werden und Informationen sind unveränderbar.
 
->Direktzugriffsspeicher (Arbeitsspeicher, ROM) ist ein Speicher, bei dem jede einzelne Speicherstelle über ihre fest zugeordnete Adresse gelesen oder beschrieben (und damit auch gelöscht) werden kann. Die Zugriffszeit ist für alle Speicherstellen in etwa gleich lang.
+Direktzugriffsspeicher (Arbeitsspeicher, ROM) ist ein Speicher, bei dem jede einzelne Speicherstelle über ihre fest zugeordnete Adresse gelesen oder beschrieben (und damit auch gelöscht) werden kann. Die Zugriffszeit ist für alle Speicherstellen in etwa gleich lang.
 
->Flüchtiger Speicher verliert bei Ausfall der Versorgungsspannung seinen Inhalt.
+Flüchtiger Speicher verliert bei Ausfall der Versorgungsspannung seinen Inhalt.
 
->Nicht flüchtiger Speicher behält seinen Inhalt auch ohne Versorgungsspannung.
+Nicht flüchtiger Speicher behält seinen Inhalt auch ohne Versorgungsspannung.
 
->Flash Speicher ist ein spezieller ROM-Typ, dessen Inhalt durch Anlegen eines elektrischen Felds in bestimmten Speicherbereichen, sogenannten Sektoren oder Blöcken (zum Beispiel 512 Bytes), auf einmal gelöscht wird.
->- Die Speicherzellen können nicht – wie bei gewöhnlichen ROM-Chips – einzeln gelöscht werden. Das Schreiben erfolgt je nach Chiparchitektur selektiv für jede einzelne Zelle oder auf einmal für einen gesamten Block
->- Flash-Speicher haben eine begrenzte Lebensdauer, die sich durch die maximale Anzahl von Löschzyklen ergibt.
+Flash Speicher ist ein spezieller ROM-Typ, dessen Inhalt durch Anlegen eines elektrischen Felds in bestimmten Speicherbereichen, sogenannten Sektoren oder Blöcken (zum Beispiel 512 Bytes), auf einmal gelöscht wird.
+- Die Speicherzellen können nicht – wie bei gewöhnlichen ROM-Chips – einzeln gelöscht werden. Das Schreiben erfolgt je nach Chiparchitektur selektiv für jede einzelne Zelle oder auf einmal für einen gesamten Block
+- Flash-Speicher haben eine begrenzte Lebensdauer, die sich durch die maximale Anzahl von Löschzyklen ergibt.
 
 ![Speicherchips](attachments/29.png)
 ### Ram
->Arbeitsspeicher bezeichnet den kurzfristigen Speicher eines Computers. Dieser enthält alle Daten, die Sie gerade nutzen – von geöffneten Webseiten bis hin zu einer Mausbewegung über den Bildschirm
+Arbeitsspeicher bezeichnet den kurzfristigen Speicher eines Computers. Dieser enthält alle Daten, die Sie gerade nutzen – von geöffneten Webseiten bis hin zu einer Mausbewegung über den Bildschirm
 
->DDR steht für Double Data Rate, DDR ist die RAM-Technologie
+**DDR** steht für Double Data Rate, DDR ist die RAM-Technologie
 
 RAM besteht aus einer Reihe an nummerierten Speicherzellen gleicher Größe.
 Die Bit-Zahl der Architektur bestimmt sowohl die maximale Anzahl, als auch die Größe der Speicherzellen.
