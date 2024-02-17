@@ -550,6 +550,99 @@ Als Dashboard wird im Informationsmanagement eine grafische Benutzeroberfläche 
 Beispielbild:
 ![Beispielbild](attachments/50.png)
 # 06 Informationssysteme
+### Was ist Informationssystem-Management?
+Umfasst die organisatorischen, planerischen und verfügenden Tätigkeiten für die Planung, Entwicklung, den Betrieb und Kontrolle von betrieblichen Informationssystemen. Das IS- Management muss Informationen und deren Verarbeitung im Fokus haben, was dazu beiträgt, die Erfolgspotenziale des Betriebs zu sichern und weiter auszubauen.
+### Umsetzung
+- Planung von Informationssystemen
+- Entwicklung von Informationssystemen
+## Management von Informationssystemen
+### Planung Informationssystem-Management
+Legt langfristig die **Gesamtkonzeption** und **Realisierung** des **gesamtbetrieblichen Informationssystems** fest.
+### Schritte
+1. Vorüberlegung:
+	→Wo und für wen soll die Planung durchgeführt werden?
+2. Analyse der Bedingungslage:
+	→ Bestimmung des Handlungsspielraums
+	→Untersuchung der Stärken und Schwächen der IT
+	→Untersuchung vorhandener Systeme
+3. Setzen der strategischen Ziele:
+	→Festlegung einer Vision
+	→Klarstellung von Richtlinien
+4. Entwicklung von IS-Strategien:
+	- **Bezug auf Anwendungsarchitektur** →Daten und Anwendungen werden zusammengefasst
+	- **Bezug auf Produkte und Dienstleistungen** →Festlegung Art, Umfang und Qualität der angebotenen Dienstleistungen
+	- **Bezug auf Ressourcen** →Festhalten der IT-Mitarbeiter
+	- **Bezug auf Organisation und Führung** → Regelung der Zusammenarbeit zwischen IT und Fachabteilungen
+### IT-Governance
+Unter IT-Governance versteht man Maßnahmen, Prozesse und Strukturen, die IT-Leistungen eines Betriebes transparenter und leichter steuerbar machen.
+**Ziel:**
+- IS-Strategie soll mit der restlichen Unternehmensstrategie übereinstimmen
+- Regulatorische Vorgaben sollen eingehalten werden
+
+![IT-Gov](attachments/51.png)
+## Entwicklung von Informationssystemen
+### Definition
+Aufgabe Informationssysteme zu entwickeln, anzupassen und einzuführen. Dabei müssen vorgegebene Termine, Kosten und Qualitätsstandards eingehalten werden.
+
+Für eine erfolgreiche Entwicklung braucht man ein gutes, …
+- **IS-Projektmanagement**
+- **IS-Projektportfolio**
+### IS-Projektportfolio
+**Gesamtheit** der IS-Projekte eines Fachbereichs. Fachbereich hat die Aufgabe, die Gesamtheit der IS-Projekte zu **steuern**, das heißt, die Ziele und Auswirkungen der Projekte zu bewerten, **Prioritäten** zu **setzen** und Ressourcen bereitzustellen.
+
+➔ Reihenfolge der Projekte wird hauptsächlich anhand Kosten und Nutzen bestimmt.
+
+![Kosten Nutzen](52.png)
+## Phasen und Tätigkeiten im Rahmen der IS-Entwicklung
+
+![Phasen](attachments/53.png)
+
+- Requirements Engineering
+- Entwurf
+- Implementierung
+- Test
+### Requirements Engineering
+Vollständige **Gewinnung** und **Aufzeichnung** der **Anforderungen** an ein System. Es wird eine **Anforderungsspezifikation** erstellt, welche **vollständig, verständlich** sowie **fehler-** und **widerspruchsfrei** sein muss.
+
+**Aufgaben der Anforderungsanalyse:**
+- Anforderungen spezifizieren
+- Anforderungen verwalten
+
+**Praxis:**
+In der Praxis gibt es **unterschiedliches Verständnis** beim **Verstehen** und **Umsetzen** der Anforderungen. → **Klare** und **offene** Kommunikation ist wichtig
+
+![Schaubild](attachments/54.png)
+
+### Entwurf
+Eine Überführung der fachlichen Anforderungen in eine **technische Konzeption**.
+
+➔ Häufig werden dazu Prototypen gebaut
+![Prototypen](attachments/55.png)
+### Implementierung
+**Programmierung** und **Konfiguration** der Software basierend auf der Spezifikation.
+
+➔ **Übergang** von abstrakter zu **konkreter Ebene:**
+
+Implementierung einer spezifizierten Software, unter einem speziellen Betriebssystem und Programmiersprache.
+1. Alphaversion
+2. Betaversion
+3. Freigabeversion (Release)
+
+![Alpha-Beta-Release](attachments/56.png)
+### Test
+Umfasst das Testen der Software, auf **Fehler** und **Erfüllung der spezifizierten Anforderungen.**
+
+**5 Arten von Tests:**
+- Manual Test
+- UI & API Testing
+- Integration Testing
+- Component Testing
+- Unit Testing
+
+### Unterscheidung zwischen White Box Testing & Black Box Testing:
+#### Black Box
+
+#### White Box
 
 # 07 Grundlagen des Computers
 ## Definitionen
