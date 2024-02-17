@@ -682,7 +682,9 @@ Hexadezimasystem = Base 16
 
 ![Windows_macOS_Linux](attachments/32.png)
 
+
 ![Betriebssysteme](attachments/33.png)
+
 # 11 Datenkommunikation und Rechnernetze
 
 # 12 Datenspeicherung
