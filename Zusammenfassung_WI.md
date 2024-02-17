@@ -572,6 +572,7 @@ Warum ist ein Verständnis der Logik in der Wirtschaftsinformatik relevant?
 | Disjunktion | $a \lor b$ | Ich gehe zum Arzt oder der Arzt kommt vorbei (oder beides). |
 | Subjunktion | $a \rightarrow b$ | Wenn ich krank bin, dann gehe ich zum Arzt. |
 | Bijunktion | $a \leftrightarrow b$ | Wenn ich krank bin, dann gehe ich zum Arzt und umgekehrt. (Ich gehe genau dann zum Arzt, wenn ich krank bin.) |
+
 Negation: $\lnot$
 ### De-Morgen-Theorem
 >Die De Morganschen Gesetze sind zwei grundlegende Regeln für logische Aussagen.
@@ -595,18 +596,23 @@ Die leere Menge.
 Es gilt $\varnothing = \{ \}$
 ### Zahlenmengen
 Natürliche Zahlen
+
 $\mathbb{N} = \{1,2,3,...\}$
 
 Natürliche Zahlen mit 0
+
 $\mathbb{N}_0 = \{0,1,2,3,...\}$ 
 
 Ganze Zahlen
+
 $\mathbb{Z} = \{...,-3,-2,-1,0,1,2,3,...\}$
 
 Rationale Zahlen
+
 $\mathbb{Q}$ (alle Bruchzahlen)
 
 Reelle Zahlen
+
 $\mathbb{R}$ (Kommazahlen)
 
 
