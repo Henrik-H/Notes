@@ -626,10 +626,63 @@ Oktalsystem = Base 8
 Hexadezimasystem = Base 16
 
 # 10 Betriebssysteme
+## Hardwaresicht und Anwendersicht
 
+| Hardwaresicht | Anwendersicht |
+| ---- | ---- |
+| Ein Rechnersystem besteht aus einer Menge kooperierender Hardwarekomponenten. | Ein Rechensystem stellt (benutzerfreundliche) Konzepte bereit, mit denen Daten und Informationen verarbeited werden können. |
+## Betriebssystem
+### Definition
+>Ist **Softwarekomponente**, die die abstrakte Anwendersicht auf der Grundlage der realen Hardwaresicht umsetzt.
 
+- macht die Hardware für den Anwender benutzbar
+- Enthält interne Programme und Datenstrukturen
 
+>Betriebssystem besteht aus einem Betriebssystemkern und einer Schnittstelle
+### Aufgaben
 
+![Aufgaben_Betriebssystem](attachments/31.png)
+
+- Prozessverwaltung
+	  Erzeugen und Löschen von Prozessen.
+- Geräteverwaltung
+	  Überwachung der Datenübertragung.
+- Speicherverwaltung
+	  Zuteilung des verfügbaren physikalischen Speichers an Prozesse.
+- Verwalten des Dateisystems
+	  Erzeugen, Löschen, Lesen, Schreiben, Kopieren, etc.
+## Betriebsarten
+
+| Einprogrammbetrieb | Mehrprogrammbetrieb |
+| ---- | ---- |
+| Im Einprogrammbetrieb werden einzelne Benutzeraufträge von der CPU nacheinander bearbeitet. Nur ein Anwendungsprogramm im Arbeitsspeicher, das alle vorhandenen Betriebsmittel (Prozessoren, Speicher, periphere Geräte) zugeteilt bekommt. | m Mehrprogrammbetrieb werden mehrere Benutzeraufträge von der CPU gemeinsam bearbeitet. Die Bearbeitung erfolgt abwechselnd, in Zeitabschnitten. Es befinden sich gleichzeitig mehrere Anwendungs- Programme ganz oder teilweise im Arbeitsspeicher. |
+
+| Einbenutzerbetrieb | Mehrbenutzerbetrieb |
+| ---- | ---- |
+| Beim Einbenutzerbetrieb kann nur ein Benutzer einen Rechner zu einem Zeitpunkt nutzen. Ein Benutzer belegt das gesamte Rechensystem und erteilt Aufträge, die streng sequentiell abgearbeitet werden. | Mehrbenutzerbetrieb, bei dem eine Zentraleinheit von mehreren Benutzern zur Verfügung steht (z.B. WindowsNT/XP, Mac OS X, Linux/Unix). Jedem dieser Arbeitsplätze werden Systemressourcen (z.B. Festplattenkapazität) und Rechte (z.B. Lese- oder Schreibrechte) Zugeteilt. |
+
+| Einprozessorbetrieb | Multiprozessorsystemen |
+| ---- | ---- |
+| Der Einprozessorbetrieb kann nur ein Programm ablaufen lassen. | In Multiprozessorsystemen können gleichzeitig mehrere Programme auf verschiedenen physischen Prozessoren ablaufen. |
+## Komponenten eines Betriebssystems
+
+| Komponente | Aufgabe |
+| ---- | ---- |
+| Auftragsverwaltung | Verwaltung der gleichzeitig ablaufenden Programme und übernimmt die Steuerung mehrerer Tasks/Prozesse. |
+| Arbeitsspeicherverwaltung | Bietet einen Speicherschutz, der verhindert, dass gleichzeitig laufende Programme sich irrtümlich gegenseitig überschreiben. |
+| Geräteansteuerung | Eine weitere Aufgabe des Betriebssystems ist es, eine möglichst standardisierte Abstraktionsschicht zwischen der real verfügbaren Hardware und den Anwendungsprogrammen anzubieten. |
+| Benutzerverwaltung | Definition von Benutzungsbeschränkungen für die Nutzung einzelner Ressourcen zur Verfügung stellen. |
+| Dateisystem | Organisiert die Daten auf einem Datenträger in der Form von Dateien.<br>Arten von Dateisystemen:<br>- Lineare Dateisysteme<br>- Hierarchische Dateisysteme |
+## Drei große Betriebssysteme
+- Windows-Familie
+- Linux
+- MacOS X
+
+**Nicht alles wissen, aber Aspekte kennen** (Frage wäre z.B. Nenn Sie ein Unterschied der Schwächen zw. Windows und Linux)
+
+![Windows_macOS_Linux](attachments/32.png)
+
+![Betriebssysteme](attachments/33.png)
 # 11 Datenkommunikation und Rechnernetze
 
 # 12 Datenspeicherung
