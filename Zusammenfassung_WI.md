@@ -340,6 +340,110 @@ Darüber hinaus ist allgemein die Versorgung mit indirekten Gütern wie Büroart
 # 06 Informationssysteme
 
 # 07 Grundlagen des Computers
+## Definitionen
+### Computer
+>Computer als programmgesteuerter Rechenautomat
+
+>Computer als Automat für Algorithmen
+>Algorithmus als Schritt-für-Schritt-Anweisung für die Lösung eines (mathematischen) Problems (z.B. für eine Entscheidung)
+
+>Computer Verarbeiten ausschließlich digitale Daten
+>Computer wandelt analoge und digitale Daten um
+### Digitale Daten
+>Digitale Daten sind in Form von Zahlen dargestellt
+>Digitale Daten sind die kleinste Informationseinhiet, können nicht weiter aufgelöst werden
+>Daten liegen aber meist in Form von Bilder, Tönen, Videos, etc vor
+### Analog
+>Daten in Wellenform (Elektrische Signale von variabler Stärke)
+### Digital / Binär
+>Daten mit nur zwei Zuständen: 0 (OFF), 1 (ON)
+
+![Analog_Digital](attachments/22.png)
+### Grundgatter (logic gates)
+- AND
+- OR
+- NOT
+- NAND
+- NOR
+- XOR
+- etc..
+>Mit den Logikbaustreinen kann man Rechnungen durchführen und Daten verarbeiten.
+## CPU
+### Transistoren
+>Transistoren haben verschiedene Formen, die meist genutzten lassen nur Strom durch, wenn ein (kleiner) Aktivierungsstrom von der Seite gegeben wird.
+>Eine große Menge von Transistoren nennt man intigrierte Schaltung (IC) oder Mikrochip.
+>Computer CPUs bestehen aus milliarden von Transistoren und führen so Rechnungen durch.
+### Aufbau Prozessor
+
+![Aufbau_CPU](attachments/23.png)
+### Ausführung Maschinenbefehle
+
+![Maschinenbefehle](attachments/24.png)
+### Taktfrequenz
+>Die Taktfrequenz eines Prozessors gibt an, mit welcher Frequenz die Verarbeitungseinheiten Operationen durchführen.
+### Moore's Law
+>Faustformel: Leistungsfähigkeit (Anzahl der Transistoren auf Mikro-Chips) verdoppelt sich ca. alle 18 Monate.
+## Geschichte des Computers
+### Erste Rechenhilfsmittel
+Abakus (2500 v.Chr.), Rechenbrett der Antike
+
+Einführung des Stellenwertsystems (Basis-10 Zahlensystem)
+Die Ziffer 0 ermöglicht die Vervielfachung des Wertes einer Ziffer
+### Erste mechanische Rechenmaschiene
+**1642** vom Franzosen **Blaise Pascal** efunden.
+Die Pascaline konnte sechstellige Zahlen addieren, und sollte seinem Vater helfen, der als Steuerbeamter tätig war.
+### Analytical Engine
+Erfunden vom britischen Mathematikprofessor **Charles Babbage (1791-1871)**.
+Die Analytical Engine ist der Entwurf einer mechanischen Rechenmaschine für allgemeine Anwendungen.
+### Elektromechanischer Rechenautomat
+**1940** erfindet **Konrad Zuse** die Z3, den ersten funktionsfähigen programmierbaren, elektromagnetischen Rechenautomaten.
+
+- Verwendung des binären Zahlensystems Gleitkommazahlenberechnung
+- Ein- und Ausgabegeräte
+- Möglichkeit der Benutzerinteraktion während des Rechenvorgangs
+- Mikroprogramme
+- Pipelining von Instruktionsfolgen
+- Numerische SonderwerteParallele Ausführung von Operationen so weit wie möglich
+## Elektrik vs Elektronisch
+### Elektrik
+>Umschreibt alles was mit Strom zu tun hat
+### Elektrisches Gerät
+>Alle Geräte, die elektrische Energie für die Ausführung verwenden. BSP: Generator
+### Elektronik
+>Umschreibt alles was damit zu tun hat, elektrischen Strom zu leiten, kontrollieren und regulieren
+### Elektronisches Gerät
+>Die Vorrichtung, die den Elektronenfluss zur Ausführung der Aufgabe steuert. BSP: Motor
+### Elektromechanisches Gerät
+>Beinhaltet Schaltelemente, die durch einen Elektromagneten gesteuert werden. BSP: Elektromotor
+## Rechner
+### Entwicklung elektronischer Rechner
+
+![Entwicklung_Rechner](attachments/25.png)
+
+### Arten von Rechnern
+- Großrechner
+- Minicomputer
+- Workstation
+- Personalcomputer (PC)
+- Persönliche Informationshilfsmittel (mobile Geräte, die als universelles Instrument verwendet werden, um geschäftliche und private Aufgaben zu erledigen)
+## Software
+>Software ist ein Sammelbegriff für Computerprogramme
+>Detaillierte Handlungsanweisung an einen Prozessor
+>Prozessor führt ausschließlich Maschinenbefehle durch
+
+>Erstellung komplexer Handlungsanweisungen in Maschinenbefehlen für den Menschen aufwendig, fehleranfällig und prozessorabhängig.
+>Deshalb Proframmiersprachen
+## Programmiersprache
+>Eine Programmiersprache, deren Befehle sich am Anwendungsbereich orientieren, wird als höhere Programmiersprache bezeichnet. 
+>Höhere Programmiersprachen abstrahieren vom Befehlssatz des Prozessors und verwenden Elemente der natürlichen Sprache und/oder der Mathematik für das Formulieren von Programmen.
+### Arten von Programmiersprachen
+
+| Art | Beschreibung | Beispiel |
+| ---- | ---- | ---- |
+| Imperativ | - Formulierung von komplexen Anweisungen | C, C++ |
+| Objektorientiert | - Beschreibung des Realweltprogramms durch Objekte und Klassen des Anwendungsbereiches |  |
+| Funktional |  |  |
+| Logisch |  |  |
 
 # 08 Hardware
 
