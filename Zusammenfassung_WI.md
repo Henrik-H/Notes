@@ -595,25 +595,14 @@ Ist m kein Element von M so schreibt man $m \notin M$
 Die leere Menge.
 Es gilt $\varnothing = \{ \}$
 ### Zahlenmengen
-Natürliche Zahlen
 
-$\mathbb{N} = \{1,2,3,...\}$
-
-Natürliche Zahlen mit 0
-
-$\mathbb{N}_0 = \{0,1,2,3,...\}$ 
-
-Ganze Zahlen
-
-$\mathbb{Z} = \{...,-3,-2,-1,0,1,2,3,...\}$
-
-Rationale Zahlen
-
-$\mathbb{Q}$ (alle Bruchzahlen)
-
-Reelle Zahlen
-
-$\mathbb{R}$ (Kommazahlen)
+| System | Beispiel |
+| ---- | ---- |
+| Natürliche Zahlen | $\mathbb{N} = \{1,2,3,...\}$ |
+| Natürliche Zahlen mit 0 | $\mathbb{N}_0 = \{0,1,2,3,...\}$  |
+| Ganze Zahlen | $\mathbb{Z} = \{...,-3,-2,-1,0,1,2,3,...\}$ |
+| Rationale Zahlen | $\mathbb{Q}$ (alle Bruchzahlen) |
+| Reelle Zahlen | $\mathbb{R}$ (Kommazahlen) |
 
 
 # 10 Betriebssysteme
