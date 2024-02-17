@@ -594,6 +594,11 @@ Ist m kein Element von M so schreibt man $m \notin M$
 
 Die leere Menge.
 Es gilt $\varnothing = \{ \}$
+
+Teilmenge: $C \subseteq A$
+
+Teilmenge: $B \subset A$
+
 ### Zahlenmengen
 
 | System | Beispiel |
@@ -603,9 +608,23 @@ Es gilt $\varnothing = \{ \}$
 | Ganze Zahlen | $\mathbb{Z} = \{...,-3,-2,-1,0,1,2,3,...\}$ |
 | Rationale Zahlen | $\mathbb{Q}$ (alle Bruchzahlen) |
 | Reelle Zahlen | $\mathbb{R}$ (Kommazahlen) |
+### Mengenoperationen
 
+| Operation | Schreibweise |
+| ---- | ---- |
+| Schnitt | $A \cap B$ |
+| Vereinigung | $A \cup B$ |
+| Differenz | $A \ \backslash \ B$ |
+### Zahlensysteme
+
+Binärsystem = Base 2
+Oktalsystem = Base 8
+Hexadezimasystem = Base 16
 
 # 10 Betriebssysteme
+
+
+
 
 # 11 Datenkommunikation und Rechnernetze
 
