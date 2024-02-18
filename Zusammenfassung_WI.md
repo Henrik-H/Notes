@@ -1136,3 +1136,91 @@ Wichtigsten Protokolle sind die Internetprotokolle auf der 4-7 Schicht des OSI-M
 - Internet Protocol (IP) = Protokoll oder Regelsatz zum Weiterleiten und Adressieren von Datenpaketen, damit diese über Netzwerke übertragen und am richtigen Ziel ankommen
 - Daten, die das Internet durchlaufen, sind in kleinere Teile unterteilt, die man Pakete nennt
 # 12 Datenspeicherung
+## Informationen von Daten
+### Arten von Daten
+- Daten stellen Informationen in maschinell verarbeitbaren Form dar
+- Digitale Daten werden durch Zeichen repräsentiert
+- Analoge Daten werden durch kontinuierliche Funktionen repräsentiert
+### Bits und Bytes
+- Binärzeichen oder Bit = Zeichen aus Zeichenvorrat von 2 Zeichen
+- Zur Darstellung wird die 0 (binäre Null) und 1 (binäre Eins) verwendet
+- Heute ist ein Byte die kleinste Einheit und entspricht einer Folge von 8 Bits
+### Repräsentationsgröße von Zahlen
+- Legt die vorgesehene Datenmenge fest, die für ein Datenelement vorgesehen ist.
+- Bestimmt wie viele unterschiedliche Werte in dem Datenelement dargestellt werden können
+
+![Repräsentationsgröße von Zahlen](attachments/69.png)
+### ASCII
+- Genormter, relativ alter Zeichenart für Schrift- und Steuerzeichen mit einer Repräsentationsgröße von 7 Bit
+- Reicht aus, um beliebige englische Texte darstellen zu können
+## Datenstrukturen
+### Datenelemente
+- Datenelement = Speicherbereich der einen Namen, Inhalt und Datentyp enthält
+- Datentyp bestimmt, welche Operationen mit Werten durchgeführt werden und wie die Werte repräsentiert werden
+- Datenelemente, die verändert werden können durch Operationen heißen
+Variablen. Unveränderbare heißen Konstanten.
+
+![Datenelemente](attachments/70.png)
+
+### Aggregation und Datensatz
+- Aggregation: drückt aus, dass eine konzeptionelle Einheit Bestandteil einer anderen ist
+- Datensatz: ist die Aggregation von unterschiedlichen Datenelementen
+
+![Aggregation und Datensatz](attachments/71.png)
+### Graphenbasierte Datenstrukturen
+
+- Graph = Datenstruktur, die aus Knoten und Kanten aufgebaut ist.
+- Knoten sind durch Kanten verbunden
+- Gerichteter Graph = wenn die Kanten nur in eine Richtung gehen
+- Ungerichteter Graph = wenn die Kanten in beide Richtungen gehen
+### Baum
+- Baum = gerichteter Graph mit einem Wurzelknoten, bei dem jeder Knoten maximal einen Vorgängerknoten hat
+- Die sog. Ordnung bestimmt die Maximale Anzahl der Nachfolger eines
+Knoten
+- Baum der Ordnung zwei heißt Binärbaum
+
+![Baum](attachments/72.png)
+### Liste
+- Liste = Graph der Ordnung eins. Jedes Element besitzt maximal einen
+Vorgänger und einen Nachfolger
+- Wurzel des Baums heißt Anker
+## Datenbanken
+### Definition
+- Datenbank = zentral verwalteter Datenbestand, der über Zugriffsverfahren nutzbar gemacht wird
+- Datenbankverwaltungssystem = verwaltet Datenbank, regelt Zugriffsschutz, ermöglicht gleichzeitige Zugriffe von mehreren Anwendungen, verwendet eigene Sprache für Abfrage von Daten
+### Wichtige Typen von Datenbanken
+- Transaktionsorientierte Datenbank: für Transaktionen, wichtigste Form, Standardannahme.
+- Historische Datenbank: erlaubt Abfragen über Zustände und Ereignisse zu einem früheren Zeitpunkt (wer hat wann welche Werte eingefügt).
+- Temporale Datenbank: ermöglicht beliebige Abfragen zu beliebigen Zeitpunkten
+- Blockchain: spezielle Form einer historischen Datenbank, bei der die Unveränderbarkeit der Daten durch Kryptografische Prüfsummen zugesichert wird.
+- In-Memory-Datenbank = Datenbank, die nur den (flüchtigen) Arbeitsspeicher für die Datenhaltung nutzt. Durch den Entfall des Zugriffs auf externe Speicher sind die Zugriffs- und Verarbeitungszeiten sehr kurz, allerdings können bei Systemabstürzen Daten verloren gehen
+### Transaktionsorientierte Datenbanken
+- Atomarität
+- Konsistenz
+- Isolation
+- Dauerhaftigkeit
+### Relationales Datenmodell
+- Datenmodell: wie werden Daten gespeichert (Strukturierung, Datenelemente,...)
+- Relationales Datenmodell: Daten werden von Relationen definiert und in Tabellen gespeichert
+- Tabellen
+  - Speichern Daten
+  - Ausprägung entspricht einer Zeile
+  - Merkmale (Attribute) entsprechen den Spalten
+### SQL
+- Strucured Query Language ist eine Abfragesprache
+- SQL ist mengenorientiert und deskriptiv
+### Nicht relationale Datenmodelle
+- Hierarchisches Datenmodell: Anwendungsdaten werden durch Baumstrukturen repräsentiert
+- Netzwerkdatenmodell: Informationsstrukturen werden durch Graphstrukturen dargestellt
+### Dokumentenzentrierte Datenorganisation
+- Allgemeines
+  - Datenaustauschformat dient als Schnittstelle zum Import und Export von Daten
+  - Strukturiertes Dokument ermöglicht Darstellung von semantisch zusammengehörenden Daten
+- JSON
+  - JSON = offener Standard für die Beschreibung baumstrukturierter Daten
+  - JSONObjekt kann weitere Datenelemente enthalten, wobei jedes Attribut einen oder mehrere Werte enthalten kann
+- Extensible Markup Language (XML)
+  - XML = Metasprache für die Definition von anwendungsspezifischen Auszeichnungssprechen
+  - Für den Menschen intuitiv verständlich und relativ einfach maschinell verarbeitbar
+
+![XML](attachments/73.png)
