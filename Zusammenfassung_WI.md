@@ -1114,9 +1114,9 @@ Wichtigsten Protokolle sind die Internetprotokolle auf der 4-7 Schicht des OSI-M
 ### Entwicklung des Internets:
 - Netzneutralität = offener Zugang zu einem Rechnernetz, Gleichbehandlung von allen rechtmäßigen Daten bei der Datenübertragung
 - Besitzt drei Regeln:
-  - 1. Keine Websperren (Blockieren von Angeboten)
-  - 2. Keine Tempobremsen (keine Reduktion der Übertragungsrate)
-  - 3. Keine Bevorzugung des Internet-Verkehrs eines Teilnehmers gegenüber eines anderen
+  - Keine Websperren (Blockieren von Angeboten)
+  - Keine Tempobremsen (keine Reduktion der Übertragungsrate)
+  - Keine Bevorzugung des Internet-Verkehrs eines Teilnehmers gegenüber eines anderen
 ### Schichtenmodell von TCP/IP – HTTP Protokoll:
 - HTTP ist mit URL und HTML eines der wichtigsten Konzepte des Internets
 - Es definiert die Kommunikation im WWW
