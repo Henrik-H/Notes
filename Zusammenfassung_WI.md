@@ -157,7 +157,6 @@ Typen:
 >Analyse des gesamten Systems
 
 ![Prozess-Mining](attachments/8.png)
-
 # 03 Modellierung betrieblicher Informationssysteme
 ## Grundlagen der Modellierung
 ### Was ist Modellierung?
@@ -926,7 +925,6 @@ Binärsystem = Base 2
 Oktalsystem = Base 8
 
 Hexadezimasystem = Base 16
-
 # 10 Betriebssysteme
 ## Hardwaresicht und Anwendersicht
 
@@ -985,7 +983,156 @@ Hexadezimasystem = Base 16
 ![Windows_macOS_Linux](attachments/32.png)
 
 ![Betriebssysteme](attachments/33.png)
-
 # 11 Datenkommunikation und Rechnernetze
+## Anwendung der Datenkommunikation
+- Rechnernetze entwickelten sich von einer Forschungsplattform hin zu einer kritischenInfrastruktur
+- mit Rechnernetzen erbringen Betriebe operative Leistungen
+- Private Haushalte können Informationsbedürfnisse erfüllen
+- Grundlage für Rechnernetze ist die Datenkommunikation, denn sie überträgt relevante Informationen in digitaler Form (von Sender zu Empfänger)
+-> Rechnergeschützte Kommunikation Ist der Austausch von Informationen zwischen zwei Rechnern auf räumlicher Distanz
+## Datenübertragung
+### Datenübertragungssystem:
+Besteht aus zwei oder mehreren Datenstationen, zum Zwecke des Datenaustausches durch ein Übertragungsmedium miteinander verbunden sind.
+### Konvergenz der Medien:
+Es gibt keinen Unterschied für die Datenübertragung (egal ob Text, Bilder, Videos,..)
 
+![Datenübertragung](attachments/58.png)
+### Wichtigsten Datenübertragungseinrichtungen:
+- Modem: Wandelt digitale Daten in analoge Übertragungsdaten um und überträgt bzw. empfängt diese; Wir unterscheiden unter:
+  - Telefonmodem (Umwandlung digitaler Daten in Töne)
+  - Funkmodem (Umwandlung digitaler Daten in Radiosignale)
+  - Glasfasermodem (Umwandlung von digitalen Daten in optische Signale)
+- Netzwerkadapter: Überträgt digitale Daten über ein Netzwerk und übernimmt Signalisierung
+### Übermittlung von Signalen:
+- Jede Bitfolge wird durch elektromagnetische Wellen übertragen
+- Bitfolge muss bei einer physischen Übertragung in Wellenmuster kodiert werden (Umgekehrt beim Empfang)
+- Interpretiert werden sie durch Frequenz, Wellenlänge und Amplitude
+- Frequenz = Anzahl der Schwingungen pro Zeiteinheit (in Hz)
+
+![Wellenlänge](attachments/59.png)
+### Frequenzen und das elektromagnetische Spektrum:
+
+![Wellenlänge](attachments/60.png)
+- verschiedene Frequenzbänder: Radiowellen, Mikrowellen, Infrarotwellen, Röntgenwellen..
+- Für Datenübertragung sind höhere Frequenzen besser, da in kürzerer Zeit mehr Daten übertragen werden.
+### Informationsdarstellung mit Signalparametern:
+- Informationen kann man mit folgenden Signalparametern darstellen:
+- Amplitudenmodulation (AM): Wert „1“ wird durch eine höhere Spannung (yAchse) als „0“ dargestellt
+- Frequenzmodulation (FM): Wert „1“ wird durch eine höhere Frequenz als „0“ Dargestellt
+- Phasenmodulation: Wert „1“ hat eine andere Phase als der Wert „0“
+
+![Signale](attachments/61.png)
+>Letztendlich will man es ja in 0 und 1 angeben, die Frage ist nur wie kann man die Signale als 1 und 0 lesen? Bei den Amplituden bspw. Ist die 1 4 größere Ausschläge, bei Frequenz bspw. Ist die 1 4 Amplituden.
+### Übertragungsleistung:
+- Übertragungskapazität: Welche Datenmenge kann in einer bestimmten Zeit übertragen werden? ; Werden in der Einheit bit/Sekunde angegeben (z.B. Kbit/s, Mbit/s)
+- Signallaufzeit = Zeitspanne, die ein Signal benötigt, um eine Strecke zwischen zwei Punkten zu durchlaufen (Einheit s, ms, ns)
+- Latenz = Verzögerung zwischen Versenden und Ankunft des ersten Datenbits (ping in ms) ; Relevant bei Spielen und Sprach- und Videokonferenzen
+### Multiplexverfahren:
+- Multiplexverfahren = Übertragungstechnik, durch die mehrere getrennte Verbindungen über ein einzelnes physisches Übertragungsmedium übertragen werden. Dabei wird die verfügbare Übertragungskapazität zwischen den logischen Kanälen aufgeteilt.
+- Zu unterscheiden sind:
+  - **Frequenzmultiplexverfahren**: verwendet mehrere verschiedene Frequenzbänder des gemeinsamen Übertragungsmediums
+  - **Zeitmultiplexverfahren**: erlaubt logischen Kanälen exklusive Nutzungsrechte für kurze Zeitintervalle
+
+![TDM (Time Division Multiplexing)](attachments/62.png)
+## Übertragungsmedien
+
+![Verbindungsarten](attachments/63.png)
+### Verdrillte Kupferkabel:
+- in der Telefonie verwendet
+- weitesten verbreitetes Übertragungsmedium
+- Vorteile: Preiswert, einfach zu Verlegen
+- Nachteile: Geringe Bandbreite, hohe Störanfälligkeit
+### Koaxialkabel:
+- Zwei Kupferleiter ineinander liegend angeordnet
+- Vorteile: Hohe Sicherheit gegen Störungen, höherer Frequenzen möglich (daher der Name Breitbandkabel)
+- Nachteile: Kabel ist eher unbeweglich -> verlegen manchmal problematisch
+### Glasfaserkabel:
+- Informationsübertragung durch dünne Glas- oder Kunststofffasern mittels Laserlichtimpulse
+- Daten werden optisch Übertragen
+- Vorteile: Kabel kann beliebig gekrümmt werden ohne Einbußen, sehr hohe Übertragungsleistungen
+- Nachteile: Einsatz ist teuer
+## Rechnernetze
+### Allgemeines:
+Rechnernetz = räumlich verteiltes System von Datenstationen, die durch Datenübertragungseinrichtungen und -wege miteinander verbunden sind.
+### Klassifikation von Rechnernetzen:
+- Es gibt verschiedene Formen von Rechnernetzen für verschiedene Einsatzgebiete
+- Es gibt:
+  - Organisatorische Kriterien: Wer betreibt das Rechnernetz?
+    - öffentliches Netz (Fokus auf Betreiber)
+    - privates Netz (Fokus auf Unternehmen oder privater Haushalt)
+  - Strukturelle Kriterien: Wie sieht sie Struktur aus, also welche Knotenpunkte und Verbindungen?
+    - Netzwerktopologie beschreibt das:
+![Netzwerktopologie](attachments/64.png)
+- Geographische Kriterien: Räumliche Ausdehnung des Rechennetzes
+  - PAN: Persönliches Netzwerk (personal area network) / 1m2
+  - LAN: Lokales Netz (local area network) / Abteilung, Betrieb
+  - MAN: Netz für städtisches Ballungszentrum (metropolitan area network)
+  - WAN: Weitverkehrsnetz (wide area network)
+
+![zwiebel](attachments/65.png)
+## Kommunikation in Rechnernetzen
+### Allgemeines
+Anfangs war die Kommunikation keine Herausforderung, da es keine großen Rechnernetze, und demensprechend keine Standards gab. Jedoch war die Kommunikation nicht aufs Internet übertragbar. Das war der Beginn für:
+- Offenes Kommunikationssystem (TCP/IP)
+	-Herstellerunabhängig
+	- unterstützt Interoperabilität (heterogene Netzwerke)
+- Kommunikationsprotokoll
+  - Festgeschriebene Konvention für die Kommunikation zw Datenstationen (z.B. http)
+- Regelt Aufbau von Meldungen:
+  - Syntax - Repräsentationsgrößen
+  - notwendige Inhalte
+  - legt fest, welche Antworten auf Meldungen erfolgen müssen
+### ISO/OSI-Referenzmodell:
+- Definiert die Kommunikation zwischen Datenstationen in einem offenen Netzwerk
+- Ordnet Kommunikationsprotokolle nach Aufgaben ein
+- Kommunikationsprotokolle schaffen Regeln für unmissverständliche Kommunikation
+zwischen Rechnern
+- Übertragungsmedium (Kabel) ist für Kommunikation irrelevant
+
+![SEHR WICHTIG](attachments/66.png)
+### Wichtiges zur Sicherungsschicht – Frame:
+- Sicherungsschicht kümmert sich darum, dass Datenpakete gesichert werden
+- gewährleistet zuverlässige und fehlerfreie Übertragung
+- regelt Zugriff auf das Übertragungsmedium
+### Wichtiges zur Sicherungsschicht – Flussteuerung:
+- Flusssteuerung = Synchronisation der Übertragungsrate zwischen zwei Datenstationen
+- Wie erfährt der Sender, dass der Empfänger weitere Pakete empfangen kann?
+  - Es gibt zwei Protokolle:
+    - Send-and-Wait Protokoll
+    - Sliding-Window Protokoll
+
+![Protokoll](attachments/67.png)
+### Wichtiges zur Sicherungsschicht – Adressierung:
+- Punkt-Adressierung: Adressierung einer Datenstation
+- Broadcast-Adressierung: Adressierung aller Datenstationen. Ein Paket wird an alle (an das Medium angeschlossenen) Datenstationen gesendet.
+- Mehrpunkt-Adressierung: Adressierung mehrerer Datenstationen. Ein Paket ist für mehrere Empfänger bestimmt, das Paket wird von allen bezeichneten Datenstationen empfangen.
+## Internet-Protokolle:
+### Definition TCP/IP:
+Wichtigsten Protokolle sind die Internetprotokolle auf der 4-7 Schicht des OSI-Modells. Internetprotokolle werden auch als TCP/IP Protokolle bezeichnet.
+
+![Internet-Protokolle](attachments/68.png)
+### Entwicklung des Internets:
+- Netzneutralität = offener Zugang zu einem Rechnernetz, Gleichbehandlung von allen rechtmäßigen Daten bei der Datenübertragung
+- Besitzt drei Regeln:
+  - 1. Keine Websperren (Blockieren von Angeboten)
+  - 2. Keine Tempobremsen (keine Reduktion der Übertragungsrate)
+  - 3. Keine Bevorzugung des Internet-Verkehrs eines Teilnehmers gegenüber eines anderen
+### Schichtenmodell von TCP/IP – HTTP Protokoll:
+- HTTP ist mit URL und HTML eines der wichtigsten Konzepte des Internets
+- Es definiert die Kommunikation im WWW
+- Verwendet auf der Transportschicht das Protokoll TCP
+- Definiert zwei unterschiedliche Arten von Nachrichten:
+  - Anfrage vom Client (Request)
+  - Antwort vom Server (Response) an den Client
+- Nachricht besteht aus 2 Teilen: http-Header + http-Body
+- HTTPS (hypertext transfer protocol secure)
+  - Übertragung von http über TLS (Transportverschlüsselung und Authentifizierung des Servers)
+### Schichtenmodell von TCP/IP – TCP Protokoll:
+- TCP ist das wichtigste Protokoll der Transportschicht
+- Aufgaben:
+  - Fügt IP-Pakete zusammen
+  - fordert verloren gegangene Pakete nach, korrigiert Reihenfolge
+### Schichtenmodell von TCP/IP – IP Protokoll:
+- Internet Protocol (IP) = Protokoll oder Regelsatz zum Weiterleiten und Adressieren von Datenpaketen, damit diese über Netzwerke übertragen und am richtigen Ziel ankommen
+- Daten, die das Internet durchlaufen, sind in kleinere Teile unterteilt, die man Pakete nennt
 # 12 Datenspeicherung
