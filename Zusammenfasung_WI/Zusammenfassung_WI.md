@@ -586,7 +586,7 @@ Für eine erfolgreiche Entwicklung braucht man ein gutes, …
 
 ➔ Reihenfolge der Projekte wird hauptsächlich anhand Kosten und Nutzen bestimmt.
 
-![Kosten Nutzen](52.png)
+![Kosten Nutzen](attachments/52.png)
 
 ## Phasen und Tätigkeiten im Rahmen der IS-Entwicklung
 
