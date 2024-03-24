@@ -39,7 +39,7 @@ In der Era der Ming Dynastie wurde die Mauer groß erweitert um sich vor den Mon
 Das Mausoleum wurde für den [ersten Kaiser von Qin][12] gebaut.
 Es ist mit [Jade][13] und Gold dekoriert und dient nach seinem Tod als die Grabstätte des Kaisers.
 ### [Terrakotta-Armee][14]
-[Terrakotta-Armee][https://upload.wikimedia.org/wikipedia/commons/7/7a/Xian_museum.jpg]
+[Terrakotta-Armee](https://upload.wikimedia.org/wikipedia/commons/7/7a/Xian_museum.jpg)
 
 Die Terrakotta-Armee besteht aus ~9000 Statuen welche verschiedenste Rollen darstellen. Sie diente als Grabdenkmal um den Kaiser im Leben nach dem Tod zu schützen.
 
