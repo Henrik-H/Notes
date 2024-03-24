@@ -43,7 +43,7 @@ Es ist mit [Jade][13] und Gold dekoriert und dient nach seinem Tod als die Grabs
 
 Die Terrakotta-Armee besteht aus ~9000 Statuen welche verschiedenste Rollen darstellen. Sie diente als Grabdenkmal um den Kaiser im Leben nach dem Tod zu schützen.
 
-# [Architektur][6]
+# [Architektur][5]
 [Iron Pagoda](https://upload.wikimedia.org/wikipedia/commons/b/b2/Iron_Pagoda_Cropped.jpg)
 
 Die Architektur hat einen starken Fokus auf Symmetrie. Meist ist die Tiefe eines Gebäudes in eine gerade Anzahl an Abschnitten unterteilbar und die Breite in ungerade, sodass die Tür mittig plaziert werden kann.
@@ -65,15 +65,15 @@ In der traditionellen Literatur gibt es die "Fünf Klassiker" und "Vier Bücher"
 3. Zhongyong - "Doctrine of the Mean"
 4. Daxue - "Great Learning"
 
-# [Panda][7]
+# [Panda][6]
 Nationaltier Chinas. Füher wurden Pandas oft an andere Länder als Form eines [diplomatischen Geschenks][15] vergeben. Heutzutage gehören fast alle Pandas dem Land China und sie werden nur noch verliehen.
 
-# [Chinesische Drache][16]
+# [Chinesische Drache][10]
 [dragon](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Green_Chinese_dragon.PNG/1280px-Green_Chinese_dragon.PNG)
 
 Der Drache ist historisch ein Staats-Symbol welches die Macht des Staates darstellen soll.
 
-# [Pfingstrose][17]
+# [Pfingstrose][7]
 [Pfingstrose](https://upload.wikimedia.org/wikipedia/commons/b/be/Lactiflora1b.UME.jpg)
 
 Die Pfingstose ist Heimisch in China und ist eine Weit verbreitete Zuchtblume.
@@ -86,14 +86,14 @@ Die Guqin ist ein traditionelles Saiteninstrument und wurde 2006 auf die Liste d
 [2]: https://en.wikipedia.org/wiki/List_of_World_Heritage_Sites_in_China
 [3]: https://en.wikipedia.org/wiki/Great_Wall_of_China
 [4]: https://en.wikipedia.org/wiki/Mausoleum_of_the_First_Qin_Emperor
-[6]: https://en.wikipedia.org/wiki/Chinese_architecture
-[7]: https://de.wikipedia.org/wiki/Gro%C3%9Fer_Panda
+[5]: https://en.wikipedia.org/wiki/Chinese_architecture
+[6]: https://de.wikipedia.org/wiki/Gro%C3%9Fer_Panda
+[7]: https://en.wikipedia.org/wiki/Paeonia_lactiflora
 [8]: https://en.wikipedia.org/wiki/Chinese_literature#Classical_texts
 [9]: https://en.wikipedia.org/wiki/Guqin
+[10]: https://en.wikipedia.org/wiki/Chinese_dragon
 [11]: https://de.wikipedia.org/wiki/Zeit_der_Streitenden_Reiche
 [12]: https://de.wikipedia.org/wiki/Qin_Shihuangdi
 [13]: https://de.wikipedia.org/wiki/Jade
 [14]: https://en.wikipedia.org/wiki/Terracotta_Army
 [15]: https://en.wikipedia.org/wiki/Panda_diplomacy
-[16]: https://en.wikipedia.org/wiki/Chinese_dragon
-[17]: https://en.wikipedia.org/wiki/Paeonia_lactiflora
