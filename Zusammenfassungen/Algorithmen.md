@@ -399,7 +399,7 @@ Bei KAen existieren 2 Möglichkeiten der Akzeptanz:
 $M = (Q,\Sigma,\Gamma,\delta,q_0,Z_0,F)$
 
 Die durch einen Endzustand akzeptierte Sprache ist definiert als:\
-$L(M)=\{w|(q_0,w,Z_0)\ _{\vdash}^*\ (p,\varepsilon,\gamma)\text{ für ein } p \in F\text{ und ein }\gamma \in \Gamma^*\}$
+$L(M)= \{ w|(q_0,w,Z_0)\ _{vdash}^*\ (p,\varepsilon,\gamma)\text{ für ein } p \in F\text{ und ein }\gamma \in \Gamma^*\}$
 
 Die durch einen leeren Keller akzeptierte Sprache ist definiert als:\
 $N(M)=\{ w|(q_0,w,Z_0)\ _{\vdash}^*\ (p,\varepsilon,\varepsilon)\text{ für ein }p \in Q\}\text{, wobei }F = \varnothing$
