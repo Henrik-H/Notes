@@ -342,6 +342,68 @@ Mögliche Zhalen, z.B: 10, 67.23, 1.12E6, 178005E-3
 0|(1(0|1)*)\
 Mögliche Zahlen, z.B.: 0,1,10,100,101,1111,100001
 
+## Kontextfreie Grammtiken (kfG)
+
+### Definition
+
+$G=(V,T,P,S)$
+
+$V$ und $T$ sind endliche Mengen von Variablen und Terminalen
+
+$P$ ist eine endliche Menge an Produktionen\
+Jede Produktion ist von der Form $A \rightarrow \alpha$, wobei $A$ eine Variable und $\alpha$ eine Zeichenkette von Symbolen $(V \cup T)^*$ ist.
+
+$S$ ist eine spezielle Variable, die Startsymbol genannt wird
+
+### Beispeil (Grundrechenarten)
+
+$G = (\{E\},\{+,-,\cdot,/,(,),id\}, P,E)$, wobei $P$ aus folgenden Produktionen besteht:
+
+$E \rightarrow E + E$\
+$E \rightarrow E - E$\
+$E \rightarrow E \cdot E$\
+$E \rightarrow E / E$\
+$E \rightarrow (E)$\
+$E \rightarrow id$
+
+Auch so zu schreiben:\
+$E\rightarrow E+E\ |\ E-E\ |\ E\cdot E\ |\ E/E\ |\ (E)\ |\ id$
+
+### Konventionen
+
+- Großbuchstaben $A,B,C,D,E$ und $S$ bezeichnen Variable. $S$ ist, falls nicht anders gesagt, das Startsymbol.
+- Die Kleinbuchstaben $a,b,c,d,e$, Ziffern und fettgedruckte Zeichenketten sind Terminale.
+- Die Großbuchstaben $X,Y,Z$ bezeichnen Symbole, die sowohl Terminale als auch Variable sein können.
+- Die Kleinbuchstaben $u,v,w,x,y,z$ bezeichnen Zeichenketten aus Terminalen.
+- Die griechischen Kleinbuchstaben $\alpha,\beta,\gamma$ bezeichnen Zeichenketten aus Variablen und Terminalen.
+- Wenn man sich an 1.-5. hält, so kann man $(V,T,P,S)$ allein aus den Produktionen herleiten.
+
+### Beispiel
+
+Beschreibung der SPrache $a^n b^n$ mit $n>0$.\
+$G=(V,T,P,S)$, mit\
+$V=\{S\}$,\
+$T=\{a,b\}$\
+$P=\{S\rightarrow aSb, S\rightarrow ab\}$
+
+Wörter der Sprache:\
+ab, aabb, aaabbb, aaaabbbb, ...
+
+### Ableitungsbäume
+Ableitungsbäume (engl. Parse-Tree) stellen Ableitungen graphisch dar\
+Ableitungsbäume geben einer Sprache eine Struktur\
+Nützlich z.B. für den Compilerbau
+
+
+$G = (\{E\},\{+,-,\cdot,/,(,),id\}, P,E)$, wobei $P$ aus folgenden Produktionen besteht:\
+$E\rightarrow E+E\ |\ E-E\ |\ E\cdot E\ |\ E/E\ |\ (E)\ |\ id$
+
+Ableitungsbaum für\
+$(id + id) \cdot id$
+
+![Ableitungsbaum (id+id)*id](attachments/Ableitungsbaum.png)
+
+
 
 # 07 Analyse von Algorithmen
 
