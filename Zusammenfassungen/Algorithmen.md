@@ -79,36 +79,6 @@ $\begin{pmatrix} x' \\ y' \\ 1 \end{pmatrix} = \begin{pmatrix} s_x \ 0 \ 0 \\ 0 
 2. alter rotation
 3. alter translation to original $P_1$
 
-## Lineare Gleichungssysteme
-**Beispiel:**
-- Firma Müller besitzt zwei Maschinen mit jeweils bekanntem max. Ausstoß verkaufsfähiger Teile pro Zeiteinheit (z.B. pro Tag / Stunde / Minute).
-- Auf diesen beiden Maschinen kann die Firma zwei unterschiedliche Produkte (Teile) fertigen.
-- Für die Produktion der Teile fallen je Maschine unterschiedliche Bearbeitungszeiten pro Teil an:
-
-| Maschine | Zeit pro Stück<br>Produkt 1 | Zeit pro Stück<br>Produkt 2 | Kapazität der Maschine |
-|----------|-----------------------------|-----------------------------|------------------------|
-| M1       | 2                           | 2                           | 32                     |
-| M2       | 1                           | 3                           | 24                     |
-
-- Die Nachfrage nach den Produkten der Fa. Müller sei enorm groß.
-- Frage: Welche Stückzahlen kann die Firma max. pro Zeiteinheit herstellen?
-
-**Austellen der Gleichungen:**
-
-$2x_1 + 2x_2 = 32$
-$1x_1 + 3x_2 = 24$
-
-**Matrixdarstellung:**
-$Ax = b$
-$(^{2 \ \ 2} _{1 \ \ 3}) (^{x_1} _{x_2}) = (^{32} _{24}) \ mit \ A = (^{2 \ \ 2} _{1 \ \ 3}), x = (^{x_1} _{x_2}), b = (^{32} _{24})$
-
-Frage: Wie lauten $x_1$ und $x_2$ , damit das Gleichungssystem $Ax=b$ erfüllt ist.
-
-# 04 Graphen
-Ein Graph besteht aus:
- - einer Menge E von Ecken
- - einer Menge K von Kanten
-
 ## Darstellung
 $E = \{e_1, e_2, e_3, e_4, e_5 \}$
 
