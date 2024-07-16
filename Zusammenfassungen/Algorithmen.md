@@ -63,8 +63,6 @@ $c_{ji} = \sum^n_{j=1} a_{ij} b_{jk}$
 ## Rotation
 $(^{x'} _{y'}) = (^{cos \theta \ \ -sin \theta} _{sin \theta \ \ \ \ \ cos \theta}) \cdot(^x_y)$
 
-![einheitskreis](attachments/einheitskreis.png)
-
 ## Translation
 Achtung: Die Multiplikation ist i.A. nicht kommutativ! D.h.: Reihenfolge beachten!
 Vorteil (analog zu Rotation und Skalierung): Bei Verkettung mehrerer Translationen und Anwendung auf ggf. eine Vielzahl von Punkten, kann man alle Einzelmatrizen zunächst zu einer multiplizieren und diese dann auf die Punkte anwenden.
