@@ -403,7 +403,63 @@ $(id + id) \cdot id$
 
 ![Ableitungsbaum (id+id)*id](attachments/Ableitungsbaum.png)
 
+## Kellerautomaten
+Ein KA ist ein EA, der um einen Keller (engl. Stack) erweitert wurde.
 
+KAen sind i.a. nichtdeterministisch! Die deterministische Form des KA akzeptiert nur eine Teilmenge der kfG!\
+Diese Teilmenge ist jedoch für die Syntax vieler Programmiersprachen ausreichend.
+
+![Kellerautomat](attachments/Kellerautomat.png)
+
+### Definition
+
+| $M = (Q,\Sigma,\Gamma,\delta,q_0,Z_0,F)$                                                         | Kellerautomat                     |
+|--------------------------------------------------------------------------------------------------|-----------------------------------|
+| $Q$                                                                                              | endliche Zustandsmenge            |
+| $\Sigma$                                                                                         | endliches Eingabealphabet         |
+| $\Gamma$                                                                                         | endliches Kelleralphabet          |
+| $\delta : Q \times ( \Sigma \cup \{\varepsilon\})\times \Gamma \rightarrow P(Q \times \Gamma^*)$ | Zustandsübergangsfunkbon          |
+| $q_0 \in Q$                                                                                      | Anfangszustand                    |
+| $Z_0 \in \Gamma$                                                                                 | Kellergrundsymbol (Anfangssymbol) |
+| $F \subseteq Q$                                                                                  | Menge möglicher Endzustände       |
+
+\
+Eine Zustandsbeschreibung ist ein Tripel $(q,w,\gamma)$
+| $(q,w,\gamma)$           | Zustandsbeschreibung          |
+|--------------------------|-------------------------------|
+| $q \in Q, w \in \Sigma*$ | Eingabezeichenkette           |
+| $\gamma \in \Gamma*$     | eine Folge von Kellersymbolen |
+
+
+### Konventionen 
+
+- Kleinbuchstaben vom Anfang des Alphabets (z.B. $a,b,c$) werden als Eingabesymbole verwendet.
+- Kleinbuchstaben vom Ende des Alphabets (z.B. $x,y,z$) werden als Zeichenketten von Eingabesymbolen verwendet.
+- Großbuchstaben bezeichnen Kellersymbole
+- Griechische Kleinbuchstaben bezeichnen Zeichenketten von Kellersymbolen
+
+### Akzeptierte Sprache
+Bei KAen existieren 2 Möglichkeiten der Akzeptanz:
+- Erreichen eines Endzustands
+- Leeren des Kellers
+
+$M = (Q,\Sigma,\Gamma,\delta,q_0,Z_0,F)$
+
+Die durch einen Endzustand akzeptierte Sprache ist definiert als:\
+$L(M)=\{w|(q_0,w,Z_0\}\ _{\vdash}^*\ (p,\varepsilon,\gamma)$ für ein $p \in F$ und ein $\gamma \in \Gamma^*\}$
+
+Die durch einen leeren Keller akzeptierte Sprache ist definiert als:\
+$N(M)=\{w|(q_0,w,Z_0\}\ _{\vdash}^*\ (p,\varepsilon,\varepsilon)$ für ein $p \in Q\}$, wobei $F = \varnothing$
+
+## Deterministische Kellerautomaten
+
+Ein KA $M = (Q,\Sigma,\Gamma,\delta,q_0,Z_0,F)$ ist deterministisch, wenn:
+1. für jedes $q \in Q$ und $Z \in \Gamma$ gilt, dass $\delta(q,a,Z)$ für alle $a \in \Sigma$ leer sein muss, wenn $\delta(q,\varepsilon,\Sigma)$ nicht leer ist;
+2. für kein $q \in Q, Z \in \Gamma$ und $a \in \Sigma \cup \{\varepsilon\}$ in $\delta(q,a,Z)$ mehr als ein Element enthalten ist.
+
+Erläuterung:
+1. verhindert die Wahlmöglichkeit zwischen Eingabesymbolabhängigen und -unabhängigen (e-Bewegungen) Schritten.
+2. schränkt die Wahlmöglichkeiten soweit ein, dass sie eindeutig werden.
 
 # 07 Analyse von Algorithmen
 
