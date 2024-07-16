@@ -63,7 +63,6 @@ Es sei $A$ eine $(n \times n)$ Matrix. $A = (a_{ij})$ heißt:
 - Diagonalmatrix, wenn $a_{ij} = 0$ für alle $i \neq j$
 - obere Dreiecksmatrix, wenn $a_{ij}$ für alle $i \gt j$
 - unterer Dreiecksmatrix, wenn $a_{ij}$ für alle $i \lt j$
-- test
 
 ## Matrixaddition
 Für zwei $(m \times n)$ Matrizen $A= (a_{ij})$ und $B= (b_{ij})$ sei definiert:
