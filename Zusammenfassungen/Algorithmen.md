@@ -1,20 +1,3 @@
-# 01 Einführung
-## Pflichtlektüre
-[Pflichtlektüre](https://ebookcentral.proquest.com/lib/hdm-stuttgart/reader.action?docID=6379309)
-
-Besonders wichtige Kapitel:
-- 1
-- 3
-- 5
-- 7.3
-- 8.3
-- 8.5
-- 12
-- 13
-- 14
-- 14.3
-- 16
-
 # 02 Grundlegende Datenstrukturen
 ## Feld / array
 - elementare Datenstrukturen
