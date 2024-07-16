@@ -247,11 +247,11 @@ $F = { q_2 }$
 
 ### $\delta$-Tableaus
 
-|              | a             | b             |
-|--------------|---------------|---------------|
-| $\bold{q_0}$ | $q_0$         | $\varnothing$ |
-| $\bold{q_1}$ | $q_1$         | $q_2$         |
-| $\bold{q_2}$ | $\varnothing$ | $\varnothing$ |
+|       | a             | b             |
+|-------|---------------|---------------|
+| $q_0$ | $q_0$         | $\varnothing$ |
+| $q_1$ | $q_1$         | $q_2$         |
+| $q_2$ | $\varnothing$ | $\varnothing$ |
 
 
 ## Nichtdeterministische endliche Automaten
@@ -305,8 +305,6 @@ $L(A) = \{w | \^\delta(q_0,w) \textnormal{ enthält einen Zustand aus F} \}$
 
 ## Reguläre Ausdrücke
 
-### Kleensche Hülle
-
 Die Kleensche Hülle von $L$, kurz $L^*$, ist die Menge
 
 $L^*= \bigcup_{l=0}^\infty L^i$
@@ -316,15 +314,34 @@ Die Positive Hülle von $L$, kurz $L^+$, ist die Menge
 
 $L^*= \bigcup_{l=1}^\infty L^i$
 
-#### Beispiel:
+> Prioriät: \*, dann Konkatenation, dann + \
+> 01*+0 statt ((0(1*))+1)
 
-${\{"ab","c"\}}^*=\{\epsilon, "a", "b", "c", "aa", "ab", "ac", "ba", "bb", "bc", "ca", "cb", "cc", "aaa", "aab", ...\}$
+#### Beispiele:
+
+${\{"ab","c"\}}^*=\{\varepsilon, "a", "b", "c", "aa", "ab", "ac", "ba", "bb", "bc", "ca", "cb", "cc", "aaa", "aab", ...\}$
 
 ${\{"ab","c"\}}^+=\{"a", "b", "c", "aa", "ab", "ac", "ba", "bb", "bc", "ca", "cb", "cc", "aaa", "aab", ...\}$
 
-$\varnothing^*=\{\epsilon\}$
+<br>
 
-$\varnothing^+= \{\} = \varnothing$
+$L_1 = \{a,aa,aaa\}$
+
+$L_2 = \{b,bb,bbb\}$
+
+$L_1L_2 = \{ab,aab,aaab,abb,aabb,aaabb,abbb,aabbb,aaabbb\}$
+
+<br>
+
+digit+(.digit+)?(E(+|-)?digit+)? \
+wobei digit $\rightarrow$ 0|1|...|9 \
+Mögliche Zhalen, z.B: 10, 67.23, 1.12E6, 178005E-3
+
+<br>
+
+0|(1(0|1)*)\
+Mögliche Zahlen, z.B.: 0,1,10,100,101,1111,100001
+
 
 # 07 Analyse von Algorithmen
 
