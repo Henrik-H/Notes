@@ -37,10 +37,12 @@ Pop: Auslesen bei (idr.) gleichzeitigem Entfernen des obersten Elements
 ## Rechnen mit Vektoren
 ### Skalarmultiplikation
 $\lambda a = ( ^{\lambda a_1}_{\lambda a_2} )$
+
 ### Länge
 $||a|| = \sqrt{a^2_1 + ... + a^2_n}$
+
 ## Transposition
-Due zu $A$ transponierte Matrix $A^T$ entsteht durch Vertauschen der Zeien und Spalten bzw. durch die Spiegelung der Einträge von $A$ an der Hauptdiagonalen.
+Die zu $A$ transponierte Matrix $A^T$ entsteht durch Vertauschen der Zeien und Spalten bzw. durch die Spiegelung der Einträge von $A$ an der Hauptdiagonalen.
 
 Es sei $A$ eine $(n \times n)$ Matrix. $A = (a_{ij})$ heißt:
 - Diagonalmatrix, wenn $a_{ij} = 0$ für alle $i \neq j$
@@ -60,22 +62,36 @@ $\lambda A = ( \lambda a_{ji})$
 ## Matrixmultiplikation
 $c_{ji} = \sum^n_{j=1} a_{ij} b_{jk}$
 
-## Rotation
-$(^{x'} _{y'}) = (^{cos \theta \ \ -sin \theta} _{sin \theta \ \ \ \ \ cos \theta}) \cdot(^x_y)$
-
-## Translation
-Achtung: Die Multiplikation ist i.A. nicht kommutativ! D.h.: Reihenfolge beachten!
-Vorteil (analog zu Rotation und Skalierung): Bei Verkettung mehrerer Translationen und Anwendung auf ggf. eine Vielzahl von Punkten, kann man alle Einzelmatrizen zunächst zu einer multiplizieren und diese dann auf die Punkte anwenden.
-
-$\begin{pmatrix} x' \\ y' \\ 1 \end{pmatrix} = \begin{pmatrix} 1 \ 0 \ d_x \\ 0 \ 1 \ d_y \\ 0 \ 0 \ 1 \end{pmatrix} \cdot \begin{pmatrix} x \\ y \\ 1 \end{pmatrix}$
-
-## Skalierung
-$\begin{pmatrix} x' \\ y' \\ 1 \end{pmatrix} = \begin{pmatrix} s_x \ 0 \ 0 \\ 0 \ s_y \ 0 \\ 0 \ 0 \ 1 \end{pmatrix} \cdot \begin{pmatrix} x \\ y \\ 1 \end{pmatrix}$
-
 ## Komposiotion von 2D-Transformationen
 1. alter translation $P_1$ to origin
 2. alter rotation
 3. alter translation to original $P_1$
+
+## Translation
+### 2d
+$\begin{pmatrix} x' \\ y' \end{pmatrix} = \begin{pmatrix} x \\ y \end{pmatrix} + \begin{pmatrix} d_x \\ d_y \end{pmatrix}$
+
+### 3d
+$\begin{pmatrix} x' \\ y' \\ 1 \end{pmatrix} = \begin{pmatrix} 1 \ 0 \ d_x \\ 0 \ 1 \ d_y \\ 0 \ 0 \ 1 \end{pmatrix} \cdot \begin{pmatrix} x \\ y \\ 1 \end{pmatrix}$
+
+## Skalierung
+### 2d
+$\begin{pmatrix} x' \\ y' \end{pmatrix} = \begin{pmatrix} s_x \ 0 \\ 0 \ s_y \end{pmatrix} \cdot \begin{pmatrix} x \\ y \end{pmatrix}$
+
+### 3d
+$\begin{pmatrix} x' \\ y' \\ 1 \end{pmatrix} = \begin{pmatrix} s_x \ 0 \ 0 \\ 0 \ s_y \ 0 \\ 0 \ 0 \ 1 \end{pmatrix} \cdot \begin{pmatrix} x \\ y \\ 1 \end{pmatrix}$
+
+
+## Rotation
+> Bei positivem $\theta$ erfolgt die Rotation gegen den Uhrzeigersinn!
+
+### 2d
+$\begin{pmatrix} x' \\ y' \\ \end{pmatrix} = \begin{pmatrix} \cos \theta \ - \sin \theta \\ \sin \theta \ \cos \theta\end{pmatrix} \cdot \begin{pmatrix} x \\ y \end{pmatrix}$
+
+### 3d
+$\begin{pmatrix} x' \\ y' \\ 1 \end{pmatrix} = \begin{pmatrix} \cos \theta \ - \sin \theta \ 0 \\ \sin \theta \ \cos \theta \ 0 \\ 0 \ 0 \ 1 \end{pmatrix} \cdot \begin{pmatrix} x \\ y \\ 1 \end{pmatrix}$
+
+# 04 Graphen
 
 ## Darstellung
 $E = \{e_1, e_2, e_3, e_4, e_5 \}$
