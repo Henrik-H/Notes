@@ -164,7 +164,7 @@ Speicherverbrauch ist somit direkt von der Anzahl der Kanten des Graphs abhängi
 Mittels Adjazenzlisten können gerichtete und ungerichtete Graphen dargestellt werden.
 
 ## Inzidenzmatrix
-### Gerichtet
+### Ungerichtet
 Inzidenzmatrix $I$ eines ungerichteten Graphen, mit:
 $0$, wenn die Kante $k_m$ nicht mit $e_n$ inzidiert.
 $1$, wenn die Kante $k_m$ mit $e_n$ inzidiert.
@@ -172,7 +172,7 @@ $2$, wenn die Kante $k_m$ eine Schlinge an $e_n$ ist.
 
 > Die Spaltensummen ergeben stets 2
 
-### Ungerichtet
+### Gerichtet
 Inzidenzmatrix $I$ eines gerichteten Graphen, mit:
 $0$, wenn die Kante $k_m$ nicht mit $e_n$ inzidiert.
 $1$, wenn $e_n$ Startecke der Kante $k_m$ ist.
